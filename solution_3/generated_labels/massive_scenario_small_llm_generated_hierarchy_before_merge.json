@@ -1,0 +1,6739 @@
+[
+  "datetime",
+  "recommendation",
+  "iot",
+  {
+    "Weather": [
+      {
+        "sentence": "what is today's forecast for berlin",
+        "label": "recommendation",
+        "topic": "Weather Forecast"
+      },
+      {
+        "sentence": "what is the current temperature outside",
+        "label": "recommendation",
+        "topic": "Current Temperature"
+      },
+      {
+        "sentence": "should i bring a jacket with me tonight",
+        "label": "recommendation",
+        "topic": "Weather-Based Clothing Advice"
+      },
+      {
+        "sentence": "will the temperature stay about the same or is it going to get colder",
+        "label": "recommendation",
+        "topic": "Temperature Trend Forecast"
+      }
+    ],
+    "Food & Dining": [
+      {
+        "sentence": "can i get take-out from pf changs",
+        "label": "recommendation",
+        "topic": "Restaurant Takeout Availability"
+      },
+      {
+        "sentence": "what's the easiest way to cook pasta",
+        "label": "recommendation",
+        "topic": "Cooking Instructions"
+      }
+    ],
+    "Communication": [
+      {
+        "sentence": "send a reply to the last email",
+        "label": "email",
+        "topic": "Reply to Email"
+      }
+    ],
+    "Finance": [
+      {
+        "sentence": "list exchange rate information for the day for u. s. d. to jpy",
+        "label": "finance",
+        "topic": "Currency Exchange Rate"
+      }
+    ],
+    "Calendar & Scheduling": [
+      {
+        "sentence": "what time is my doctor appointment on march thirty first",
+        "label": "datetime",
+        "topic": "Appointment Lookup"
+      },
+      {
+        "sentence": "please schedule a meeting with this person",
+        "label": "datetime",
+        "topic": "Meeting Scheduling"
+      },
+      {
+        "sentence": "mark april twenty as my brother's birthday",
+        "label": "datetime",
+        "topic": "Add Calendar Event"
+      }
+    ],
+    "Reminders & Alerts": [
+      {
+        "sentence": "please remind me about this tomorrow",
+        "label": "datetime",
+        "topic": "Set Reminder"
+      },
+      {
+        "sentence": "i want you to make alert in the evening about upcoming meeting",
+        "label": "datetime",
+        "topic": "Create Alert"
+      }
+    ],
+    "Smart Home": [
+      {
+        "sentence": "what alarms i have set",
+        "label": "iot",
+        "topic": "View Alarm Settings"
+      },
+      {
+        "sentence": "switch off the lights",
+        "label": "iot",
+        "topic": "Control Lights"
+      }
+    ]
+  },
+  {
+    "Productivity & Scheduling": [
+      "datetime",
+      "Calendar Events",
+      "Reminders",
+      "Alarms"
+    ],
+    "Smart Home & Device Control": [
+      "iot",
+      "Audio Control",
+      "Lighting Control"
+    ],
+    "Information & Recommendations": [
+      "recommendation",
+      "News",
+      "Celebrity Information",
+      "Research"
+    ],
+    "Communication & Email": [
+      "Email Search",
+      "Email Sending"
+    ],
+    "Contacts & Phonebook": [
+      "Contact Lookup",
+      "Phone Number Lookup"
+    ],
+    "Apps & Entertainment": [
+      "App Launching",
+      "Games"
+    ],
+    "Calendar Management": [
+      "Date Deletion"
+    ]
+  },
+  {
+    "Productivity & Scheduling": [
+      "datetime"
+    ],
+    "Information & Recommendations": [
+      "recommendation"
+    ],
+    "Smart Devices & IoT": [
+      "iot"
+    ],
+    "Media & Entertainment": [
+      "music_playback",
+      "podcast_playback",
+      "tv_show_playback"
+    ],
+    "Communication": [
+      "email_check",
+      "email_reply"
+    ],
+    "Cooking & Food": [
+      "recipe_query"
+    ],
+    "Knowledge & Search": [
+      "product_description",
+      "math_query",
+      "news_query"
+    ]
+  },
+  {
+    "Productivity & Scheduling": [
+      "datetime",
+      "Calendar Availability",
+      "Appointment Rescheduling",
+      "Appointment Cancellation",
+      "Notes Retrieval",
+      "List Deletion"
+    ],
+    "Media & Recommendations": [
+      "recommendation",
+      "Music Playback Control",
+      "Podcast Recommendation",
+      "Book Recommendation"
+    ],
+    "Smart Home & IoT": [
+      "iot",
+      "Alarm Review"
+    ],
+    "Information & Knowledge": [
+      "Current Time Lookup",
+      "Person Information",
+      "Technical Explanation"
+    ],
+    "Communication & Social": [
+      "Social Media Posting"
+    ],
+    "Emotion & Wellness": [
+      "Emotion Tracking",
+      "Emotional Expression"
+    ]
+  },
+  {
+    "Food & Dining": [
+      "Cooking Instructions",
+      "Restaurant Takeaway Inquiry"
+    ],
+    "Finance": [
+      "Stock Price Details"
+    ],
+    "Productivity & Organization": [
+      "Kitchen List Creation",
+      "Email Archiving",
+      "Calendar Cancellation via Email",
+      "Email Search",
+      "Calendar Events Lookup"
+    ],
+    "Entertainment": [
+      "Game Launch",
+      "Media Playback"
+    ],
+    "Events & Locations": [
+      "Party Location Inquiry"
+    ],
+    "Reference & Facts": [
+      "Person Residence Inquiry",
+      "Astronomy Distance Question",
+      "Current Date"
+    ],
+    "Editing & Replacement": [
+      "Replace Command"
+    ]
+  },
+  {
+    "Productivity & Scheduling": [
+      "datetime",
+      "Calendar Query",
+      "Recurring Reminder",
+      "Time Query"
+    ],
+    "Communication": [
+      "Email Composition",
+      "Contact Lookup"
+    ],
+    "Travel & Transportation": [
+      "Ticket Booking",
+      "Transit Schedule"
+    ],
+    "Weather": [
+      "Weather Forecast"
+    ],
+    "Smart Home & Device Control": [
+      "iot",
+      "Audio Mute Control",
+      "Media Playback"
+    ],
+    "Information & Recommendations": [
+      "recommendation",
+      "Social Media Trends",
+      "Celebrity News",
+      "Political News",
+      "Social Media Alerts"
+    ],
+    "Personal Safety & Incident Reporting": [
+      "Animal Chase Incident"
+    ]
+  },
+  {
+    "Knowledge & Information": [
+      "General Knowledge Query"
+    ],
+    "Time & Date": [
+      "datetime"
+    ],
+    "Travel & Booking": [
+      "Ticket Booking"
+    ],
+    "Calendar & Scheduling": [
+      "Meeting Lookup",
+      "Recurring Event Creation",
+      "Reminder Lookup",
+      "Calendar Deletion",
+      "Meeting Scheduling"
+    ],
+    "Smart Home": [
+      "iot"
+    ],
+    "Media & Entertainment": [
+      "Music Playback",
+      "Podcast Resume",
+      "Game Request"
+    ]
+  },
+  {
+    "Date & Time": [
+      "datetime"
+    ],
+    "Recommendations & Information": [
+      "recommendation"
+    ],
+    "Smart Home & IoT": [
+      "iot"
+    ],
+    "Productivity & Lists": [
+      "list_management"
+    ],
+    "Shopping & Orders": [
+      "order_status",
+      "order_cancellation"
+    ],
+    "Knowledge & Reference": [
+      "definition",
+      "fact_lookup",
+      "news"
+    ],
+    "Social & Greetings": [
+      "greetings"
+    ]
+  },
+  {
+    "Knowledge & Information": [
+      {
+        "topic": "Finance / Net Worth Query",
+        "label": "knowledge_query",
+        "sentence": "how much is lebron james worth"
+      },
+      {
+        "topic": "News Request",
+        "label": "recommendation",
+        "sentence": "i want to hear the latest world news from today"
+      },
+      {
+        "topic": "Social Media Feed Inquiry",
+        "label": "social_media",
+        "sentence": "what does my facebook feed look like"
+      },
+      {
+        "topic": "News Headlines Request",
+        "label": "recommendation",
+        "sentence": "read me the latest headlines from nytimescom"
+      },
+      {
+        "topic": "General Updates Inquiry",
+        "label": "news_update",
+        "sentence": "new updates"
+      },
+      {
+        "topic": "Currency Conversion",
+        "label": "knowledge_query",
+        "sentence": "what is the dollar price in inr"
+      }
+    ],
+    "Media & Entertainment": [
+      {
+        "topic": "Audiobook / Media Playback",
+        "label": "recommendation",
+        "sentence": "play the twilight book"
+      }
+    ],
+    "Date & Time": [
+      {
+        "topic": "Day Verification",
+        "label": "datetime",
+        "sentence": "is it wednesday"
+      }
+    ],
+    "Productivity & Organization": [
+      {
+        "topic": "List Creation",
+        "label": "list_management",
+        "sentence": "make a grocery list please"
+      },
+      {
+        "topic": "Email Composition",
+        "label": "communication",
+        "sentence": "send email to boss saying i will be late"
+      },
+      {
+        "topic": "Reminder / List Count",
+        "label": "list_management",
+        "sentence": "remind me of how many lists i have"
+      }
+    ],
+    "Smart Home & Device Control": [
+      {
+        "topic": "Alarm Setup / Repair",
+        "label": "iot",
+        "sentence": "fix alarm"
+      }
+    ],
+    "Social & Communication": [
+      {
+        "topic": "Social Media Posting",
+        "label": "social_media",
+        "sentence": "post this to my facebook l. o. l."
+      }
+    ],
+    "Miscellaneous": [
+      {
+        "topic": "Unknown / Ambiguous Response",
+        "label": "unknown",
+        "sentence": "nobody knows"
+      },
+      {
+        "topic": "Numeric Input",
+        "label": "unknown",
+        "sentence": "seven hundred"
+      }
+    ]
+  },
+  {
+    "Date & Time": [
+      "datetime"
+    ],
+    "Recommendations & Media": [
+      "recommendation"
+    ],
+    "Smart Devices & Automation": [
+      "iot"
+    ],
+    "Weather": [
+      "weather_query"
+    ],
+    "Dictionary & Definitions": [
+      "definition"
+    ],
+    "Finance": [
+      "exchange_rates"
+    ],
+    "Communication": [
+      "email_send",
+      "email_reply"
+    ],
+    "Calendar & Reminders": [
+      "set_reminder",
+      "delete_alarm",
+      "cancel_scheduled_event"
+    ],
+    "Music & Audio Playback": [
+      "podcast_playback",
+      "music_streaming"
+    ],
+    "News & Public Figures": [
+      "person_information"
+    ]
+  },
+  {
+    "Weather": [
+      "datetime",
+      "weather_forecast",
+      "weather_check",
+      "seasonal_advice"
+    ],
+    "Media & Entertainment": [
+      "iot",
+      "music_playback",
+      "music_preferences",
+      "music_metadata",
+      "playlist_management",
+      "gaming"
+    ],
+    "Communication": [
+      "email_reply",
+      "email_check",
+      "chat"
+    ],
+    "Recommendations & Advice": [
+      "recommendation",
+      "clothing_advice",
+      "vehicle_maintenance_advice"
+    ],
+    "Vision & Object Query": [
+      "object_attribute_query"
+    ]
+  },
+  {
+    "Science & Geography": [
+      "Astronomy",
+      "Geography"
+    ],
+    "Productivity & Personal Organization": [
+      "Shopping List Management",
+      "Calendar Management",
+      "Reminders",
+      "Meeting History",
+      "Messaging"
+    ],
+    "News & Information": [
+      "Financial News",
+      "International News",
+      "Dictionary / Word Meaning"
+    ],
+    "Entertainment & Music": [
+      "Music Playback",
+      "Artist Playback"
+    ],
+    "Smart Home & IoT": [
+      "Climate Control",
+      "Weather"
+    ],
+    "Preferences & Saved Items": [
+      "Save Opinion"
+    ]
+  },
+  {
+    "Smart Home": [
+      "iot"
+    ],
+    "Date & Time": [
+      "datetime"
+    ],
+    "Recommendations & Discovery": [
+      "recommendation"
+    ],
+    "Cooking & Food": [
+      "recipe_request"
+    ],
+    "Knowledge & Definitions": [
+      "definition",
+      "comparison",
+      "explanation"
+    ],
+    "Media Control": [
+      "volume_control",
+      "playback_repeat",
+      "music_play",
+      "radio_tuning",
+      "song_identification",
+      "music_preference"
+    ],
+    "Local Information": [
+      "theater_search",
+      "local_news"
+    ],
+    "Personal Advice": [
+      "social_advice"
+    ]
+  },
+  {
+    "Media & Entertainment": [
+      "Music Identification",
+      "Music Playback Control"
+    ],
+    "Travel & Transportation": [
+      "Train Ticket Booking",
+      "Location Query"
+    ],
+    "News & Information": [
+      "News Update",
+      "Dictionary / Definition"
+    ],
+    "Family & Lifestyle": [
+      "Parenting"
+    ],
+    "Product & Service Information": [
+      "Product Roadmap / Future Features",
+      "Order Delivery Time"
+    ],
+    "Food & Cooking": [
+      "Recipe Ingredients"
+    ],
+    "Productivity & Scheduling": [
+      "Reminder Creation",
+      "Calendar Event Creation"
+    ],
+    "Shopping & Lists": [
+      "Grocery List Check"
+    ]
+  },
+  {
+    "Weather": [
+      "datetime",
+      "weather_forecast"
+    ],
+    "Knowledge": [
+      "definition",
+      "news"
+    ],
+    "Media & Entertainment": [
+      "iot",
+      "music_playback"
+    ],
+    "Communication": [
+      "email",
+      "social_posting",
+      "call_history"
+    ],
+    "Productivity": [
+      "shopping_list_create",
+      "shopping_list_read",
+      "calendar_delete",
+      "calendar_schedule"
+    ],
+    "Cooking": [
+      "recipe",
+      "appliance_setup"
+    ],
+    "Recommendations": [
+      "recommendation"
+    ],
+    "Impossible or Nonsensical Requests": [
+      "transformation"
+    ]
+  },
+  {
+    "Cooking & Food": [
+      {
+        "sentence": "how long do i cook maccoroni",
+        "topic": "Cooking Time",
+        "label": "cooking"
+      },
+      {
+        "sentence": "hey order two wings with french fries from the chinese food store",
+        "topic": "Food Delivery Order",
+        "label": "food_ordering"
+      }
+    ],
+    "Transportation & Travel": [
+      {
+        "sentence": "can you book an uber tomorrow",
+        "topic": "Ride Booking",
+        "label": "recommendation"
+      },
+      {
+        "sentence": "what is the quickest way to my work downtown without hitting any traffic",
+        "topic": "Route Planning",
+        "label": "navigation"
+      },
+      {
+        "sentence": "cancel my plans to pick up my parents from the airport",
+        "topic": "Plan Cancellation",
+        "label": "calendar"
+      },
+      {
+        "sentence": "book my train ticket from las vegas to los angeles",
+        "topic": "Train Ticket Booking",
+        "label": "travel_booking"
+      },
+      {
+        "sentence": "reserve the closest uber",
+        "topic": "Ride Booking",
+        "label": "recommendation"
+      }
+    ],
+    "Shopping & Retail": [
+      {
+        "sentence": "where does kate middleton buy her kids clothes",
+        "topic": "Store Recommendation",
+        "label": "recommendation"
+      },
+      {
+        "sentence": "add red wine to my shopping list",
+        "topic": "Shopping List Management",
+        "label": "shopping_list"
+      }
+    ],
+    "Smart Home & IoT": [
+      {
+        "sentence": "check if alarm is set for six am",
+        "topic": "Alarm Status Check",
+        "label": "iot"
+      }
+    ],
+    "Entertainment & Social": [
+      {
+        "sentence": "tell me the funniest joke that was ever told",
+        "topic": "Joke Request",
+        "label": "entertainment"
+      },
+      {
+        "sentence": "send a tweet about sonys volume issues",
+        "topic": "Social Media Posting",
+        "label": "social_media"
+      }
+    ],
+    "News & Information": [
+      {
+        "sentence": "what are the latest news headlines",
+        "topic": "News Update",
+        "label": "news"
+      },
+      {
+        "sentence": "how would you describe a ball",
+        "topic": "Object Description",
+        "label": "general_knowledge"
+      },
+      {
+        "sentence": "more stock price",
+        "topic": "Stock Market Update",
+        "label": "finance"
+      }
+    ]
+  },
+  {
+    "Calendar & Scheduling": [
+      "datetime"
+    ],
+    "Smart Home & Devices": [
+      "iot"
+    ],
+    "Media & Recommendations": [
+      "recommendation"
+    ],
+    "Communication": [
+      "Email"
+    ],
+    "Cooking & Recipes": [
+      "Recipe Request"
+    ],
+    "News & Information": [
+      "News Query"
+    ],
+    "Food & Local Services": [
+      "Restaurant Delivery"
+    ],
+    "Weather": [
+      "Weather Query"
+    ],
+    "General / Unclear": [
+      "Unclear Statement"
+    ]
+  },
+  {
+    "Media & Entertainment": [
+      {
+        "sentence": "i want to hear purple haze",
+        "label": "recommendation",
+        "topic": "Music Playback"
+      },
+      {
+        "sentence": "what are todays top podcasts",
+        "label": "recommendation",
+        "topic": "Podcast Recommendations"
+      }
+    ],
+    "Calendar & Scheduling": [
+      {
+        "sentence": "block one hour from ten tomorrow morning",
+        "label": "datetime",
+        "topic": "Create Calendar Block"
+      },
+      {
+        "sentence": "plan for tomorrow",
+        "label": "datetime",
+        "topic": "Daily Schedule Overview"
+      },
+      {
+        "sentence": "i need to confirm all meetings for today can the invite person",
+        "label": "datetime",
+        "topic": "Meeting Confirmation"
+      }
+    ],
+    "Contacts & Communication": [
+      {
+        "sentence": "jay's phone number",
+        "label": "contact_lookup",
+        "topic": "Phone Number Lookup"
+      },
+      {
+        "sentence": "send an email to jerry ask what time will he be home tonight",
+        "label": "email",
+        "topic": "Compose and Send Email"
+      },
+      {
+        "sentence": "please check new email from andy",
+        "label": "email",
+        "topic": "Check Incoming Email"
+      }
+    ],
+    "Alarms & Reminders": [
+      {
+        "sentence": "what times do my alarms go off",
+        "label": "datetime",
+        "topic": "Alarm Schedule Query"
+      },
+      {
+        "sentence": "give me an update on the election in one hour",
+        "label": "datetime",
+        "topic": "Set Timed Reminder"
+      }
+    ],
+    "Weather": [
+      {
+        "sentence": "will it be raining on thursday",
+        "label": "weather",
+        "topic": "Rain Forecast"
+      }
+    ],
+    "General Knowledge & Information": [
+      {
+        "sentence": "love",
+        "label": "knowledge",
+        "topic": "Definition or Information Request"
+      }
+    ],
+    "Travel & Transportation": [
+      {
+        "sentence": "book a train ticket from baltimore maryland to new york new york",
+        "label": "booking",
+        "topic": "Train Ticket Booking"
+      }
+    ],
+    "Community & Lifestyle": [
+      {
+        "sentence": "tell me something i can do to help my community today",
+        "label": "recommendation",
+        "topic": "Community Activity Suggestions"
+      }
+    ],
+    "Smart Home / IoT": [
+      {
+        "sentence": "increase the brightness of the lights",
+        "label": "iot",
+        "topic": "Light Brightness Control"
+      }
+    ]
+  },
+  {
+    "Productivity": [
+      "datetime",
+      "Email Reply",
+      "Reminders"
+    ],
+    "Media & Entertainment": [
+      "recommendation",
+      "Music Playback",
+      "Podcast Playback"
+    ],
+    "Smart Home": [
+      "iot"
+    ],
+    "Information & Reference": [
+      "Currency Exchange",
+      "Product Description"
+    ],
+    "Local Search & Navigation": [
+      "Place Search"
+    ],
+    "Weather": [
+      "Snow Forecast"
+    ],
+    "Social Media & Communication": [
+      "Social Media Complaint"
+    ]
+  },
+  {
+    "Food & Ordering": [
+      {
+        "sentence": "order pizza for delivery",
+        "topic": "Food Delivery"
+      }
+    ],
+    "Weather": [
+      {
+        "sentence": "how hot is it in quebec",
+        "topic": "Temperature Query"
+      }
+    ],
+    "Productivity & Lists": [
+      {
+        "sentence": "delete list for groceries",
+        "topic": "List Deletion"
+      }
+    ],
+    "Local Search & Recommendations": [
+      {
+        "sentence": "please show me marathon nearby me",
+        "topic": "Nearby Event Search"
+      }
+    ],
+    "Knowledge & Trivia": [
+      {
+        "sentence": "what is the deepest point on earth",
+        "topic": "Geography Fact"
+      }
+    ],
+    "Media & Music": [
+      {
+        "sentence": "identify song",
+        "topic": "Song Identification"
+      },
+      {
+        "sentence": "you like the song",
+        "topic": "Music Preference"
+      },
+      {
+        "sentence": "please select the first song in my itunes library",
+        "topic": "Music Selection"
+      }
+    ],
+    "Finance": [
+      {
+        "sentence": "what is googs current price",
+        "topic": "Stock Price Query"
+      }
+    ],
+    "Communication": [
+      {
+        "sentence": "send mom an email now",
+        "topic": "Send Email"
+      },
+      {
+        "sentence": "reply this mail",
+        "topic": "Reply to Email"
+      }
+    ],
+    "Personal Conversation": [
+      {
+        "sentence": "are you happy",
+        "topic": "Assistant Emotion Query"
+      }
+    ],
+    "Smart Home": [
+      {
+        "sentence": "can you raise the lights for me please",
+        "topic": "Light Control"
+      }
+    ],
+    "Calendar & Scheduling": [
+      {
+        "sentence": "invite people to the calendar event",
+        "topic": "Calendar Invitation"
+      },
+      {
+        "sentence": "i need you to get me up at six am",
+        "topic": "Alarm Setting"
+      }
+    ]
+  },
+  {
+    "Communication": [
+      "email"
+    ],
+    "Productivity": [
+      "datetime",
+      "calendar",
+      "reminder"
+    ],
+    "Food Delivery": [
+      "order_tracking"
+    ],
+    "Media & Entertainment": [
+      "music_playback",
+      "audiobook_playback",
+      "volume_control"
+    ],
+    "Information & Knowledge": [
+      "definition",
+      "general_knowledge",
+      "finance"
+    ],
+    "Weather": [
+      "weather_forecast"
+    ],
+    "Navigation & Transit": [
+      "traffic"
+    ],
+    "Smart Home & IoT": [
+      "iot"
+    ],
+    "Social Media": [
+      "social_post"
+    ],
+    "Shopping & Lists": [
+      "shopping_list"
+    ]
+  },
+  {
+    "Information & Search": [
+      {
+        "topic": "recommendation",
+        "sentences": [
+          "give me the latest news",
+          "what is the nearest pizza shop",
+          "check definition of capricious",
+          "where was steve jobs born"
+        ]
+      }
+    ],
+    "Media & Entertainment": [
+      {
+        "topic": "recommendation",
+        "sentences": [
+          "continue the last chapter of the audio book i was listening to",
+          "i want to hear a station that plays r. & b."
+        ]
+      }
+    ],
+    "Calendar & Scheduling": [
+      {
+        "topic": "datetime",
+        "sentences": [
+          "remove my dinner event for monday",
+          "remind me what i am doing on sunday afternoon"
+        ]
+      }
+    ],
+    "Communication": [
+      {
+        "topic": "email_query",
+        "sentences": [
+          "have i received any emails from jeffrey burnette",
+          "has cassie sent me any emails about tom"
+        ]
+      },
+      {
+        "topic": "email_action",
+        "sentences": [
+          "respond to email",
+          "if it is from a very familiar place mark it as important",
+          "delete it"
+        ]
+      },
+      {
+        "topic": "messaging",
+        "sentences": [
+          "olly i am taking day off tomorrow"
+        ]
+      }
+    ],
+    "Smart Home & IoT": [
+      {
+        "topic": "iot",
+        "sentences": []
+      }
+    ],
+    "Chit-Chat": [
+      {
+        "topic": "social_conversation",
+        "sentences": [
+          "my day was great"
+        ]
+      }
+    ]
+  },
+  {
+    "Device Control": [
+      "iot",
+      "Audio Control",
+      "Appliance Control",
+      "Alarm Management",
+      "Display Date"
+    ],
+    "Media & Music": [
+      "recommendation",
+      "Music Preference",
+      "Playlist Playback",
+      "Listening History Management"
+    ],
+    "Information & Personal Assistant": [
+      "datetime",
+      "Event Search",
+      "Email Query",
+      "Traffic Query",
+      "Weather Forecast",
+      "List Retrieval"
+    ],
+    "General Conversation": [
+      "Identity / Privacy Question"
+    ]
+  },
+  {
+    "Productivity": [
+      "datetime",
+      "Task Management",
+      "Lists",
+      "Email"
+    ],
+    "Entertainment & Media": [
+      "recommendation",
+      "Music Playback",
+      "News"
+    ],
+    "Smart Home": [
+      "iot"
+    ],
+    "Travel & Events": [
+      "Transportation Booking",
+      "Event Inquiry"
+    ],
+    "Food & Dining": [
+      "Food Recommendation"
+    ],
+    "Information Retrieval": [
+      "Contact Lookup",
+      "Person Facts"
+    ],
+    "Home Services": [
+      "Cleaning"
+    ]
+  },
+  {
+    "News & Information": [
+      "recommendation",
+      "News Query",
+      "Animal Information"
+    ],
+    "Cooking & Recipes": [
+      "Recipe Instructions"
+    ],
+    "Social Media & Communication": [
+      "Social Media Post",
+      "Email Sending",
+      "Social Media Updates",
+      "Live Social Media Query"
+    ],
+    "Productivity & Personal Assistant": [
+      "recommendation",
+      "Reminder Query",
+      "Group Notification"
+    ],
+    "Smart Home & IoT": [
+      "iot",
+      "Device Control",
+      "Appliance Activation"
+    ],
+    "Time & Date": [
+      "datetime",
+      "Time Conversion"
+    ],
+    "Media Control": [
+      "Media Playback"
+    ]
+  },
+  {
+    "Productivity": [
+      "datetime"
+    ],
+    "Smart Home & Devices": [
+      "iot"
+    ],
+    "Recommendations & Discovery": [
+      "recommendation"
+    ],
+    "Food Ordering": [
+      "food_order"
+    ],
+    "News & Information": [
+      "news"
+    ],
+    "Gaming & Entertainment": [
+      "gaming",
+      "media_control"
+    ],
+    "Local Search & Events": [
+      "event_search"
+    ],
+    "Contacts & Directory": [
+      "contact_lookup"
+    ],
+    "Communication & Social": [
+      "social_media",
+      "email"
+    ],
+    "Shopping & Delivery": [
+      "delivery_inquiry"
+    ]
+  },
+  {
+    "Information & Reference": [
+      "recommendation",
+      "Knowledge Lookup",
+      "Weather Inquiry",
+      "Currency Exchange"
+    ],
+    "Communication & Email": [
+      "Email Composition",
+      "Email Refresh"
+    ],
+    "Calendar & Date/Time": [
+      "datetime",
+      "Appointment Lookup",
+      "Date Query",
+      "Calendar Deletion"
+    ],
+    "Smart Home & IoT": [
+      "iot",
+      "Light Control",
+      "Smart Plug Control",
+      "Coffee Routine"
+    ],
+    "Media & Entertainment": [
+      "Podcast Navigation",
+      "Radio Playback"
+    ]
+  },
+  {
+    "Date & Time": [
+      "datetime"
+    ],
+    "Smart Home & IoT": [
+      "iot"
+    ],
+    "Recommendations & Content": [
+      "recommendation"
+    ],
+    "Calendar & Lists": [
+      "calendar_management",
+      "list_management"
+    ],
+    "Communication": [
+      "email_sending"
+    ],
+    "Weather": [
+      "weather_query"
+    ]
+  },
+  {
+    "Date & Time": [
+      "datetime"
+    ],
+    "Entertainment & Recommendations": [
+      "recommendation"
+    ],
+    "Smart Home & Device Control": [
+      "iot"
+    ],
+    "Calendar & Scheduling": [
+      "calendar"
+    ],
+    "Communication": [
+      "email",
+      "contacts",
+      "social_media"
+    ],
+    "Weather": [
+      "weather"
+    ],
+    "News & Media": [
+      "news"
+    ],
+    "Travel & Transportation": [
+      "travel_booking"
+    ]
+  },
+  {
+    "Communication": [
+      "Email Inbox Check",
+      "Send Email",
+      "Reply to Email"
+    ],
+    "Productivity & Scheduling": [
+      "Reminder Creation",
+      "Calendar Event Creation",
+      "Alarm Setting",
+      "Date/Time Query"
+    ],
+    "Information & Search": [
+      "Currency Exchange Rate",
+      "Sports Scores",
+      "Election Results",
+      "Cooking Time Query"
+    ],
+    "Recommendations & Local Discovery": [
+      "Local Shop Recommendation",
+      "Movie Recommendation"
+    ],
+    "Entertainment & Media Control": [
+      "Play Music",
+      "Next Episode Control"
+    ]
+  },
+  {
+    "Travel": [
+      "recommendation"
+    ],
+    "Smart Home": [
+      "iot"
+    ],
+    "Date & Time": [
+      "datetime"
+    ],
+    "Health": [
+      "health"
+    ],
+    "News & Alerts": [
+      "news_query",
+      "news_alert"
+    ],
+    "Communication": [
+      "email_composition"
+    ],
+    "Media & Photos": [
+      "gallery_post"
+    ],
+    "History & Education": [
+      "historical_fact"
+    ],
+    "Productivity": [
+      "calendar_cancel",
+      "calendar_open"
+    ],
+    "Entertainment": [
+      "podcast_update"
+    ]
+  },
+  {
+    "Time & Scheduling": [
+      "datetime",
+      "alarm_status",
+      "calendar_notification",
+      "calendar_removal"
+    ],
+    "Information & Discovery": [
+      "recommendation",
+      "news",
+      "store_locator",
+      "beauty_advice",
+      "weather"
+    ],
+    "Smart Home & Device Control": [
+      "iot",
+      "audio_volume_control",
+      "audio_mute"
+    ],
+    "Entertainment": [
+      "music_request"
+    ],
+    "Productivity & Lists": [
+      "shopping_list_update"
+    ],
+    "Unclear / Other": [
+      "comparison_query"
+    ]
+  },
+  {
+    "Media & Entertainment": [
+      {
+        "topic": "Music Playback",
+        "label": "recommendation",
+        "sentences": [
+          "alexa play song over the rainbow"
+        ]
+      },
+      {
+        "topic": "Playlist Management",
+        "label": "iot",
+        "sentences": [
+          "delete from playlist my old english songs list"
+        ]
+      },
+      {
+        "topic": "Movie Information",
+        "label": "recommendation",
+        "sentences": [
+          "what is denzel washington's next movie"
+        ]
+      }
+    ],
+    "Communication": [
+      {
+        "topic": "Phone Calls",
+        "label": "iot",
+        "sentences": [
+          "make a call to"
+        ]
+      },
+      {
+        "topic": "Email Sending",
+        "label": "iot",
+        "sentences": [
+          "email chelsea"
+        ]
+      },
+      {
+        "topic": "Email Status / Inbox Check",
+        "label": "iot",
+        "sentences": [
+          "did i get new emails from sarah",
+          "who mailed me yesterday"
+        ]
+      }
+    ],
+    "Productivity & Time": [
+      {
+        "topic": "Alarm Setting",
+        "label": "datetime",
+        "sentences": [
+          "set an alert for two p. m."
+        ]
+      },
+      {
+        "topic": "Alarm Inquiry",
+        "label": "datetime",
+        "sentences": [
+          "what alarms are set"
+        ]
+      }
+    ],
+    "Cooking & Food": [
+      {
+        "topic": "Recipe Request",
+        "label": "recommendation",
+        "sentences": [
+          "please tell me how to i bake twelve oatmeal cookies"
+        ]
+      },
+      {
+        "topic": "Food Processing Knowledge",
+        "label": "knowledge",
+        "sentences": [
+          "knowledge about food processing"
+        ]
+      }
+    ],
+    "Finance": [
+      {
+        "topic": "Stock Performance",
+        "label": "recommendation",
+        "sentences": [
+          "what is the increase in stock value over the past week of disney"
+        ]
+      },
+      {
+        "topic": "Foreign Exchange Rates",
+        "label": "recommendation",
+        "sentences": [
+          "foreign exchange rates",
+          "dollar rate at present"
+        ]
+      }
+    ],
+    "Task & List Management": [
+      {
+        "topic": "List Review",
+        "label": "iot",
+        "sentences": [
+          "list everything left on my query"
+        ]
+      }
+    ]
+  },
+  {
+    "Media & Entertainment": [
+      "recommendation",
+      "Music Playback",
+      "Radio Tuning"
+    ],
+    "News & Information": [
+      "News Request",
+      "Tech News"
+    ],
+    "Productivity & Communication": [
+      "datetime",
+      "Email Check",
+      "Email Composition",
+      "Reminders"
+    ],
+    "Weather": [
+      "Rain Forecast",
+      "Umbrella Advice"
+    ],
+    "Knowledge & Reference": [
+      "Geography Fact",
+      "Date Query",
+      "Object Description",
+      "Cooking Recipe"
+    ],
+    "Smart Home": [
+      "iot",
+      "Light Control"
+    ]
+  },
+  {
+    "Productivity": [
+      "Reminders",
+      "Calendar"
+    ],
+    "Information": [
+      "Weather & Geography",
+      "Lottery Results",
+      "How-to Tutorials",
+      "News",
+      "Date Queries",
+      "Local Search"
+    ],
+    "Smart Home": [
+      "Device Control"
+    ],
+    "Communication": [
+      "Email Search",
+      "Email Sending",
+      "Social Media",
+      "Social Feed"
+    ],
+    "Entertainment": [
+      "Radio"
+    ],
+    "Notifications": [
+      "News Alerts"
+    ]
+  },
+  {
+    "Information & Reference": [
+      "recommendation",
+      "Person Information",
+      "Health Information",
+      "News Inquiry",
+      "Astronomy/Travel Feasibility",
+      "Media Identification"
+    ],
+    "Media & Entertainment": [
+      "Radio Control",
+      "Music Playback"
+    ],
+    "Productivity & Scheduling": [
+      "datetime",
+      "Calendar Meetings",
+      "Email Reply",
+      "Contact Management"
+    ],
+    "Shopping & Lists": [
+      "Shopping List Management"
+    ],
+    "Notifications & Alerts": [
+      "News Notification"
+    ],
+    "Social Media & Communication": [
+      "Social Status Update",
+      "Social Post/Message"
+    ],
+    "Smart Home & Device Control": [
+      "iot"
+    ]
+  },
+  {
+    "Productivity & Utilities": [
+      "datetime",
+      "Email",
+      "Lists"
+    ],
+    "Media & Entertainment": [
+      "recommendation",
+      "Music Playback",
+      "Podcast Playback",
+      "Media Lookup"
+    ],
+    "Smart Home & Devices": [
+      "iot"
+    ],
+    "Communication & Social": [
+      "Social Media"
+    ],
+    "Information & Knowledge": [
+      "General Knowledge",
+      "News",
+      "Philosophical / Speculative"
+    ],
+    "Navigation & Location": [
+      "Location"
+    ]
+  },
+  {
+    "Calendar & Scheduling": [
+      {
+        "topic": "datetime",
+        "sentence": "where is my meeting at nine am"
+      },
+      {
+        "topic": "datetime",
+        "sentence": "set a meeting between myself and john at two p. m. tomorrow"
+      },
+      {
+        "topic": "datetime",
+        "sentence": "what information should i know for my meetings today"
+      },
+      {
+        "topic": "datetime",
+        "sentence": "set wake up thursday seven am"
+      },
+      {
+        "topic": "datetime",
+        "sentence": "tell me more about my events"
+      }
+    ],
+    "Transportation": [
+      {
+        "topic": "Transit Timing",
+        "sentence": "get me the local train timing to destination cstm"
+      }
+    ],
+    "Media & Entertainment": [
+      {
+        "topic": "Media Playback Control",
+        "sentence": "play previous song"
+      },
+      {
+        "topic": "recommendation",
+        "sentence": "coordinate all pop song genres"
+      },
+      {
+        "topic": "Media Navigation",
+        "sentence": "next button"
+      }
+    ],
+    "Social Media & News": [
+      {
+        "topic": "Social Feed Updates",
+        "sentence": "get me latest updates from facebook"
+      }
+    ],
+    "Knowledge & Definitions": [
+      {
+        "topic": "Definition Lookup",
+        "sentence": "what is the definition of logic"
+      },
+      {
+        "topic": "Definition Lookup",
+        "sentence": "ok google what is a president"
+      }
+    ],
+    "Finance": [
+      {
+        "topic": "Stock Price Lookup",
+        "sentence": "how much is amazon stock"
+      }
+    ],
+    "Lists & Notes": [
+      {
+        "topic": "List Recall",
+        "sentence": "read back my grocery list to me"
+      }
+    ],
+    "Smart Home": [
+      {
+        "topic": "iot",
+        "sentence": "enable smart socket"
+      }
+    ]
+  },
+  {
+    "Productivity & Time": [
+      "datetime",
+      "Reminders",
+      "Alarms"
+    ],
+    "Smart Home": [
+      "iot"
+    ],
+    "Media & Entertainment": [
+      "Music Identification",
+      "Podcast Playback"
+    ],
+    "Communication": [
+      "Email"
+    ],
+    "Finance": [
+      "Stock Performance"
+    ],
+    "Reference & Knowledge": [
+      "Person Birthdate",
+      "Math Calculation"
+    ],
+    "Local & Navigation": [
+      "Nearby Shops"
+    ],
+    "News": [
+      "recommendation",
+      "Political Headlines"
+    ],
+    "Other": [
+      "Unclear / No Intent"
+    ]
+  },
+  {
+    "Productivity": [
+      "datetime",
+      "Calendar Management",
+      "Reminders"
+    ],
+    "Transportation & Navigation": [
+      "Transit Time",
+      "Directions"
+    ],
+    "Entertainment & Media": [
+      "recommendation",
+      "Gaming",
+      "Streaming Control",
+      "Celebrity Info",
+      "Website Navigation"
+    ],
+    "Smart Home": [
+      "iot"
+    ],
+    "Communication": [
+      "Email"
+    ],
+    "Knowledge & Reference": [
+      "Calendar Knowledge"
+    ]
+  },
+  {
+    "Food Ordering": [
+      "Takeaway Request"
+    ],
+    "Local Search": [
+      "recommendation"
+    ],
+    "Media Playback": [
+      "Music Playback Request",
+      "Program Playback Request"
+    ],
+    "Music Preferences": [
+      "Song Preference Memory"
+    ],
+    "Smart Home": [
+      "iot"
+    ],
+    "Scheduling & Time": [
+      "datetime",
+      "Alarm Setup",
+      "Alarm Removal"
+    ],
+    "Task Management": [
+      "To-Do List"
+    ],
+    "Email & Communication": [
+      "Reply to Latest Emails",
+      "Start Email"
+    ],
+    "Transportation": [
+      "Train Departure Time"
+    ],
+    "News & Politics": [
+      "Political Topic"
+    ],
+    "Privacy & Security": [
+      "Data Usage Inquiry"
+    ]
+  },
+  {
+    "Productivity & Communication": [
+      "Email",
+      "Messaging",
+      "Contacts",
+      "Calendar"
+    ],
+    "Media & Entertainment": [
+      "Music Playback",
+      "Video Playback",
+      "Audiobook Recommendation",
+      "Streaming Service"
+    ],
+    "Smart Home": [
+      "IoT Device Control"
+    ],
+    "Date & Time": [
+      "Current Time",
+      "Age Query",
+      "Recurring Reminder"
+    ],
+    "Information & Search": [
+      "App Search"
+    ]
+  },
+  {
+    "Smart Home": [
+      "iot"
+    ],
+    "Productivity": [
+      "datetime",
+      "Lists & Notes"
+    ],
+    "Media & Entertainment": [
+      "recommendation",
+      "Music Playback",
+      "Game Launch"
+    ],
+    "Navigation": [
+      "Directions"
+    ],
+    "Professional Services": [
+      "Legal Consultation"
+    ]
+  },
+  {
+    "Productivity": [
+      "datetime",
+      "list_management"
+    ],
+    "Information": [
+      "weather",
+      "news",
+      "local_search"
+    ],
+    "Entertainment": [
+      "media_playback",
+      "social_sharing"
+    ],
+    "Smart Home": [
+      "iot"
+    ],
+    "Scheduling": [
+      "calendar_query",
+      "event_time"
+    ]
+  },
+  {
+    "Transportation": [
+      "Taxi Booking"
+    ],
+    "Smart Home": [
+      "iot",
+      "Light Color Control",
+      "Light Brightness Control",
+      "Volume Control"
+    ],
+    "Information": [
+      "Crime Statistics",
+      "Weather Query",
+      "Historical Fact"
+    ],
+    "Media & Entertainment": [
+      "Music Request",
+      "Music Streaming Control",
+      "Save Song",
+      "recommendation"
+    ],
+    "Communication": [
+      "Email Sending",
+      "Social Media Posting"
+    ],
+    "Productivity": [
+      "Calendar Event Creation",
+      "datetime",
+      "Alarm Setting"
+    ]
+  },
+  {
+    "Entertainment": [
+      "recommendation",
+      "Music Playback",
+      "Emotional Expression"
+    ],
+    "News & Information": [
+      "News Query",
+      "Definition Lookup",
+      "Geography",
+      "Math",
+      "Currency Conversion"
+    ],
+    "Food & Dining": [
+      "Restaurant Takeout"
+    ],
+    "Productivity & Scheduling": [
+      "datetime",
+      "Calendar Scheduling"
+    ],
+    "Relationships & Personal": [
+      "Personal Question"
+    ],
+    "Communication": [
+      "Email Check",
+      "Message Reply"
+    ]
+  },
+  {
+    "Scheduling & Time": [
+      "datetime"
+    ],
+    "Smart Home & IoT": [
+      "iot"
+    ],
+    "Information & Recommendations": [
+      "recommendation"
+    ],
+    "Communication": [
+      "email_check",
+      "contact_support"
+    ],
+    "Entertainment & Media": [
+      "game_launch",
+      "audiobook_playback"
+    ],
+    "News & Reference": [
+      "news_headlines",
+      "fact_check",
+      "how_to_cooking",
+      "technology_explanation",
+      "currency_exchange"
+    ],
+    "Travel & Navigation": [
+      "commute_time"
+    ],
+    "Events & Ticketing": [
+      "ticket_purchase"
+    ]
+  },
+  {
+    "Time & Date": [
+      "datetime"
+    ],
+    "Recommendations & Suggestions": [
+      "recommendation"
+    ],
+    "Smart Home & IoT": [
+      "iot"
+    ],
+    "Communication": [
+      "email_sending",
+      "email_search",
+      "contact_lookup",
+      "notification_setup"
+    ],
+    "Transportation & Navigation": [
+      "ride_booking",
+      "directions",
+      "traffic"
+    ],
+    "Events & Local": [
+      "event_search"
+    ],
+    "Productivity & Lists": [
+      "list_management"
+    ],
+    "Media Control": [
+      "media_navigation"
+    ],
+    "Math & Calculation": [
+      "arithmetic"
+    ],
+    "Knowledge & Definitions": [
+      "definition_lookup",
+      "person_trivia"
+    ]
+  },
+  {
+    "Smart Home": [
+      "iot"
+    ],
+    "Date & Time": [
+      "datetime"
+    ],
+    "Recommendations & Suggestions": [
+      "recommendation"
+    ],
+    "Productivity": [
+      "todo_list",
+      "reminders",
+      "email"
+    ],
+    "Media & Entertainment": [
+      "music_playback",
+      "podcast_playback"
+    ],
+    "Navigation": [
+      "directions"
+    ],
+    "Device Support": [
+      "audio_issue"
+    ],
+    "Weather": [
+      "weather_forecast"
+    ],
+    "Local Discovery": [
+      "events"
+    ]
+  },
+  {
+    "Social Media & Communication": [
+      "social_media_posting",
+      "social_media_updates",
+      "email_inbox_check",
+      "email_search"
+    ],
+    "Weather & Time": [
+      "weather",
+      "current_time",
+      "datetime",
+      "calendar_schedule_check",
+      "reminder"
+    ],
+    "Shopping & Lists": [
+      "shopping_list_add",
+      "personal_list_management"
+    ],
+    "Events & Local Information": [
+      "event_information",
+      "local_happenings",
+      "recommendation"
+    ],
+    "Smart Home": [
+      "iot",
+      "smart_lighting_control"
+    ],
+    "Personal Activity Tracking": [
+      "location_history"
+    ]
+  },
+  {
+    "Productivity & Scheduling": [
+      "datetime",
+      "Calendar Events",
+      "Reminders",
+      "Appointments"
+    ],
+    "Smart Devices & Automation": [
+      "iot"
+    ],
+    "Recommendations & Discovery": [
+      "recommendation",
+      "Local Events",
+      "Entertainment Suggestions",
+      "News Requests"
+    ],
+    "Communication": [
+      "Social Media Posting",
+      "Email Sending",
+      "Contact Management",
+      "Message Follow-up"
+    ],
+    "Lists & Organization": [
+      "List Management"
+    ],
+    "Information & Navigation": [
+      "Weather Forecast",
+      "Location Query"
+    ],
+    "Entertainment & Games": [
+      "Game Launch"
+    ]
+  },
+  {
+    "Productivity & Communication": [
+      "datetime",
+      "Messaging",
+      "Contacts",
+      "Email"
+    ],
+    "Media & Entertainment": [
+      "recommendation",
+      "Media Control",
+      "Radio",
+      "Movies",
+      "Audiobooks"
+    ],
+    "Smart Home & Devices": [
+      "iot"
+    ],
+    "Local & Travel": [
+      "Business Hours",
+      "Events"
+    ],
+    "Information & Reference": [
+      "History",
+      "Weather"
+    ],
+    "Alerts & Reminders": [
+      "Reminders",
+      "Notifications"
+    ]
+  },
+  {
+    "Media & Entertainment": [
+      "recommendation",
+      "Music Playback",
+      "Podcast Playback",
+      "Playlist Playback",
+      "Game/Activity Suggestion"
+    ],
+    "Productivity & Time": [
+      "datetime",
+      "Reminder Creation",
+      "Time Query"
+    ],
+    "Smart Home": [
+      "iot",
+      "Device Control"
+    ],
+    "Information & Reference": [
+      "Geography Query",
+      "Currency Exchange",
+      "General Knowledge",
+      "Health Advice"
+    ],
+    "Finance": [
+      "Wealth Query"
+    ]
+  },
+  {
+    "Productivity & Time Management": [
+      "datetime",
+      "Task Lists",
+      "Reminders",
+      "Alarms"
+    ],
+    "Media & Entertainment": [
+      "recommendation",
+      "Jokes",
+      "Music Requests",
+      "Radio Tuning"
+    ],
+    "Smart Home & Devices": [
+      "iot"
+    ],
+    "Weather & Environment": [
+      "Weather",
+      "Severe Weather Statistics"
+    ],
+    "Information & Search": [
+      "Person Facts",
+      "Web Search",
+      "Finance & Exchange Rates",
+      "Tongue Twisters"
+    ],
+    "Communication": [
+      "Email Reply"
+    ],
+    "Travel & Transportation": [
+      "Train Booking"
+    ]
+  },
+  {
+    "Smart Home & IoT": [
+      "iot",
+      "Device Control",
+      "Appliance Control"
+    ],
+    "Communication": [
+      "Email",
+      "Social Media"
+    ],
+    "Transportation & Travel": [
+      "Transit Schedule"
+    ],
+    "Personal Assistant & Privacy": [
+      "Privacy Inquiry",
+      "Assistant Settings"
+    ],
+    "Food & Beverage": [
+      "Drink Preparation"
+    ],
+    "Media & Entertainment": [
+      "recommendation",
+      "Music Playback"
+    ],
+    "Time & Scheduling": [
+      "datetime",
+      "Event Time"
+    ],
+    "Information & Search": [
+      "Person Information",
+      "News Updates",
+      "General Knowledge"
+    ]
+  },
+  {
+    "Entertainment": [
+      "game_play",
+      "music_playback",
+      "radio_playback",
+      "audiobook_control",
+      "event_recommendation"
+    ],
+    "Productivity": [
+      "task_management",
+      "reminders",
+      "calendar_management",
+      "datetime"
+    ],
+    "Smart Home": [
+      "iot",
+      "device_control"
+    ],
+    "Information": [
+      "fact_query",
+      "weather_report"
+    ],
+    "Assistant Control": [
+      "silence_mode"
+    ]
+  },
+  {
+    "Productivity": [
+      "datetime"
+    ],
+    "Information & Discovery": [
+      "recommendation"
+    ],
+    "Smart Home": [
+      "iot"
+    ],
+    "Weather": [
+      "weather_query"
+    ],
+    "News": [
+      "news_query"
+    ],
+    "Traffic & Navigation": [
+      "traffic_query"
+    ],
+    "Media & Entertainment": [
+      "media_playback"
+    ],
+    "General Conversation": [
+      "identity_query"
+    ],
+    "Transportation": [
+      "taxi_booking"
+    ],
+    "Audio & Device Control": [
+      "mute_device"
+    ]
+  },
+  {
+    "Calendar & Time": [
+      "datetime"
+    ],
+    "Recommendations & Suggestions": [
+      "recommendation"
+    ],
+    "Smart Home & Device Control": [
+      "iot"
+    ],
+    "Email & Messaging": [
+      "email_access",
+      "email_search"
+    ],
+    "Knowledge & Definitions": [
+      "definition",
+      "game_description"
+    ],
+    "Transportation": [
+      "train_schedule"
+    ],
+    "Music & Media": [
+      "music_playback",
+      "artist_playback",
+      "opinion_statement"
+    ],
+    "Weather": [
+      "weather_query"
+    ],
+    "Conversation": [
+      "greeting"
+    ],
+    "Finance": [
+      "stock_price"
+    ]
+  },
+  {
+    "Travel & Transportation": [
+      "recommendation"
+    ],
+    "Food & Dining": [
+      "recommendation"
+    ],
+    "Media & Entertainment": [
+      "recommendation"
+    ],
+    "Productivity & Communication": [
+      "email_search",
+      "calendar_management",
+      "task_management"
+    ],
+    "Smart Home & IoT": [
+      "iot"
+    ],
+    "Date & Time": [
+      "datetime"
+    ],
+    "News & Alerts": [
+      "notification"
+    ],
+    "Education & Math": [
+      "calculation"
+    ],
+    "Events & Information": [
+      "event_details"
+    ]
+  },
+  {
+    "Smart Home": [
+      "iot"
+    ],
+    "Productivity & Time": [
+      "datetime"
+    ],
+    "Information & Recommendations": [
+      "recommendation"
+    ],
+    "Communication": [
+      "email",
+      "social_media",
+      "complaint"
+    ],
+    "Health": [
+      "health"
+    ],
+    "Lists & Notes": [
+      "list_management"
+    ]
+  },
+  {
+    "News & Information": [
+      {
+        "topic": "News Headlines",
+        "label": "recommendation",
+        "sentence": "b. b. c. world headlines"
+      },
+      {
+        "topic": "Geographic Information",
+        "label": "recommendation",
+        "sentence": "find geographic details of this place"
+      },
+      {
+        "topic": "Cost of Living Comparison",
+        "label": "recommendation",
+        "sentence": "is the city cheaper or costlier to live"
+      },
+      {
+        "topic": "Local Events",
+        "label": "recommendation",
+        "sentence": "tell me all events for today in my city"
+      },
+      {
+        "topic": "Weather Advice",
+        "label": "recommendation",
+        "sentence": "will i need my snow boots this afternoon"
+      }
+    ],
+    "Travel & Navigation": [
+      {
+        "topic": "Train Ticket Search",
+        "label": "recommendation",
+        "sentence": "google train tickets to washington d. c."
+      },
+      {
+        "topic": "Food Pickup Wait Time",
+        "label": "recommendation",
+        "sentence": "how many minutes do i need to wait to pick up my food from china on the go"
+      }
+    ],
+    "Music & Media": [
+      {
+        "topic": "Music Recommendation",
+        "label": "recommendation",
+        "sentence": "find some smooth jazz for me"
+      },
+      {
+        "topic": "Music Playback",
+        "label": "recommendation",
+        "sentence": "could you please play the classical music for me"
+      }
+    ],
+    "Calendar & Time": [
+      {
+        "topic": "Reminder Scheduling",
+        "label": "datetime",
+        "sentence": "send me an alert and hour before my next appointment"
+      },
+      {
+        "topic": "Time Query",
+        "label": "datetime",
+        "sentence": "could you tell me the time in london"
+      }
+    ],
+    "Communication": [
+      {
+        "topic": "Email Check",
+        "label": "new_email_query",
+        "sentence": "have any emails come in since four hundred today"
+      },
+      {
+        "topic": "Email Composition",
+        "label": "email_composition",
+        "sentence": "write an email to my family saying i love you all"
+      }
+    ],
+    "Smart Home & Device Control": [
+      {
+        "topic": "Light Control",
+        "label": "iot",
+        "sentence": "please turn on my balcony lights"
+      },
+      {
+        "topic": "Do Not Disturb / Quiet Mode",
+        "label": "iot",
+        "sentence": "quiet mode on until i am home from work"
+      }
+    ]
+  },
+  {
+    "Navigation & Travel": [
+      "Directions",
+      "Ticket Booking"
+    ],
+    "Time & Scheduling": [
+      "datetime",
+      "Reminders"
+    ],
+    "Apps & Communication": [
+      "App Launch",
+      "Email & Messaging"
+    ],
+    "Smart Home": [
+      "iot"
+    ],
+    "Media & Entertainment": [
+      "Music Playback",
+      "Radio Playback",
+      "Podcast Playback",
+      "Media Identification"
+    ],
+    "Information & Recommendations": [
+      "recommendation",
+      "Recipe Inquiry",
+      "General Information"
+    ]
+  },
+  {
+    "Communication": [
+      "Social Media Posting",
+      "Email Monitoring",
+      "Contact Management"
+    ],
+    "Smart Home": [
+      "Lighting Control",
+      "Display Brightness Control"
+    ],
+    "Information & Search": [
+      "News Inquiry",
+      "Geography Lookup",
+      "General Information Search",
+      "Entertainment Identification",
+      "Retail/Brand Query"
+    ],
+    "Date & Time": [
+      "Current Time Lookup",
+      "Day-of-Week Calculation"
+    ],
+    "Media & Entertainment": [
+      "Radio/Audio Playback Control"
+    ],
+    "Cooking & Food": [
+      "Recipe Request"
+    ]
+  },
+  {
+    "Smart Home": [
+      "iot"
+    ],
+    "Productivity": [
+      "datetime",
+      "note_taking",
+      "calendar_scheduling"
+    ],
+    "Recommendations & Information": [
+      "recommendation",
+      "education_explanation",
+      "weather",
+      "news",
+      "general_knowledge",
+      "philosophy",
+      "relationship_advice",
+      "math"
+    ],
+    "Food & Commerce": [
+      "food_ordering",
+      "delivery_inquiry"
+    ],
+    "Entertainment": [
+      "music_playback"
+    ]
+  },
+  {
+    "Media & Entertainment": [
+      "recommendation",
+      "music_identification",
+      "radio_playback"
+    ],
+    "Smart Home & IoT": [
+      "iot"
+    ],
+    "Information & Search": [
+      "person_location_query"
+    ],
+    "Calendar & Productivity": [
+      "datetime",
+      "calendar_deletion",
+      "task_deletion",
+      "reminder_query"
+    ],
+    "Shopping & Commerce": [
+      "order_eta",
+      "delivery_availability",
+      "product_recommendation"
+    ],
+    "Communication": [
+      "social_media_complaint",
+      "email_query"
+    ]
+  },
+  {
+    "Media & Entertainment": [
+      {
+        "topic": "Podcast Playback",
+        "label": "recommendation",
+        "sentence": "play a podcast from my library"
+      },
+      {
+        "topic": "Music Playback",
+        "label": "recommendation",
+        "sentence": "next play summer lovin"
+      }
+    ],
+    "Contacts & Communication": [
+      {
+        "topic": "Add Contact Email",
+        "label": "contact_management",
+        "sentence": "add a new email for julie smith"
+      }
+    ],
+    "Knowledge & Information": [
+      {
+        "topic": "Word Definition",
+        "label": "knowledge_query",
+        "sentence": "what is the definition of the word perpetual"
+      },
+      {
+        "topic": "Celebrity Profession",
+        "label": "knowledge_query",
+        "sentence": "tell me the profession of celebrity"
+      },
+      {
+        "topic": "General Capability Question",
+        "label": "assistant_capability",
+        "sentence": "are you smart"
+      },
+      {
+        "topic": "Feature Request",
+        "label": "feature_request",
+        "sentence": "i would like it to be able to compute answer from search results like wolfram alpha does"
+      }
+    ],
+    "Conversation & Social": [
+      {
+        "topic": "Open-ended Social Prompt",
+        "label": "social_interaction",
+        "sentence": "would you love to see"
+      }
+    ],
+    "Task & List Management": [
+      {
+        "topic": "View All Lists",
+        "label": "list_management",
+        "sentence": "give me all available lists"
+      },
+      {
+        "topic": "Check List",
+        "label": "list_management",
+        "sentence": "need to check my list"
+      }
+    ],
+    "Calendar & Scheduling": [
+      {
+        "topic": "Check Afternoon Meeting",
+        "label": "datetime",
+        "sentence": "do i have a meeting this afternoon"
+      },
+      {
+        "topic": "Create Calendar Event",
+        "label": "datetime",
+        "sentence": "add a meeting to my calendar for nine am with tom"
+      },
+      {
+        "topic": "View Next Week Events",
+        "label": "datetime",
+        "sentence": "what are the events next week"
+      }
+    ],
+    "Smart Home": [
+      {
+        "topic": "Light Color Change and Power Control",
+        "label": "iot",
+        "sentence": "change my light color to blue and please turn off the kitchen light"
+      }
+    ],
+    "Finance & Budgeting": [
+      {
+        "topic": "Daily Budget Calculation",
+        "label": "budgeting",
+        "sentence": "alexa i've got dollars for the month how much can i spend every day this month"
+      }
+    ]
+  },
+  {
+    "Smart Home": [
+      "iot"
+    ],
+    "Time & Date": [
+      "datetime"
+    ],
+    "Recommendations & Guidance": [
+      "recommendation"
+    ],
+    "Media & Entertainment": [
+      "media_playback"
+    ],
+    "Weather": [
+      "weather"
+    ],
+    "Navigation & Travel": [
+      "directions"
+    ],
+    "Communication & Contacts": [
+      "contacts"
+    ],
+    "Productivity": [
+      "reminders"
+    ],
+    "Conversation": [
+      "dialogue"
+    ],
+    "Local Services": [
+      "local_search"
+    ]
+  },
+  {
+    "Calendar & Scheduling": [
+      "datetime",
+      "Meeting Attendance",
+      "Add Pay Days",
+      "Today's Events Schedule"
+    ],
+    "Communication": [
+      "Email Job Listing Check",
+      "Send Email"
+    ],
+    "Shopping & Lists": [
+      "Shopping List Add Item",
+      "Remove Favorite Albums"
+    ],
+    "Finance & Currency": [
+      "Currency Conversion"
+    ],
+    "Recommendations & Discovery": [
+      "recommendation",
+      "Local Events Recommendation",
+      "Music Preference"
+    ],
+    "Media & Entertainment": [
+      "Play Playlist",
+      "Play Queue Song",
+      "Resume Audiobook"
+    ],
+    "Smart Home & IoT": [
+      "iot",
+      "Light Brightness Control"
+    ],
+    "Travel & Transport": [
+      "Train Connection Schedule"
+    ]
+  },
+  {
+    "Smart Home": [
+      {
+        "sentence": "make coffee at three",
+        "label": "iot",
+        "topic": "Schedule Appliance Action"
+      }
+    ],
+    "Weather": [
+      {
+        "sentence": "do i need a sweater today",
+        "label": "datetime",
+        "topic": "Weather-Based Clothing Advice"
+      },
+      {
+        "sentence": "what is the forecast for saturday",
+        "label": "datetime",
+        "topic": "Weather Forecast"
+      }
+    ],
+    "Local Events": [
+      {
+        "sentence": "are there any crafts fairs happening in this area",
+        "label": "recommendation",
+        "topic": "Nearby Event Search"
+      }
+    ],
+    "Knowledge": [
+      {
+        "sentence": "what's a parsec",
+        "label": "knowledge",
+        "topic": "Definition Query"
+      }
+    ],
+    "Media": [
+      {
+        "sentence": "play station gx in the radio",
+        "label": "recommendation",
+        "topic": "Play Radio Station"
+      },
+      {
+        "sentence": "play a nirvana playlist",
+        "label": "recommendation",
+        "topic": "Play Playlist"
+      },
+      {
+        "sentence": "remind me that i like that song",
+        "label": "recommendation",
+        "topic": "Save Music Preference"
+      }
+    ],
+    "Food & Ordering": [
+      {
+        "sentence": "i want to order chinese take-out",
+        "label": "recommendation",
+        "topic": "Food Ordering"
+      }
+    ],
+    "Device Settings": [
+      {
+        "sentence": "where is volume setting",
+        "label": "iot",
+        "topic": "Locate Device Setting"
+      }
+    ],
+    "Alarms & Reminders": [
+      {
+        "sentence": "turn off my alarm",
+        "label": "datetime",
+        "topic": "Alarm Control"
+      },
+      {
+        "sentence": "remind me please",
+        "label": "datetime",
+        "topic": "Create Reminder"
+      },
+      {
+        "sentence": "on friday please put dentist appointment at three",
+        "label": "datetime",
+        "topic": "Schedule Calendar Reminder"
+      }
+    ],
+    "News": [
+      {
+        "sentence": "what's happening in france today",
+        "label": "knowledge",
+        "topic": "Current Events Query"
+      }
+    ],
+    "Finance": [
+      {
+        "sentence": "from dollar to euro",
+        "label": "knowledge",
+        "topic": "Currency Conversion"
+      }
+    ]
+  },
+  {
+    "Productivity & Communication": [
+      "datetime",
+      "recommendation"
+    ],
+    "Smart Home & Media Control": [
+      "iot"
+    ],
+    "Transportation": [
+      "Ride Booking"
+    ],
+    "Social Media & Online Activity": [
+      "Social Media Posting",
+      "Social Media Updates"
+    ],
+    "Knowledge & Information": [
+      "General Question Answering",
+      "Product Information",
+      "News & Current Events"
+    ]
+  },
+  {
+    "Smart Home": [
+      "iot"
+    ],
+    "Date & Time": [
+      "datetime"
+    ],
+    "Recommendations & Ratings": [
+      "recommendation"
+    ],
+    "Reminders & Calendar": [
+      "Reminder Creation",
+      "Reminder Review",
+      "Calendar Deletion",
+      "Recurring Reminder",
+      "Alarm Scheduling",
+      "Schedule Review"
+    ],
+    "Email & Messaging": [
+      "Email Composition",
+      "Email Check"
+    ],
+    "Knowledge & Information": [
+      "Budget Inquiry",
+      "Geography",
+      "Animal Size"
+    ],
+    "Task & Order Management": [
+      "Order Preparation"
+    ]
+  },
+  {
+    "Weather": [
+      "datetime",
+      "weather_forecast"
+    ],
+    "Social Media": [
+      "social_notifications"
+    ],
+    "Travel & Geography": [
+      "distance_query"
+    ],
+    "Entertainment & Music": [
+      "music_search",
+      "music_trivia",
+      "song_identification",
+      "music_opinion"
+    ],
+    "News & Alerts": [
+      "recommendation",
+      "topic_alerts"
+    ],
+    "Finance": [
+      "currency_exchange",
+      "stock_price"
+    ],
+    "Smart Home": [
+      "iot"
+    ],
+    "Productivity & Calendar": [
+      "calendar_update",
+      "event_scheduling"
+    ],
+    "Math": [
+      "calculation"
+    ]
+  },
+  {
+    "Media & Entertainment": [
+      "recommendation",
+      "music_playback",
+      "music_file_management",
+      "movie_information"
+    ],
+    "Calendar & Time": [
+      "datetime",
+      "calendar_management",
+      "alarm_setting"
+    ],
+    "Weather": [
+      "weather"
+    ],
+    "Finance & Currency": [
+      "currency_conversion"
+    ],
+    "Notes & Productivity": [
+      "notebook_lists"
+    ],
+    "Local & Events": [
+      "local_events"
+    ],
+    "Smart Home & Devices": [
+      "iot"
+    ]
+  },
+  {
+    "Scheduling & Time": [
+      "datetime"
+    ],
+    "Media & Recommendations": [
+      "recommendation"
+    ],
+    "Smart Home & IoT": [
+      "iot"
+    ],
+    "Local & Navigation": [
+      "local_search",
+      "distance_query"
+    ],
+    "News & Information": [
+      "news",
+      "general_information",
+      "how_to"
+    ]
+  },
+  {
+    "Weather": [
+      "datetime",
+      "recommendation"
+    ],
+    "Music & Audio": [
+      "recommendation"
+    ],
+    "Communication & Productivity": [
+      "datetime"
+    ],
+    "Cooking & Kitchen": [
+      "recommendation",
+      "iot"
+    ],
+    "Finance": [
+      "Stock Lookup"
+    ],
+    "Math": [
+      "Calculation"
+    ],
+    "Navigation & Device Control": [
+      "iot"
+    ],
+    "News & Information": [
+      "News Lookup"
+    ]
+  },
+  {
+    "Personal Information": [
+      "Contact Lookup"
+    ],
+    "Media & Entertainment": [
+      "Music Playback",
+      "Podcast Playback",
+      "Music Recommendation"
+    ],
+    "Calendar & Scheduling": [
+      "Meeting Scheduling",
+      "Event Reminder",
+      "List Events Query"
+    ],
+    "Notifications & Alerts": [
+      "Email Notification",
+      "Alarm Information"
+    ],
+    "Cooking & Recipes": [
+      "Recipe Request"
+    ],
+    "Reminders & Tasks": [
+      "Task Reminder",
+      "To-Do List Deletion",
+      "List Removal"
+    ],
+    "Date & Time": [
+      "Time in Location"
+    ],
+    "Reference & Facts": [
+      "Geography Fact"
+    ]
+  },
+  {
+    "Weather": [
+      {
+        "topic": "Clothing Advice",
+        "label": "recommendation",
+        "sentences": [
+          "can i wear my sandals today"
+        ]
+      },
+      {
+        "topic": "Weekly Night Temperature Forecast",
+        "label": "datetime",
+        "sentences": [
+          "how cold will it get each night this week"
+        ]
+      },
+      {
+        "topic": "Weekly Weather Outlook",
+        "label": "recommendation",
+        "sentences": [
+          "will it be nice outside this week"
+        ]
+      }
+    ],
+    "Events": [
+      {
+        "topic": "Upcoming Events Lookup",
+        "label": "datetime",
+        "sentences": [
+          "is there any upcoming events"
+        ]
+      }
+    ],
+    "Geography": [
+      {
+        "topic": "Location of Country",
+        "label": "knowledge",
+        "sentences": [
+          "where is laos located"
+        ]
+      }
+    ],
+    "Finance": [
+      {
+        "topic": "Celebrity Net Worth",
+        "label": "knowledge",
+        "sentences": [
+          "what is leonardo dicaprio's networth"
+        ]
+      }
+    ],
+    "Dictionary & Language": [
+      {
+        "topic": "Word Definitions",
+        "label": "knowledge",
+        "sentences": [
+          "what are the definitions of orange",
+          "what is the definition of subjegant"
+        ]
+      }
+    ],
+    "Calendar & Scheduling": [
+      {
+        "topic": "Create Calendar Reminder",
+        "label": "datetime",
+        "sentences": [
+          "please set a reminder in my calendar for my meeting on march twenty five"
+        ]
+      },
+      {
+        "topic": "Today's Calendar Schedule",
+        "label": "datetime",
+        "sentences": [
+          "what is scheduled on my calendar today"
+        ]
+      },
+      {
+        "topic": "Current Date",
+        "label": "datetime",
+        "sentences": [
+          "what date is it today"
+        ]
+      }
+    ],
+    "Transportation": [
+      {
+        "topic": "Train Schedule",
+        "label": "datetime",
+        "sentences": [
+          "what is the timing of bagmati express"
+        ]
+      },
+      {
+        "topic": "Ride Hailing Nearby",
+        "label": "recommendation",
+        "sentences": [
+          "olly find the nearest uber"
+        ]
+      }
+    ],
+    "Smart Home & Devices": [
+      {
+        "topic": "Speaker Control",
+        "label": "iot",
+        "sentences": [
+          "set the speakers to mute"
+        ]
+      }
+    ],
+    "Entertainment": [
+      {
+        "topic": "Music Playback",
+        "label": "recommendation",
+        "sentences": [
+          "play me last year's hits"
+        ]
+      }
+    ]
+  },
+  {
+    "Consumer Electronics": [
+      {
+        "topic": "Device Description",
+        "label": "give me the description of a television circuit"
+      }
+    ],
+    "Weather": [
+      {
+        "topic": "Forecast",
+        "label": "tell me the weather this week"
+      }
+    ],
+    "Social / Small Talk": [
+      {
+        "topic": "Greeting / Casual Conversation",
+        "label": "what's shakin bacon"
+      },
+      {
+        "topic": "Opinion / Preference Expression",
+        "label": "it must be taste"
+      }
+    ],
+    "Communication": [
+      {
+        "topic": "Email Reply",
+        "label": "send a reply to mike with the answer four hundred and thirty from his email he sent this morning"
+      },
+      {
+        "topic": "Email Composition",
+        "label": "email jerry regarding the meeting"
+      },
+      {
+        "topic": "Reply to Recent Email",
+        "label": "compose a reply to last email"
+      }
+    ],
+    "Mathematics": [
+      {
+        "topic": "Percentage Calculation",
+        "label": "what's ten percent off forty dollars"
+      }
+    ],
+    "Date & Time": [
+      {
+        "topic": "Current Date",
+        "label": "what's the date"
+      },
+      {
+        "topic": "World Time",
+        "label": "what time is it in new york now"
+      }
+    ],
+    "Task Management": [
+      {
+        "topic": "Delete Item",
+        "label": "delete item"
+      }
+    ],
+    "News & Information": [
+      {
+        "topic": "Topic-based News Search",
+        "label": "news articles on a particular subject"
+      }
+    ],
+    "Smart Home / IoT": [
+      {
+        "topic": "Alarm Status Check",
+        "label": "olly do i have an alarm set for tomorrow"
+      }
+    ],
+    "Contacts": [
+      {
+        "topic": "Contact Lookup",
+        "label": "can you tell me the contact information of jo"
+      }
+    ],
+    "Music": [
+      {
+        "topic": "Song Identification / Information",
+        "label": "i want to know about this song"
+      }
+    ]
+  },
+  {
+    "Knowledge & Information": [
+      "General Knowledge",
+      "Climate Fact Checking",
+      "Weather Inquiry",
+      "Local Events Discovery",
+      "Music Artist Lookup"
+    ],
+    "Productivity & Lists": [
+      "List Item Deletion",
+      "Task Query",
+      "List Reading",
+      "Grocery List Addition",
+      "Date Tracking / Habit Start",
+      "Email Reminder / Personal Outreach"
+    ],
+    "Navigation & Travel": [
+      "Directions"
+    ],
+    "Entertainment & Media": [
+      "Music Playback",
+      "Favorites Management"
+    ],
+    "Smart Home / IoT": [
+      "Light Color Control"
+    ]
+  },
+  {
+    "Entertainment": [
+      "recommendation",
+      "jokes",
+      "music",
+      "radio",
+      "trending_topics"
+    ],
+    "News & Politics": [
+      "election_predictions",
+      "social_media_feed"
+    ],
+    "Cooking & Food": [
+      "cooking_methods"
+    ],
+    "Smart Home": [
+      "iot"
+    ],
+    "Product Discovery": [
+      "gadgets"
+    ],
+    "Productivity & Planning": [
+      "datetime",
+      "reminders",
+      "calendar_plans",
+      "lists"
+    ],
+    "Communication": [
+      "clarification_request"
+    ],
+    "Navigation & Travel": [
+      "directions"
+    ]
+  },
+  {
+    "Weather": [
+      "Current Weather"
+    ],
+    "Smart Home / IoT": [
+      "Device Control",
+      "Appliance Adjustment"
+    ],
+    "Food & Local Services": [
+      "Local Bakery Recommendation",
+      "Cooking Guidance"
+    ],
+    "Sports": [
+      "Game Score"
+    ],
+    "Fashion & Celebrity": [
+      "Celebrity Apparel"
+    ],
+    "Calendar & Scheduling": [
+      "Delete Event",
+      "Delete Appointment"
+    ],
+    "Communication": [
+      "Email Team"
+    ],
+    "Music & Audio": [
+      "Play Artist Songs",
+      "Song Information",
+      "Replay Song"
+    ],
+    "Knowledge & Education": [
+      "Animal Description"
+    ],
+    "Personalization & Recommendations": [
+      "Preference-Based Recommendation"
+    ]
+  },
+  {
+    "Smart Home & IoT": [
+      {
+        "sentence": "it's dirty here make some noise",
+        "label": "iot",
+        "topic": "Activate Cleaning Device"
+      },
+      {
+        "sentence": "please make the lights natural",
+        "label": "iot",
+        "topic": "Adjust Light Color"
+      },
+      {
+        "sentence": "turn the vibrate off from speaker",
+        "label": "iot",
+        "topic": "Disable Speaker Vibration"
+      },
+      {
+        "sentence": "i'm going to sleep now",
+        "label": "iot",
+        "topic": "Sleep Mode Routine"
+      }
+    ],
+    "Media & Entertainment": [
+      {
+        "sentence": "i feel like jazz right now how about you",
+        "label": "recommendation",
+        "topic": "Music Recommendation"
+      },
+      {
+        "sentence": "play an f. m.",
+        "label": "recommendation",
+        "topic": "Play FM Radio"
+      }
+    ],
+    "Time & Date": [
+      {
+        "sentence": "please tell me what is the time in sanfranscio",
+        "label": "datetime",
+        "topic": "World Time Query"
+      },
+      {
+        "sentence": "what is the time now in new york",
+        "label": "datetime",
+        "topic": "World Time Query"
+      }
+    ],
+    "Productivity & Communication": [
+      {
+        "sentence": "clear out the shopping list",
+        "label": "list_management",
+        "topic": "Clear Shopping List"
+      },
+      {
+        "sentence": "reply email",
+        "label": "email",
+        "topic": "Reply to Email"
+      },
+      {
+        "sentence": "send a twitter complaint",
+        "label": "social_media",
+        "topic": "Post Twitter Complaint"
+      },
+      {
+        "sentence": "send an email to grandma saying we are dropping by on saturday see you then",
+        "label": "email",
+        "topic": "Send Email Message"
+      }
+    ],
+    "Information & Utilities": [
+      {
+        "sentence": "siri please check exchange rates",
+        "label": "finance",
+        "topic": "Exchange Rate Lookup"
+      },
+      {
+        "sentence": "what is twelve divided by four",
+        "label": "calculator",
+        "topic": "Arithmetic Calculation"
+      },
+      {
+        "sentence": "what's the weather for my location this week",
+        "label": "weather",
+        "topic": "Weekly Local Weather Forecast"
+      }
+    ]
+  },
+  {
+    "Knowledge & Information": [
+      {
+        "topic": "Person Location",
+        "label": "knowledge_query",
+        "sentences": [
+          "where does sophia vergara live"
+        ]
+      },
+      {
+        "topic": "Time Inquiry",
+        "label": "datetime",
+        "sentences": [
+          "what is the current time in chennai"
+        ]
+      },
+      {
+        "topic": "Weather Forecast",
+        "label": "weather",
+        "sentences": [
+          "is it raining tonight"
+        ]
+      },
+      {
+        "topic": "Message/Contact Status",
+        "label": "communication_status",
+        "sentences": [
+          "has ben got in touch"
+        ]
+      }
+    ],
+    "Media & Entertainment": [
+      {
+        "topic": "Audiobook/Reading Playback",
+        "label": "media_playback",
+        "sentences": [
+          "start chapter five of physics for future presidents"
+        ]
+      },
+      {
+        "topic": "Radio Playback",
+        "label": "media_playback",
+        "sentences": [
+          "play the last doctor who radio broadcast"
+        ]
+      },
+      {
+        "topic": "Music Playback",
+        "label": "media_playback",
+        "sentences": [
+          "will you put on the music"
+        ]
+      },
+      {
+        "topic": "Movie Schedule Recommendation",
+        "label": "recommendation",
+        "sentences": [
+          "can you give me the movie schedule"
+        ]
+      }
+    ],
+    "Smart Home & IoT": [
+      {
+        "topic": "Device Control",
+        "label": "iot",
+        "sentences": [
+          "enable my plug"
+        ]
+      }
+    ],
+    "Productivity & Scheduling": [
+      {
+        "topic": "Calendar Management",
+        "label": "calendar",
+        "sentences": [
+          "delete event from calendar"
+        ]
+      },
+      {
+        "topic": "Reminder Creation",
+        "label": "reminder",
+        "sentences": [
+          "set a reminder for this",
+          "please alert me to the time"
+        ]
+      }
+    ],
+    "Travel & Booking": [
+      {
+        "topic": "Train Ticket Booking",
+        "label": "travel_booking",
+        "sentences": [
+          "book me a train ticket"
+        ]
+      }
+    ],
+    "Communication & Writing": [
+      {
+        "topic": "Answer/Response Review",
+        "label": "document_review",
+        "sentences": [
+          "please see what you wrote for this question"
+        ]
+      },
+      {
+        "topic": "Greeting/Message Composition",
+        "label": "message_composition",
+        "sentences": [
+          "wedding wishes"
+        ]
+      }
+    ]
+  },
+  {
+    "Smart Home": [
+      "iot"
+    ],
+    "Date & Time / Scheduling": [
+      "datetime"
+    ],
+    "Information & Recommendations": [
+      "recommendation"
+    ],
+    "Navigation & Traffic": [
+      "traffic"
+    ],
+    "Math": [
+      "calculation"
+    ],
+    "Geography": [
+      "location_lookup"
+    ],
+    "Communication": [
+      "email"
+    ],
+    "Media & Entertainment": [
+      "audio_playback"
+    ],
+    "Productivity": [
+      "todo"
+    ]
+  },
+  {
+    "Media & Entertainment": [
+      "recommendation",
+      "Music Playback",
+      "Radio Playback",
+      "Playlist Control",
+      "Track Skipping"
+    ],
+    "Date & Time": [
+      "datetime",
+      "Alarm Status",
+      "Alarm Setting",
+      "Arrival Time"
+    ],
+    "Shopping & Orders": [
+      "Order Status"
+    ],
+    "Transportation & Traffic": [
+      "Traffic Conditions",
+      "Train Schedule"
+    ],
+    "Finance": [
+      "Currency Exchange Rate"
+    ],
+    "Communication": [
+      "Email Reply",
+      "Email Reading",
+      "Email Sending"
+    ],
+    "Productivity": [
+      "Calendar Event Creation"
+    ],
+    "Smart Home & IoT": [
+      "iot",
+      "Speaker Control"
+    ],
+    "Order History": [
+      "Past Order Retrieval"
+    ]
+  },
+  {
+    "Calendar & Scheduling": [
+      "datetime"
+    ],
+    "Media & Entertainment": [
+      "recommendation"
+    ],
+    "Smart Home & Devices": [
+      "iot"
+    ],
+    "Transportation": [
+      "train_schedule"
+    ],
+    "Cooking & Food": [
+      "recipe"
+    ],
+    "Communication": [
+      "email_check"
+    ],
+    "Finance & Currency": [
+      "currency_conversion"
+    ],
+    "Reminders & Tasks": [
+      "task_reminder"
+    ]
+  },
+  {
+    "Consumer Products": [
+      "Product Features"
+    ],
+    "Smart Home": [
+      "iot"
+    ],
+    "Weather": [
+      "datetime"
+    ],
+    "Personal Productivity": [
+      "recommendation",
+      "Calendar Management",
+      "Alarm Inquiry",
+      "Daily Summary"
+    ],
+    "General Knowledge": [
+      "Factoid Question"
+    ],
+    "Communication": [
+      "Email Reply Request",
+      "Email Drafting",
+      "Email Review"
+    ],
+    "Local Search & Shopping": [
+      "Store Recommendation"
+    ]
+  },
+  {
+    "Entertainment & Media": [
+      "recommendation",
+      "Music Preference"
+    ],
+    "Food & Beverage": [
+      "Food Ordering",
+      "Coffee Preparation"
+    ],
+    "Productivity & Scheduling": [
+      "datetime",
+      "Reminder Check",
+      "Calendar Query"
+    ],
+    "Smart Home & IoT": [
+      "iot"
+    ],
+    "Reference & Language": [
+      "Definition Lookup"
+    ],
+    "News & Current Events": [
+      "Political News Query"
+    ],
+    "Sports & Fitness": [
+      "Sport Topic"
+    ]
+  },
+  {
+    "Time & Scheduling": [
+      "datetime",
+      "alarm",
+      "reminder",
+      "calendar"
+    ],
+    "Smart Home": [
+      "iot"
+    ],
+    "Information & Reference": [
+      "weather",
+      "dictionary",
+      "date_query",
+      "currency_conversion"
+    ],
+    "Media & Navigation": [
+      "media_control",
+      "navigation"
+    ],
+    "Communication": [
+      "email"
+    ],
+    "Commerce & Delivery": [
+      "order_status"
+    ],
+    "Recommendations & Planning": [
+      "recommendation",
+      "agenda"
+    ]
+  },
+  {
+    "Food & Dining": [
+      {
+        "sentence": "order one pizza from pizza hut",
+        "topic": "Food Order"
+      },
+      {
+        "sentence": "recipes that can be cooked in an hour",
+        "topic": "Recipe Search"
+      },
+      {
+        "sentence": "cancel dinner tonight",
+        "topic": "Meal Plan Cancellation"
+      }
+    ],
+    "Device Control": [
+      {
+        "sentence": "mute volume",
+        "topic": "Audio Control",
+        "label": "iot"
+      }
+    ],
+    "Media & Entertainment": [
+      {
+        "sentence": "play my favorite song from last year",
+        "topic": "Music Playback"
+      },
+      {
+        "sentence": "find the latest disney podcast",
+        "topic": "Podcast Search",
+        "label": "recommendation"
+      },
+      {
+        "sentence": "i want to see the next podcast available",
+        "topic": "Podcast Discovery",
+        "label": "recommendation"
+      },
+      {
+        "sentence": "f. m. ninety three point five radio songs",
+        "topic": "Radio Playback"
+      },
+      {
+        "sentence": "where is the kiss concert",
+        "topic": "Concert Information"
+      }
+    ],
+    "Games & Apps": [
+      {
+        "sentence": "olly play poker with me",
+        "topic": "Game Request"
+      },
+      {
+        "sentence": "open saga",
+        "topic": "App Launch"
+      }
+    ],
+    "Productivity & Scheduling": [
+      {
+        "sentence": "rahul marriage reminder",
+        "topic": "Reminder Creation",
+        "label": "datetime"
+      },
+      {
+        "sentence": "tell me my schedule for later this afternoon",
+        "topic": "Schedule Query",
+        "label": "datetime"
+      }
+    ],
+    "Knowledge & Information": [
+      {
+        "sentence": "what is the definition of forensic",
+        "topic": "Definition Lookup"
+      },
+      {
+        "sentence": "were the stocks rising or declining",
+        "topic": "Stock Market Query"
+      }
+    ]
+  },
+  {
+    "Scheduling & Time": [
+      {
+        "sentence": "what is happening after one and before three p. m.",
+        "label": "datetime",
+        "topic": "Calendar Availability Query"
+      },
+      {
+        "sentence": "what do i have coming up",
+        "label": "datetime",
+        "topic": "Upcoming Events"
+      },
+      {
+        "sentence": "please change time zone to canada",
+        "label": "datetime",
+        "topic": "Time Zone Change"
+      },
+      {
+        "sentence": "save event for five p. m. to six p. m. on march eighteenth",
+        "label": "datetime",
+        "topic": "Create Calendar Event"
+      },
+      {
+        "sentence": "what are my next three events",
+        "label": "datetime",
+        "topic": "Next Events Query"
+      }
+    ],
+    "Recommendations & Information": [
+      {
+        "sentence": "which teams are playing today in the premier league",
+        "label": "recommendation",
+        "topic": "Sports Schedule"
+      },
+      {
+        "sentence": "give me up to date on sports news",
+        "label": "recommendation",
+        "topic": "Sports News Update"
+      },
+      {
+        "sentence": "what is the weather for this week",
+        "label": "recommendation",
+        "topic": "Weather Forecast"
+      },
+      {
+        "sentence": "please summarize the latest george r. r. martin ice and fire book",
+        "label": "recommendation",
+        "topic": "Book Summary"
+      },
+      {
+        "sentence": "find me the cheapest train ticket to spain",
+        "label": "recommendation",
+        "topic": "Travel Deal Search"
+      }
+    ],
+    "Smart Home & Device Control": [
+      {
+        "sentence": "let's suck out the dust",
+        "label": "iot",
+        "topic": "Vacuum Cleaner Control"
+      },
+      {
+        "sentence": "help is to be sent only to jane",
+        "label": "iot",
+        "topic": "Emergency Contact Setting"
+      }
+    ],
+    "Media & Entertainment": [
+      {
+        "sentence": "let's play music hits",
+        "label": "media",
+        "topic": "Play Music"
+      },
+      {
+        "sentence": "resume the song from the audiobook by the beatles",
+        "label": "media",
+        "topic": "Resume Audio Playback"
+      }
+    ],
+    "Knowledge & Definitions": [
+      {
+        "sentence": "define speaker",
+        "label": "knowledge",
+        "topic": "Word Definition"
+      }
+    ]
+  },
+  {
+    "Information & Search": [
+      "Person Information",
+      "News",
+      "Weather",
+      "Local Events"
+    ],
+    "Communication": [
+      "Email Check",
+      "Recent Emails",
+      "Email Reply / Compose"
+    ],
+    "Media & Entertainment": [
+      "Music Playback - Artist",
+      "Music Playback - Genre",
+      "Music Recommendation",
+      "Podcast Playback"
+    ],
+    "Food & Dining": [
+      "Food Ordering"
+    ],
+    "Productivity & Scheduling": [
+      "Calendar Scheduling",
+      "Task / Errand List"
+    ],
+    "Smart Home / IoT": [
+      "Speaker Volume Control"
+    ]
+  },
+  {
+    "Productivity & Scheduling": [
+      "datetime",
+      "Calendar Event Creation",
+      "Calendar Event Lookup",
+      "Reminders",
+      "Recurring Reminders"
+    ],
+    "Smart Home & Devices": [
+      "iot",
+      "Appliance Control",
+      "Media Resume"
+    ],
+    "Recommendations & Substitutions": [
+      "recommendation",
+      "Cooking Ingredient Substitute"
+    ],
+    "Weather": [
+      "Weather Forecast"
+    ],
+    "News & Politics": [
+      "Political Investigation Update"
+    ],
+    "Personal Life & Emotions": [
+      "Personal Achievement"
+    ],
+    "Entertainment & Games": [
+      "Game Request"
+    ],
+    "Travel & Transportation": [
+      "Ticket Booking"
+    ],
+    "Philosophy & Reflection": [
+      "Consequences of Actions"
+    ],
+    "Events & Discovery": [
+      "Upcoming Events"
+    ]
+  },
+  {
+    "Local Search": [
+      "nearest_place_lookup"
+    ],
+    "Calendar & Time": [
+      "datetime",
+      "calendar_query",
+      "calendar_create",
+      "calendar_delete",
+      "alarm_set"
+    ],
+    "Sports & Events": [
+      "event_time_query"
+    ],
+    "Communication": [
+      "email_search"
+    ],
+    "Food & Cooking": [
+      "recipe_lookup"
+    ],
+    "Entertainment & Media": [
+      "app_open",
+      "media_control"
+    ],
+    "Knowledge & Reference": [
+      "person_info",
+      "currency_conversion_historical"
+    ],
+    "Smart Home": [
+      "iot"
+    ]
+  },
+  {
+    "Productivity & Communication": [
+      "email_send",
+      "email_check",
+      "list_management"
+    ],
+    "Food & Cooking": [
+      "recipe_request",
+      "cooking_how_to"
+    ],
+    "Media & Entertainment": [
+      "music_playback"
+    ],
+    "Travel & Transportation": [
+      "flight_price_search",
+      "ride_hailing",
+      "traffic_check"
+    ],
+    "Utilities & Math": [
+      "calculation"
+    ],
+    "Conversation": [
+      "small_talk"
+    ],
+    "Smart Home & IoT": [
+      "iot",
+      "alarm_control",
+      "alarm_status"
+    ],
+    "Datetime": [
+      "datetime"
+    ]
+  },
+  {
+    "Food & Cooking": [
+      "Cooking Advice"
+    ],
+    "Public Safety": [
+      "Safety Inquiry"
+    ],
+    "Productivity & Scheduling": [
+      "datetime",
+      "Reminders"
+    ],
+    "News & Information": [
+      "recommendation",
+      "News Query",
+      "Entity Alert",
+      "Item Description"
+    ],
+    "Communication & Email": [
+      "Email Reply",
+      "Email Search",
+      "Email Check"
+    ],
+    "Arts & Events": [
+      "Event Recommendation"
+    ],
+    "Smart Home / IoT": [
+      "iot"
+    ],
+    "Contacts & Directory": [
+      "Phone Number Lookup"
+    ],
+    "Unclear / Other": [
+      "Unrecognized Request"
+    ]
+  },
+  {
+    "Finance": [
+      "currency_conversion"
+    ],
+    "Entertainment": [
+      "game_play",
+      "music_radio_control",
+      "music_playback"
+    ],
+    "Productivity": [
+      "calendar_event_creation",
+      "calendar_event_details",
+      "calendar_event_view",
+      "list_management"
+    ],
+    "Weather": [
+      "weather_forecast"
+    ],
+    "Travel": [
+      "tourist_recommendation"
+    ],
+    "Retail": [
+      "product_expiry_inquiry"
+    ],
+    "Social": [
+      "greeting"
+    ],
+    "Contacts": [
+      "contact_phone_lookup",
+      "contact_email_add"
+    ],
+    "Health": [
+      "dental_information"
+    ]
+  },
+  {
+    "Weather": [
+      "datetime",
+      "recommendation"
+    ],
+    "Smart Home": [
+      "iot"
+    ],
+    "Communication": [
+      "contact_request"
+    ],
+    "Productivity": [
+      "datetime"
+    ],
+    "Local Search": [
+      "recommendation",
+      "navigation"
+    ],
+    "Math": [
+      "calculation"
+    ],
+    "Entertainment": [
+      "game",
+      "media_control"
+    ],
+    "Knowledge": [
+      "music_query",
+      "history_query",
+      "location_query"
+    ]
+  },
+  {
+    "Date & Time": [
+      "datetime"
+    ],
+    "Recommendations & Booking": [
+      "recommendation"
+    ],
+    "Smart Home / IoT": [
+      "iot"
+    ],
+    "Productivity & Lists": [
+      "list_management"
+    ],
+    "Games & Entertainment": [
+      "game_launch",
+      "music_playback"
+    ],
+    "Communication": [
+      "email",
+      "social_posting",
+      "contacts"
+    ],
+    "Navigation & Traffic": [
+      "traffic_info"
+    ],
+    "Food & Cooking": [
+      "cooking"
+    ],
+    "Media & Preferences": [
+      "preference_saving"
+    ]
+  },
+  {
+    "Personal Assistant": [
+      "datetime",
+      "iot",
+      "recommendation"
+    ],
+    "Entertainment & Sports": [
+      "sports_rules"
+    ],
+    "Finance & Economy": [
+      "housing_prices",
+      "currency_exchange"
+    ],
+    "Weather": [
+      "weather_forecast"
+    ],
+    "News & Media": [
+      "news_headlines",
+      "local_current_events"
+    ],
+    "People & Biography": [
+      "age_query"
+    ],
+    "Shopping & Lists": [
+      "shopping_list_management"
+    ],
+    "Animals": [
+      "animal_identification"
+    ],
+    "Personal Logging": [
+      "activity_logging"
+    ]
+  },
+  {
+    "Smart Home": [
+      "iot"
+    ],
+    "Date & Time": [
+      "datetime"
+    ],
+    "Discovery & Suggestions": [
+      "recommendation"
+    ],
+    "Finance": [
+      "credit"
+    ],
+    "Social Media": [
+      "social_post"
+    ],
+    "Weather": [
+      "weather"
+    ],
+    "Entertainment": [
+      "music"
+    ]
+  },
+  {
+    "Productivity & Communication": [
+      "calendar_note",
+      "email_send",
+      "email_check",
+      "list_add",
+      "list_find"
+    ],
+    "Transportation & Travel": [
+      "taxi_booking",
+      "train_ticket_price",
+      "travel_ticket_confirmation"
+    ],
+    "Smart Home & Device Control": [
+      "iot"
+    ],
+    "Date & Time": [
+      "datetime",
+      "reminder"
+    ],
+    "Recommendations & Discovery": [
+      "recommendation",
+      "recipe_search",
+      "event_search",
+      "local_event_update"
+    ]
+  },
+  {
+    "Smart Home & Device Control": [
+      {
+        "topic": "iot",
+        "sentences": [
+          "silence for two hours",
+          "olly turn the news on",
+          "do not speak today"
+        ]
+      }
+    ],
+    "Calendar & Time": [
+      {
+        "topic": "datetime",
+        "sentences": [
+          "hey tell me more about my meetings today",
+          "is the twenty second on a wednesday",
+          "a quarter to two",
+          "is there an alarm for ten am"
+        ]
+      }
+    ],
+    "Reminders & Productivity": [
+      {
+        "topic": "reminder",
+        "sentences": [
+          "can you remind me to take the garbage out on tuesday"
+        ]
+      }
+    ],
+    "Navigation & Traffic": [
+      {
+        "topic": "traffic",
+        "sentences": [
+          "how is the traffic presently near central park road"
+        ]
+      }
+    ],
+    "Knowledge & Reference": [
+      {
+        "topic": "general_information",
+        "sentences": [
+          "the definition of life"
+        ]
+      }
+    ],
+    "Communication": [
+      {
+        "topic": "email",
+        "sentences": [
+          "read list of new emails"
+        ]
+      },
+      {
+        "topic": "contacts",
+        "sentences": [
+          "what groups are listed in my contacts"
+        ]
+      }
+    ],
+    "Shopping & Recommendations": [
+      {
+        "topic": "recommendation",
+        "sentences": [
+          "search in the web for buying bakeware for muffins"
+        ]
+      },
+      {
+        "topic": "food_ordering",
+        "sentences": [
+          "i need to order some food from papa john's"
+        ]
+      }
+    ],
+    "News & Media": [
+      {
+        "topic": "news",
+        "sentences": [
+          "what's sensational in time of india"
+        ]
+      }
+    ]
+  },
+  {
+    "Entertainment & Social": [
+      "Celebrity News",
+      "Humor"
+    ],
+    "Transportation & Travel": [
+      "Taxi Booking",
+      "Train Ticket Booking",
+      "Event Planning"
+    ],
+    "Contacts & Productivity": [
+      "Contact Lists",
+      "Calendar Events"
+    ],
+    "Smart Home & IoT": [
+      "Device Control",
+      "Coffee Machine Control",
+      "Power Management"
+    ],
+    "Alarms & Reminders": [
+      "Alarm Removal"
+    ],
+    "Customer Support": [
+      "Product Malfunction"
+    ],
+    "Knowledge & Trivia": [
+      "Philosophical Question",
+      "Definition Lookup"
+    ],
+    "Weather & Environment": [
+      "Weather Query"
+    ]
+  },
+  {
+    "Communication": [
+      "Email Management",
+      "Messaging",
+      "Social Media Messaging"
+    ],
+    "Media & Entertainment": [
+      "Book Request"
+    ],
+    "Productivity & Scheduling": [
+      "Alarm Setting",
+      "Calendar Check",
+      "Event Date Verification"
+    ],
+    "Smart Home & IoT": [
+      "Device Status Check",
+      "Light Brightness Control"
+    ],
+    "Finance": [
+      "Stock Price Inquiry"
+    ],
+    "Transportation": [
+      "Cab Booking"
+    ],
+    "People & Lifestyle": [
+      "Celebrity Appearance Question"
+    ],
+    "Food & Hospitality": [
+      "Menu Update"
+    ],
+    "Data Management": [
+      "List Deletion"
+    ]
+  },
+  {
+    "Smart Home": [
+      "iot"
+    ],
+    "Weather & Clothing": [
+      "recommendation"
+    ],
+    "Music & Audio": [
+      "recommendation"
+    ],
+    "Calendar & Time": [
+      "datetime"
+    ],
+    "Search & Navigation": [
+      "recommendation"
+    ],
+    "Shopping & Product Queries": [
+      "recommendation"
+    ],
+    "Device Settings": [
+      "iot"
+    ],
+    "Communication": [
+      "messaging"
+    ]
+  },
+  {
+    "Date & Time": [
+      "datetime"
+    ],
+    "Recommendations & Discovery": [
+      "recommendation"
+    ],
+    "Smart Home & IoT": [
+      "iot"
+    ],
+    "Productivity": [
+      "alarm_management",
+      "calendar_query",
+      "calendar_event_creation",
+      "list_management",
+      "contacts"
+    ],
+    "Media & Entertainment": [
+      "media_playback_control",
+      "audiobook_playback",
+      "music_playback",
+      "music_request"
+    ],
+    "Utilities & Calculation": [
+      "arithmetic_word_problem",
+      "time_query"
+    ],
+    "Knowledge & Information": [
+      "geography_query",
+      "notifications_query"
+    ]
+  },
+  {
+    "Calendar & Scheduling": [
+      "datetime"
+    ],
+    "Media & Entertainment": [
+      "recommendation",
+      "music_playback",
+      "audio_control"
+    ],
+    "Smart Home & Devices": [
+      "iot"
+    ],
+    "Travel & Navigation": [
+      "transit_info"
+    ],
+    "Food & Cooking": [
+      "recipe_search"
+    ],
+    "Communication & Social": [
+      "social_media_monitoring",
+      "email_query",
+      "social_posting"
+    ],
+    "Local Discovery & Events": [
+      "event_search"
+    ],
+    "Games": [
+      "game_launch"
+    ],
+    "Task Management": [
+      "reminder_creation"
+    ]
+  },
+  {
+    "Calendar & Reminders": [
+      "datetime",
+      "Reminder Creation",
+      "Reminder Query",
+      "Event Deletion",
+      "Date Scheduling",
+      "Recurring Schedule"
+    ],
+    "Recommendations & Advice": [
+      "recommendation",
+      "Activity Timing Advice",
+      "Recipe Request"
+    ],
+    "Smart Home & Device Control": [
+      "iot",
+      "App Launch",
+      "Music Playback",
+      "Game Launch"
+    ],
+    "Entertainment & Social": [
+      "Joke Request",
+      "Social Media Posting"
+    ],
+    "Weather & Environment": [
+      "Climate Inquiry"
+    ],
+    "Transportation": [
+      "Train Schedule Inquiry"
+    ]
+  },
+  {
+    "Finance": [
+      "currency_exchange"
+    ],
+    "Smart Home & IoT": [
+      "iot",
+      "lighting_control",
+      "appliance_control"
+    ],
+    "Productivity & Time Management": [
+      "datetime",
+      "reminder_notification",
+      "recurring_reminder"
+    ],
+    "Entertainment & Media": [
+      "music_playback",
+      "media_save"
+    ],
+    "Communication & Social": [
+      "birthday_message",
+      "gratitude_message",
+      "social_media_complaint"
+    ],
+    "Navigation & Local Services": [
+      "directions",
+      "delivery_availability"
+    ],
+    "Food & Dining": [
+      "recipe_request"
+    ],
+    "Information & Recommendations": [
+      "recommendation",
+      "actor_filmography"
+    ]
+  },
+  {
+    "Calendar & Time": [
+      "datetime"
+    ],
+    "Recommendations & Discovery": [
+      "recommendation"
+    ],
+    "Smart Home & Device Control": [
+      "iot"
+    ],
+    "News & Information": [
+      "news_query",
+      "social_media_trends",
+      "radio_identification"
+    ],
+    "Communication": [
+      "email_check",
+      "email_compose",
+      "contact_management"
+    ],
+    "Transportation": [
+      "train_schedule"
+    ],
+    "Entertainment & Gaming": [
+      "gaming"
+    ],
+    "Hypothetical / Conversational": [
+      "philosophical_question"
+    ]
+  },
+  {
+    "Media & Entertainment": [
+      "recommendation",
+      "Music Identification",
+      "Podcast Control",
+      "Radio Playback",
+      "Playlist Looping",
+      "Game Request"
+    ],
+    "Finance & Markets": [
+      "Stock Price Lookup"
+    ],
+    "Productivity & Scheduling": [
+      "datetime",
+      "Reminder Creation",
+      "Reminder Deletion",
+      "Recurring Meeting Scheduling"
+    ],
+    "Information & Discovery": [
+      "Event Inquiry",
+      "General Knowledge",
+      "Weather Forecast"
+    ],
+    "Communication & Social": [
+      "Contact Management",
+      "Social Media Posting",
+      "Email Reply"
+    ]
+  },
+  {
+    "Productivity": [
+      "datetime",
+      "List Management"
+    ],
+    "Media & Entertainment": [
+      "recommendation",
+      "Music Identification",
+      "Playback Control"
+    ],
+    "Smart Home": [
+      "iot"
+    ],
+    "Social & Communication": [
+      "Social Media Action",
+      "Message Composition"
+    ],
+    "News & Information": [
+      "News Request",
+      "Fact Checking",
+      "Person Lookup"
+    ],
+    "Reviews & Feedback": [
+      "Negative Review"
+    ],
+    "Conversation": [
+      "Self-Reflection",
+      "Repeat Response"
+    ],
+    "Cooking": [
+      "Cooking Status"
+    ]
+  },
+  {
+    "Productivity & Scheduling": [
+      "datetime"
+    ],
+    "Media & Entertainment": [
+      "iot"
+    ],
+    "Discovery & Suggestions": [
+      "recommendation"
+    ],
+    "Shopping & Food Services": [
+      "restaurant_takeaway"
+    ],
+    "Customer Support": [
+      "customer_service_complaint"
+    ],
+    "News & Current Events": [
+      "news"
+    ],
+    "Weather": [
+      "weather"
+    ],
+    "Education & Knowledge": [
+      "science_question",
+      "geography_question"
+    ],
+    "Lists & Notes": [
+      "list_creation"
+    ],
+    "Food & Drink": [
+      "coffee_order"
+    ]
+  },
+  {
+    "News & Information": [
+      "recommendation",
+      "Dictionary Lookup",
+      "General Knowledge",
+      "Religion & Mythology"
+    ],
+    "Productivity & Communication": [
+      "datetime",
+      "Email",
+      "Contacts",
+      "Reminders"
+    ],
+    "Weather": [
+      "Weather Forecast"
+    ],
+    "Smart Home & IoT": [
+      "iot",
+      "Smart Lighting",
+      "Smart Cleaning"
+    ],
+    "Entertainment & Media": [
+      "Music Playback"
+    ],
+    "Customer Service & Feedback": [
+      "Complaint"
+    ]
+  },
+  {
+    "Finance": [
+      "Currency Exchange"
+    ],
+    "Weather & Time": [
+      "Weather Forecast",
+      "Scheduling"
+    ],
+    "Media & Entertainment": [
+      "Music Recommendation",
+      "Podcast Recommendation",
+      "Jokes"
+    ],
+    "Lists & Productivity": [
+      "List Reset",
+      "List Deletion",
+      "Playlist Management"
+    ],
+    "Travel & Transportation": [
+      "Train Ticket Booking"
+    ],
+    "Knowledge & Trivia": [
+      "Title Lookup",
+      "Riddle",
+      "Moral Hypothetical"
+    ],
+    "Business & Research": [
+      "Company Complaints Lookup"
+    ]
+  },
+  {
+    "General Knowledge": [
+      "math_question",
+      "product_definition",
+      "animal_facts",
+      "person_education",
+      "news_update"
+    ],
+    "Smart Home & Devices": [
+      "iot",
+      "alarm_control"
+    ],
+    "Shopping & Recommendations": [
+      "recommendation",
+      "sales_lookup",
+      "personal_preferences"
+    ],
+    "Calendar & Scheduling": [
+      "datetime",
+      "meeting_cancel",
+      "meeting_schedule",
+      "sports_schedule"
+    ],
+    "Communication & Social": [
+      "inbox_check",
+      "social_media_post"
+    ],
+    "Weather": [
+      "weather_forecast"
+    ]
+  },
+  {
+    "Productivity & Communication": [
+      "datetime",
+      "Email",
+      "Contacts",
+      "Notifications",
+      "Alarms"
+    ],
+    "Media & Entertainment": [
+      "recommendation",
+      "Music Playback",
+      "Podcast Playback",
+      "Audiobook Playback",
+      "Voice Control"
+    ],
+    "Smart Home & IoT": [
+      "iot",
+      "Lighting Control",
+      "Display Control"
+    ],
+    "Travel & Transportation": [
+      "Navigation",
+      "Train Booking",
+      "Ride Booking"
+    ],
+    "General Knowledge": [
+      "Country Comparison"
+    ]
+  },
+  {
+    "Productivity & Scheduling": [
+      "datetime",
+      "Calendar Events",
+      "Reminders",
+      "Alarms",
+      "Lists"
+    ],
+    "Smart Home & Devices": [
+      "iot",
+      "Lighting Control",
+      "Device Settings"
+    ],
+    "Media & Entertainment": [
+      "Music Playback",
+      "Audio Preferences"
+    ],
+    "Food & Shopping": [
+      "recommendation",
+      "Cooking Guidance",
+      "Food Ordering"
+    ],
+    "Communication": [
+      "Email Management",
+      "Email Search"
+    ],
+    "Information & Reference": [
+      "Finance Information",
+      "Literature Lookup"
+    ]
+  },
+  {
+    "Social Media & Communication": [
+      "recommendation",
+      "Social Activity Feed",
+      "Social Media Complaint Posting"
+    ],
+    "Time & Date": [
+      "datetime",
+      "Relative Time Period",
+      "Calendar Date Query"
+    ],
+    "Food & Dining": [
+      "Recipe Instructions",
+      "Restaurant Takeaway Availability",
+      "Dining History Statistics"
+    ],
+    "Media & Entertainment": [
+      "Radio Tuning",
+      "Movie Releases"
+    ],
+    "Travel & Transport": [
+      "Train Schedule"
+    ],
+    "Business & Finance": [
+      "Investment Inquiry",
+      "Stock Price Lookup"
+    ],
+    "News & Information": [
+      "News Search",
+      "List Retrieval"
+    ],
+    "Customer Support": [
+      "Complaint Assistance"
+    ]
+  },
+  {
+    "Contacts & Communication": [
+      {
+        "sentence": "add this person's email",
+        "topic": "Add Contact Email",
+        "label": "contacts"
+      },
+      {
+        "sentence": "has anyone commented on my status",
+        "topic": "Check Social Media Comments",
+        "label": "social_media"
+      },
+      {
+        "sentence": "twitter to destination x. l. that they run out of sizes too fast",
+        "topic": "Post Tweet",
+        "label": "social_media"
+      }
+    ],
+    "News & Information": [
+      {
+        "sentence": "who won the presidential election this year",
+        "topic": "Election Results",
+        "label": "news_query"
+      },
+      {
+        "sentence": "where was president madison born",
+        "topic": "Historical Fact Lookup",
+        "label": "fact_query"
+      }
+    ],
+    "Smart Home & IoT": [
+      {
+        "sentence": "olly put dark colors instead of light ones in the house",
+        "topic": "Change Light Color Setting",
+        "label": "iot"
+      },
+      {
+        "sentence": "brightness ninety percent",
+        "topic": "Adjust Brightness",
+        "label": "iot"
+      }
+    ],
+    "Device & App Control": [
+      {
+        "sentence": "android",
+        "topic": "Open Android App/Section",
+        "label": "app_control"
+      },
+      {
+        "sentence": "vitaly channel",
+        "topic": "Open Channel",
+        "label": "media_navigation"
+      }
+    ],
+    "Media & Entertainment": [
+      {
+        "sentence": "resume born to run",
+        "topic": "Resume Music Playback",
+        "label": "media_playback"
+      },
+      {
+        "sentence": "go back to the last episode in this podcast",
+        "topic": "Navigate Podcast Episode",
+        "label": "media_playback"
+      },
+      {
+        "sentence": "bring me the title of current music",
+        "topic": "Current Track Information",
+        "label": "media_info"
+      },
+      {
+        "sentence": "hey play my favorite podcast from list",
+        "topic": "Play Favorite Podcast",
+        "label": "media_playback"
+      }
+    ],
+    "Utilities": [
+      {
+        "sentence": "what is six divided by two",
+        "topic": "Arithmetic Calculation",
+        "label": "calculator"
+      },
+      {
+        "sentence": "set notification from world news",
+        "topic": "Set News Notification",
+        "label": "datetime"
+      }
+    ]
+  },
+  {
+    "Productivity & Scheduling": [
+      "datetime",
+      "Calendar & Reminders"
+    ],
+    "Smart Home & IoT": [
+      "iot",
+      "Device Control"
+    ],
+    "Media & Recommendations": [
+      "recommendation",
+      "Music Playback"
+    ],
+    "Communication": [
+      "Email Search"
+    ],
+    "Transportation": [
+      "Taxi Booking"
+    ],
+    "Information & Knowledge": [
+      "Object Composition"
+    ],
+    "Shopping & Lists": [
+      "Shopping List"
+    ],
+    "Weather": [
+      "Forecast Request"
+    ]
+  },
+  {
+    "Personal Information & Scheduling": [
+      "datetime",
+      "iot"
+    ],
+    "Information & Media": [
+      "recommendation",
+      "knowledge",
+      "news",
+      "search",
+      "currency",
+      "contacts",
+      "celebrity"
+    ]
+  },
+  {
+    "Media & Entertainment": [
+      "recommendation"
+    ],
+    "Smart Home & IoT": [
+      "iot"
+    ],
+    "Productivity & Communication": [
+      "datetime",
+      "email",
+      "notifications",
+      "calendar",
+      "reminders"
+    ],
+    "Navigation & Traffic": [
+      "traffic"
+    ]
+  },
+  {
+    "Navigation & Local": [
+      "venue_location",
+      "directions",
+      "restaurant_takeout"
+    ],
+    "News & Information": [
+      "news",
+      "historical_fact",
+      "list_items",
+      "celebrity_locations"
+    ],
+    "Media & Entertainment": [
+      "radio_playback"
+    ],
+    "Date & Time": [
+      "current_time",
+      "death_date"
+    ],
+    "Calendar & Scheduling": [
+      "calendar_cancel",
+      "meeting_invite_and_block",
+      "reminder_set"
+    ],
+    "Alarms & Wake-up": [
+      "wake_up_alarm_set",
+      "alarm_check",
+      "wake_up_statement"
+    ]
+  },
+  {
+    "General Conversation": [
+      "wellbeing_check"
+    ],
+    "Cooking & Food": [
+      "recipe_request",
+      "cooking_temperature",
+      "food_ordering"
+    ],
+    "Finance & Reference": [
+      "currency_exchange",
+      "definition_lookup"
+    ],
+    "Media & Entertainment": [
+      "podcast_playback",
+      "music_playback",
+      "radio_playback",
+      "audiobook_control"
+    ],
+    "Communication & Productivity": [
+      "email_composition",
+      "calendar_management",
+      "alarm_review"
+    ],
+    "Smart Home & IoT": [
+      "iot"
+    ]
+  },
+  {
+    "Calendar & Scheduling": [
+      "datetime"
+    ],
+    "Smart Home & IoT": [
+      "iot"
+    ],
+    "Recommendations & Suggestions": [
+      "recommendation"
+    ],
+    "News & Information": [
+      "news_query",
+      "traffic_info",
+      "currency_exchange"
+    ],
+    "Travel & Transportation": [
+      "flight_booking"
+    ],
+    "Productivity & Communication": [
+      "contact_lookup"
+    ],
+    "Media & Entertainment": [
+      "podcast_playback",
+      "music_identification"
+    ],
+    "Connectivity": [
+      "internet_access"
+    ],
+    "Utilities & Calculation": [
+      "math_calculation"
+    ]
+  },
+  {
+    "Smart Home": [
+      "iot"
+    ],
+    "Date & Time": [
+      "datetime"
+    ],
+    "Recommendations & Discovery": [
+      "recommendation"
+    ],
+    "Entertainment": [
+      "music_playback",
+      "movie_showtimes"
+    ],
+    "Travel & Transport": [
+      "train_ticket_booking",
+      "taxi_booking",
+      "traffic_report"
+    ],
+    "Shopping & Retail": [
+      "shopping_search",
+      "purchase_order_details"
+    ],
+    "Communication": [
+      "email_check"
+    ],
+    "Food & Beverage": [
+      "coffee_preparation"
+    ],
+    "Other": [
+      "unknown"
+    ]
+  },
+  {
+    "Finance": [
+      "stock_performance"
+    ],
+    "Productivity": [
+      "datetime",
+      "task_list"
+    ],
+    "Location & Tracking": [
+      "iot"
+    ],
+    "Education": [
+      "grades"
+    ],
+    "Smart Home": [
+      "appliance_control"
+    ],
+    "Media & Entertainment": [
+      "radio_tuning",
+      "music_playback"
+    ],
+    "Social & Communication": [
+      "social_updates",
+      "social_posting",
+      "social_complaint"
+    ],
+    "Information & Facts": [
+      "person_birthdate"
+    ],
+    "Weather": [
+      "weather_forecast"
+    ]
+  },
+  {
+    "Productivity": [
+      "datetime",
+      "Lists",
+      "Contacts"
+    ],
+    "Local Services": [
+      "recommendation",
+      "Business Information"
+    ],
+    "Smart Home": [
+      "iot",
+      "Media Control"
+    ],
+    "Communication": [
+      "Messaging"
+    ]
+  },
+  {
+    "Humor & Social": [
+      "joke_request",
+      "social_greeting"
+    ],
+    "Device Control": [
+      "iot",
+      "delete_command"
+    ],
+    "Travel & Transit": [
+      "datetime"
+    ],
+    "Contacts & Communication": [
+      "contact_management",
+      "email_check"
+    ],
+    "Finance & Currency": [
+      "exchange_rate"
+    ],
+    "News & Information": [
+      "news_query"
+    ],
+    "Entertainment & Media": [
+      "recommendation",
+      "podcast_playback"
+    ]
+  },
+  {
+    "Cooking": [
+      "Turkey Cooking Time"
+    ],
+    "Audio Entertainment": [
+      "Podcast Playback",
+      "Radio Playback",
+      "Music Streaming"
+    ],
+    "Communication": [
+      "Email Read",
+      "Email Compose",
+      "Social Media Complaint"
+    ],
+    "Media Playback": [
+      "Video Playback"
+    ],
+    "Scheduling": [
+      "Calendar Event Scheduling"
+    ],
+    "Smart Home": [
+      "Drink Request"
+    ],
+    "Finance": [
+      "Currency Exchange Rates"
+    ],
+    "Conversation": [
+      "Open-ended Chat"
+    ],
+    "Information": [
+      "Celebrity Information"
+    ]
+  },
+  {
+    "Communication": [
+      "Email Check",
+      "Recent Caller Lookup"
+    ],
+    "Media": [
+      "Podcast Upload",
+      "Music Preference",
+      "Play Music"
+    ],
+    "Productivity": [
+      "Do Not Disturb Reminder",
+      "Calendar Event Creation",
+      "List Deletion",
+      "List Item Removal"
+    ],
+    "Food & Delivery": [
+      "Restaurant Search and Order",
+      "Delivery Availability"
+    ],
+    "Alarms & Time": [
+      "Alarm Setting",
+      "Business Hours Inquiry"
+    ],
+    "Knowledge": [
+      "Definition Lookup"
+    ],
+    "Transportation": [
+      "Taxi Booking"
+    ]
+  },
+  {
+    "Communication": [
+      "Email Search/Status"
+    ],
+    "Calendar & Scheduling": [
+      "Date Range Meetings",
+      "Create Calendar Block",
+      "Current Date"
+    ],
+    "Knowledge & Information": [
+      "Arithmetic",
+      "General Fact Lookup",
+      "Definition Lookup"
+    ],
+    "Media & Entertainment": [
+      "Open Application",
+      "Music Playback Preferences"
+    ],
+    "Food & Beverage": [
+      "Drink Request"
+    ],
+    "Productivity": [
+      "List Count",
+      "Reminder Review"
+    ],
+    "Weather & Clothing": [
+      "Weather-Based Clothing Advice"
+    ],
+    "Smart Home": [
+      "Lighting Control"
+    ]
+  },
+  {
+    "Communication": [
+      "Email Checking",
+      "Email Sending"
+    ],
+    "Media & Entertainment": [
+      "Music Playback",
+      "Podcast Search"
+    ],
+    "Travel & Booking": [
+      "Train Ticket Booking",
+      "Train Ticket Inquiry"
+    ],
+    "Smart Home": [
+      "Light Control",
+      "Device Power Control"
+    ],
+    "Productivity & Scheduling": [
+      "Diary/Task Check",
+      "Calendar Schedule Check"
+    ],
+    "Local Search & Recommendations": [
+      "Restaurant Search"
+    ],
+    "Knowledge & Information": [
+      "General Question Answering"
+    ],
+    "Unclear / Invalid": [
+      "Incomplete Input"
+    ]
+  },
+  {
+    "Smart Home & IoT": [
+      {
+        "topic": "iot",
+        "sentences": [
+          "lower the intensity of light",
+          "change volume to thirty five percent",
+          "olly play next recording",
+          "start the robot roomba",
+          "cut down the volume",
+          "play my shuffled playlist please"
+        ]
+      }
+    ],
+    "Date & Time": [
+      {
+        "topic": "datetime",
+        "sentences": [
+          "i need to know the time right now what is it",
+          "add shopping to my calendar for tomorrow"
+        ]
+      }
+    ],
+    "Recommendations & Local Search": [
+      {
+        "topic": "recommendation",
+        "sentences": [
+          "i want to know what supermarket near me has the best price on gluten free bread"
+        ]
+      }
+    ],
+    "Weather": [
+      {
+        "topic": "weather_forecast",
+        "sentences": [
+          "tomorrow's temperature is to be hot yes or no"
+        ]
+      }
+    ],
+    "Email & Communication": [
+      {
+        "topic": "email",
+        "sentences": [
+          "what was the last email from work",
+          "show latest email"
+        ]
+      }
+    ],
+    "Knowledge & Reference": [
+      {
+        "topic": "lifestyle",
+        "sentences": [
+          "veganism"
+        ]
+      },
+      {
+        "topic": "news_politics",
+        "sentences": [
+          "economic affairs"
+        ]
+      },
+      {
+        "topic": "assistant_identity",
+        "sentences": [
+          "who are your developers"
+        ]
+      }
+    ]
+  },
+  {
+    "Communication & Social": [
+      {
+        "topic": "Social Posting / Gossip",
+        "label": "social",
+        "sentences": [
+          "start a gossip"
+        ]
+      },
+      {
+        "topic": "Social Media Posting",
+        "label": "social",
+        "sentences": [
+          "tweet a disgusted face about mcdonalds"
+        ]
+      }
+    ],
+    "Weather": [
+      {
+        "topic": "Weather Summary",
+        "label": "weather",
+        "sentences": [
+          "summarize week's weather details"
+        ]
+      },
+      {
+        "topic": "Current Weather Confirmation",
+        "label": "weather",
+        "sentences": [
+          "it is a sunny day today right"
+        ]
+      },
+      {
+        "topic": "Weather Forecast",
+        "label": "weather",
+        "sentences": [
+          "hey what will the weather be like to today in los angeles california"
+        ]
+      }
+    ],
+    "Navigation & Local Services": [
+      {
+        "topic": "Fuel / Gas Purchase Need",
+        "label": "recommendation",
+        "sentences": [
+          "i need to buy gas"
+        ]
+      },
+      {
+        "topic": "Local Events Discovery",
+        "label": "recommendation",
+        "sentences": [
+          "anything interesting going on in the bay area"
+        ]
+      }
+    ],
+    "Media & Entertainment": [
+      {
+        "topic": "Podcast Playback Control",
+        "label": "media",
+        "sentences": [
+          "play next podcast"
+        ]
+      },
+      {
+        "topic": "Music Playlist Playback",
+        "label": "media",
+        "sentences": [
+          "play music from my rock list"
+        ]
+      },
+      {
+        "topic": "Radio Music Playback",
+        "label": "media",
+        "sentences": [
+          "play the sweet song on radio"
+        ]
+      }
+    ],
+    "Calendar & Time": [
+      {
+        "topic": "Recent Calendar Update Check",
+        "label": "datetime",
+        "sentences": [
+          "has my calendar been updated in the last ten minutes"
+        ]
+      },
+      {
+        "topic": "Event Scheduling / Busy Status",
+        "label": "datetime",
+        "sentences": [
+          "will you mark that i am busy for an event tomorrow at two p. m."
+        ]
+      }
+    ],
+    "Smart Home & IoT": [
+      {
+        "topic": "Device Control",
+        "label": "iot",
+        "sentences": [
+          "turn on vacuum cleaner"
+        ]
+      }
+    ],
+    "News & Information": [
+      {
+        "topic": "News Headlines",
+        "label": "news",
+        "sentences": [
+          "what do we have on new york time's front page"
+        ]
+      }
+    ],
+    "Productivity & Creativity": [
+      {
+        "topic": "Idea Analysis Assistance",
+        "label": "assistant",
+        "sentences": [
+          "i would like it to help analyze ideas"
+        ]
+      }
+    ]
+  },
+  {
+    "Communication & Social": [
+      {
+        "topic": "Social Media Posting",
+        "sentences": [
+          "tweet at",
+          "post a new status on facebook saying that i am enjoying the nice weather",
+          "post complaint about service a"
+        ]
+      },
+      {
+        "topic": "Email Messaging",
+        "sentences": [
+          "send an email to john asking him what time works for the meeting"
+        ]
+      },
+      {
+        "topic": "Calling",
+        "sentences": [
+          "i need to talk to mom"
+        ]
+      }
+    ],
+    "Media & Entertainment": [
+      {
+        "topic": "Music Playback",
+        "sentences": [
+          "play my playlist starting from the bottom"
+        ]
+      },
+      {
+        "topic": "Radio Information",
+        "sentences": [
+          "what's on the radio right now"
+        ]
+      }
+    ],
+    "Productivity & Scheduling": [
+      {
+        "topic": "Date & Time",
+        "sentences": [
+          "what is the time in chicago"
+        ],
+        "mapped_label": "datetime"
+      },
+      {
+        "topic": "Calendar Event Alerts",
+        "sentences": [
+          "tell me when i have an event"
+        ],
+        "mapped_label": "datetime"
+      },
+      {
+        "topic": "Reminders",
+        "sentences": [
+          "show pending reminders"
+        ]
+      }
+    ],
+    "Smart Home & IoT": [
+      {
+        "topic": "Device Control",
+        "sentences": [
+          "shut off lights"
+        ],
+        "mapped_label": "iot"
+      }
+    ],
+    "Information & Utilities": [
+      {
+        "topic": "Weather Forecast",
+        "sentences": [
+          "what is the forecast for the week"
+        ]
+      },
+      {
+        "topic": "Stock Lookup",
+        "sentences": [
+          "check stock price for dinky donuts"
+        ]
+      },
+      {
+        "topic": "Contact Search",
+        "sentences": [
+          "how many of my contacts live or work in detroit"
+        ]
+      },
+      {
+        "topic": "Personal Question",
+        "sentences": [
+          "how old are you"
+        ]
+      }
+    ]
+  },
+  {
+    "Weather & Forecasting": [
+      {
+        "topic": "Clothing Advice Based on Weather",
+        "label": "recommendation",
+        "sentence": "should i take a sweater or a coat to work today"
+      },
+      {
+        "topic": "Weekly Weather Forecast",
+        "label": "datetime",
+        "sentence": "display the seven day forecast for this week"
+      }
+    ],
+    "Entertainment & Media": [
+      {
+        "topic": "Streaming Recommendation",
+        "label": "recommendation",
+        "sentence": "wanna netflix and chill"
+      },
+      {
+        "topic": "Music Playback",
+        "label": "iot",
+        "sentence": "i like the songs of yeshudas please play it"
+      }
+    ],
+    "Calendar & Reminders": [
+      {
+        "topic": "Birthday Date Query",
+        "label": "datetime",
+        "sentence": "is jessica's birthday on april twelfth"
+      },
+      {
+        "topic": "Long-Term Reminder",
+        "label": "datetime",
+        "sentence": "remind me to contact old friends that i have not talked with in six months before they pass"
+      },
+      {
+        "topic": "Meeting Reminder",
+        "label": "datetime",
+        "sentence": "give me a reminder twenty four hours before my friday meeting with edg"
+      },
+      {
+        "topic": "Alarm Setting",
+        "label": "datetime",
+        "sentence": "set an alarm for tomorrow at six in the morning"
+      }
+    ],
+    "News & Information": [
+      {
+        "topic": "Current Events",
+        "label": "recommendation",
+        "sentence": "what's going on in the world these days"
+      },
+      {
+        "topic": "Location Search",
+        "label": "recommendation",
+        "sentence": "please google location and information of mount rushmore"
+      }
+    ],
+    "Cooking & Recipes": [
+      {
+        "topic": "Baking Ingredients",
+        "label": "recommendation",
+        "sentence": "what ingredients do i need to bake a large cake"
+      },
+      {
+        "topic": "Recipe Request",
+        "label": "recommendation",
+        "sentence": "tell me the recipe of"
+      }
+    ],
+    "Messaging & Communication": [
+      {
+        "topic": "Social Media Posting",
+        "label": "iot",
+        "sentence": "post the message now"
+      },
+      {
+        "topic": "Text Message Composition",
+        "label": "iot",
+        "sentence": "text an email to donna hey what are you doing today"
+      },
+      {
+        "topic": "Email Sending",
+        "label": "iot",
+        "sentence": "please send an email to uncle john with the following yes i can make it"
+      }
+    ]
+  },
+  {
+    "Date & Time": [
+      "datetime"
+    ],
+    "Recommendations & Entertainment": [
+      "recommendation"
+    ],
+    "Smart Devices & Automation": [
+      "iot"
+    ],
+    "Communication": [
+      "email"
+    ],
+    "Music & Audio": [
+      "music"
+    ],
+    "Finance": [
+      "currency"
+    ],
+    "Weather": [
+      "weather"
+    ],
+    "Editing & Text Manipulation": [
+      "text_editing"
+    ],
+    "Calendar & Reminders": [
+      "reminder"
+    ],
+    "Geography & Earth Science": [
+      "geology"
+    ]
+  },
+  {
+    "Time & Date": [
+      "datetime"
+    ],
+    "Smart Home & Device Control": [
+      "iot"
+    ],
+    "Media & Entertainment": [
+      "recommendation",
+      "Music Playback",
+      "Audiobook Playback",
+      "Song Rating"
+    ],
+    "Communication": [
+      "Social Posting",
+      "Email Sending"
+    ],
+    "Reminders & Alerts": [
+      "Notification Scheduling",
+      "Alarm Control",
+      "Price Alerts"
+    ],
+    "Geography & Location": [
+      "Location Query"
+    ],
+    "General Commands": [
+      "Speed Command"
+    ]
+  },
+  {
+    "Date & Time": [
+      "datetime"
+    ],
+    "Recommendations & Suggestions": [
+      "recommendation"
+    ],
+    "Smart Home & IoT": [
+      "iot"
+    ],
+    "Social Media & Messaging": [
+      "social_media_post"
+    ],
+    "Music & Audio": [
+      "music_playback"
+    ],
+    "Contacts & Communication": [
+      "contact_lookup"
+    ],
+    "Travel & Navigation": [
+      "traffic_info",
+      "travel_statement"
+    ],
+    "Alarms & Reminders": [
+      "alarm_control"
+    ],
+    "Device & App Management": [
+      "data_management"
+    ],
+    "Shopping & Lists": [
+      "grocery_list"
+    ],
+    "Weather": [
+      "weather_query"
+    ]
+  },
+  {
+    "Smart Home": [
+      "iot"
+    ],
+    "Date & Time": [
+      "datetime"
+    ],
+    "Media Control": [
+      "media_playback_control"
+    ],
+    "Weather": [
+      "weather_forecast"
+    ],
+    "Communication": [
+      "email_sending"
+    ],
+    "News & Information": [
+      "recommendation",
+      "news_request",
+      "biography_lookup",
+      "stock_price_lookup",
+      "sports_scores"
+    ],
+    "Food Ordering": [
+      "food_order"
+    ],
+    "Local Events": [
+      "local_events_search"
+    ],
+    "Personal Organization": [
+      "birthday_check",
+      "event_planning"
+    ]
+  },
+  {
+    "Smart Home": [
+      "iot"
+    ],
+    "Date & Time": [
+      "datetime"
+    ],
+    "Discovery & Suggestions": [
+      "recommendation"
+    ],
+    "Calendar & Productivity": [
+      "calendar_event",
+      "meeting_schedule",
+      "event_deletion"
+    ],
+    "Transportation": [
+      "train_schedule"
+    ],
+    "Social": [
+      "friend_requests"
+    ],
+    "Cooking & Food": [
+      "recipe_request",
+      "food_craving"
+    ],
+    "Web & Video Search": [
+      "web_search",
+      "video_search"
+    ],
+    "Media & Entertainment": [
+      "radio_control",
+      "music_playback",
+      "game_launch"
+    ],
+    "Home Services": [
+      "cleaning_service"
+    ]
+  },
+  {
+    "Productivity & Scheduling": [
+      "datetime"
+    ],
+    "Travel & Leisure": [
+      "recommendation"
+    ],
+    "Smart Home & IoT": [
+      "iot"
+    ],
+    "Weather": [
+      "weather"
+    ],
+    "Communication": [
+      "email"
+    ],
+    "Consumer Feedback": [
+      "product_feedback"
+    ],
+    "General Knowledge": [
+      "knowledge"
+    ],
+    "Entertainment & Audio": [
+      "music",
+      "audio_settings"
+    ]
+  },
+  {
+    "Media & Entertainment": [
+      "recommendation",
+      "Music Playback",
+      "Audiobook Playback"
+    ],
+    "Time & Scheduling": [
+      "datetime",
+      "Alarm Check",
+      "Alarm Query",
+      "Recurring Reminder",
+      "Recurring Date Setting",
+      "Calendar Deletion"
+    ],
+    "Communication": [
+      "Messaging"
+    ],
+    "Local & Travel": [
+      "Local Recommendation",
+      "Travel Pricing"
+    ],
+    "Events & Personal Notes": [
+      "Event Note"
+    ],
+    "Education & Information": [
+      "General Knowledge"
+    ]
+  },
+  {
+    "Information & Reference": [
+      "datetime",
+      "weather_forecast",
+      "geography",
+      "demographics",
+      "economics_comparison"
+    ],
+    "Food & Cooking": [
+      "recipe",
+      "ingredient_quantity"
+    ],
+    "Entertainment & Media": [
+      "recommendation",
+      "audiobook_playback",
+      "tv_schedule"
+    ],
+    "Communication & Productivity": [
+      "email_check",
+      "calendar_reminder",
+      "calendar_recurring_event",
+      "contacts_call",
+      "social_media_post"
+    ],
+    "Smart Home & IoT": [
+      "iot"
+    ]
+  },
+  {
+    "Food & Local Services": [
+      "recommendation",
+      "delivery_query",
+      "restaurant_search"
+    ],
+    "Productivity & Scheduling": [
+      "datetime",
+      "shopping_list",
+      "calendar_add",
+      "calendar_remove",
+      "reminder"
+    ],
+    "Media & Entertainment": [
+      "playlist_query"
+    ],
+    "Knowledge & Reference": [
+      "factoid_query",
+      "definition_query",
+      "finance_query"
+    ],
+    "Communication & Social": [
+      "social_post"
+    ],
+    "Opinion & Advice": [
+      "opinion_request",
+      "meal_recommendation"
+    ]
+  },
+  {
+    "Finance": [
+      "stock_price_lookup"
+    ],
+    "Entertainment": [
+      "music_popularity",
+      "music_playback",
+      "radio_playback",
+      "chat_flirting"
+    ],
+    "Social Media": [
+      "social_media_updates"
+    ],
+    "Travel & Booking": [
+      "train_ticket_booking"
+    ],
+    "Communication": [
+      "group_messaging",
+      "email_composition"
+    ],
+    "Smart Home": [
+      "lighting_control"
+    ],
+    "News & Information": [
+      "news_update",
+      "local_events",
+      "assistant_identity"
+    ],
+    "Date & Time": [
+      "datetime"
+    ],
+    "Productivity": [
+      "meeting_scheduling"
+    ]
+  },
+  {
+    "Weather": [
+      "weather_forecast",
+      "weather_temperature_check",
+      "snow_location_recommendation"
+    ],
+    "Math": [
+      "arithmetic_sum"
+    ],
+    "Productivity": [
+      "calendar_scheduling",
+      "list_creation"
+    ],
+    "Travel": [
+      "train_ticket_booking"
+    ],
+    "Entertainment": [
+      "joke_request"
+    ],
+    "Smart Home": [
+      "cleaning_command",
+      "appliance_control",
+      "audio_playback_control",
+      "device_adjustment",
+      "power_control"
+    ],
+    "Time": [
+      "timezone_time_query"
+    ],
+    "Cooking": [
+      "recipe_request"
+    ]
+  },
+  {
+    "Productivity": [
+      "datetime",
+      "Calendar Scheduling",
+      "Reminders"
+    ],
+    "Delivery & Order Tracking": [
+      "recommendation",
+      "Food Delivery Status"
+    ],
+    "Entertainment & Media": [
+      "Media Playback Control",
+      "Audiobook Reading"
+    ],
+    "Travel & Transportation": [
+      "Train Ticket Booking"
+    ],
+    "Geography & General Knowledge": [
+      "Location Information",
+      "Definition / Explanation"
+    ],
+    "Weather & Forecasting": [
+      "Current Weather",
+      "Weather Forecast"
+    ],
+    "Cooking & Recipes": [
+      "Recipe Request",
+      "Cooking Time"
+    ],
+    "World Time": [
+      "Time Calculation"
+    ],
+    "Smart Home & IoT": [
+      "iot"
+    ],
+    "Advice & Assistance": [
+      "General Advice"
+    ],
+    "News & Events": [
+      "Current Events"
+    ]
+  },
+  {
+    "Entertainment": [
+      "recommendation",
+      "Music Playback",
+      "Artist Playback"
+    ],
+    "Time & Reminders": [
+      "datetime",
+      "Recurring Reminder",
+      "Duration/Time Span"
+    ],
+    "Smart Home & Device Control": [
+      "iot",
+      "Audio Volume Control",
+      "TV Control"
+    ],
+    "Communication": [
+      "Social Media Messaging",
+      "Calling",
+      "Contacts Management"
+    ],
+    "Weather": [
+      "Weather Forecast"
+    ],
+    "Knowledge & Information": [
+      "Person Facts",
+      "Politics News",
+      "Legal Statistics"
+    ],
+    "Unclear / Other": [
+      "Unclear Statement",
+      "Incomplete Location Reference"
+    ]
+  },
+  {
+    "Communication": [
+      {
+        "sentence": "email form for regional v. p.",
+        "topic": "Email Composition",
+        "label": "communication_email"
+      },
+      {
+        "sentence": "add new email address and send email",
+        "topic": "Email Sending",
+        "label": "communication_email"
+      },
+      {
+        "sentence": "open twitter type my complaint and post to at consumer service",
+        "topic": "Social Media Posting",
+        "label": "communication_social"
+      }
+    ],
+    "Transportation": [
+      {
+        "sentence": "what is the first metro to d. c.",
+        "topic": "Transit Schedule",
+        "label": "datetime"
+      }
+    ],
+    "Entertainment": [
+      {
+        "sentence": "i bought pre season baseball tickets",
+        "topic": "Sports Tickets",
+        "label": "entertainment_events"
+      },
+      {
+        "sentence": "playback tom clancy splinter cell",
+        "topic": "Game Playback",
+        "label": "entertainment_gaming"
+      },
+      {
+        "sentence": "which song is this one",
+        "topic": "Music Identification",
+        "label": "entertainment_music"
+      },
+      {
+        "sentence": "play my playlist party songs",
+        "topic": "Playlist Playback",
+        "label": "entertainment_music"
+      }
+    ],
+    "Weather": [
+      {
+        "sentence": "is it going to rain later",
+        "topic": "Rain Forecast",
+        "label": "datetime"
+      }
+    ],
+    "Events & Services": [
+      {
+        "sentence": "is there valet service at the event",
+        "topic": "Event Amenities",
+        "label": "recommendation"
+      },
+      {
+        "sentence": "yesterday at noontime in times square what was the protest about",
+        "topic": "Past Event Inquiry",
+        "label": "datetime"
+      }
+    ],
+    "Productivity": [
+      {
+        "sentence": "what information do i have on reminders",
+        "topic": "Reminder Management",
+        "label": "datetime"
+      }
+    ],
+    "Smart Home": [
+      {
+        "sentence": "quiet time",
+        "topic": "Do Not Disturb Mode",
+        "label": "iot"
+      },
+      {
+        "sentence": "decrease brightness of lights",
+        "topic": "Light Brightness Control",
+        "label": "iot"
+      }
+    ],
+    "Knowledge": [
+      {
+        "sentence": "what was elvis presley's birthday",
+        "topic": "Person Birth Date",
+        "label": "datetime"
+      }
+    ]
+  },
+  {
+    "Smart Home & IoT": [
+      "iot"
+    ],
+    "Calendar & Scheduling": [
+      "datetime"
+    ],
+    "Recommendations & Discovery": [
+      "recommendation"
+    ],
+    "Food & Dining": [
+      "Menu Inquiry",
+      "Meal Modification"
+    ],
+    "Navigation & Travel": [
+      "Travel Time",
+      "Train Booking"
+    ],
+    "Games & Entertainment": [
+      "Game Instructions",
+      "Joke Request",
+      "Playlist Creation",
+      "Radio Control"
+    ],
+    "Communication": [
+      "Email Inquiry"
+    ],
+    "Weather": [
+      "Weather Forecast"
+    ],
+    "Events & Local Activities": [
+      "Local Event Search"
+    ],
+    "Finance": [
+      "Stock Price Inquiry"
+    ],
+    "News & Information": [
+      "Breaking News"
+    ]
+  },
+  {
+    "Local Search": [
+      "recommendation"
+    ],
+    "Productivity": [
+      "todo_list",
+      "calendar"
+    ],
+    "Knowledge": [
+      "place_info",
+      "news",
+      "person_birthday",
+      "datetime"
+    ],
+    "Media & Audio": [
+      "music_playback",
+      "audio_control"
+    ],
+    "Smart Home": [
+      "iot"
+    ],
+    "Communication": [
+      "messaging"
+    ]
+  },
+  {
+    "Media & Entertainment": [
+      "recommendation",
+      "music_recommendation",
+      "radio_news_playback"
+    ],
+    "Finance": [
+      "stock_tracking"
+    ],
+    "Productivity & Scheduling": [
+      "datetime",
+      "calendar_query",
+      "reminder_set",
+      "reminder_general",
+      "alarm_settings"
+    ],
+    "Smart Home & IoT": [
+      "iot",
+      "light_control",
+      "brightness_control"
+    ],
+    "Transportation": [
+      "taxi_booking"
+    ],
+    "General Knowledge": [
+      "factoid_question"
+    ],
+    "Communication": [
+      "priority_reply",
+      "contacts_add"
+    ],
+    "Sports": [
+      "sports_schedule"
+    ],
+    "Unclear / Other": [
+      "unclear_attention_statement"
+    ]
+  },
+  {
+    "Smart Home": [
+      "iot"
+    ],
+    "Time & Reminders": [
+      "datetime"
+    ],
+    "Recommendations & Discovery": [
+      "recommendation"
+    ],
+    "Weather": [
+      "weather"
+    ],
+    "Finance": [
+      "stock_price",
+      "stock_trend"
+    ],
+    "Music & Audio": [
+      "music_playback",
+      "music_preferences",
+      "podcast_playback"
+    ],
+    "Food & Drink": [
+      "restaurant_search",
+      "recipe_search"
+    ],
+    "Communication": [
+      "email"
+    ],
+    "Calendar & Events": [
+      "calendar_event"
+    ],
+    "Automotive": [
+      "car_maintenance_reminder"
+    ]
+  },
+  {
+    "Productivity & Scheduling": [
+      "datetime",
+      "Reminders",
+      "To-Do List Management"
+    ],
+    "Entertainment & Media": [
+      "recommendation",
+      "Music Playback",
+      "Biography Playback"
+    ],
+    "Smart Home & IoT": [
+      "iot",
+      "Lighting Control",
+      "Device Finder"
+    ],
+    "Information & Search": [
+      "Weather",
+      "Social Media Notifications",
+      "Person Facts",
+      "World Leaders"
+    ],
+    "Food & Drink": [
+      "Drink Request"
+    ]
+  },
+  {
+    "Productivity": [
+      "datetime",
+      "Task Deletion",
+      "Calendar Deletion",
+      "Appointment Removal"
+    ],
+    "Media & Information": [
+      "recommendation",
+      "News",
+      "Email Access",
+      "TV/Entertainment Info",
+      "Geography Fact",
+      "Currency Exchange"
+    ],
+    "Smart Home": [
+      "iot",
+      "Lighting Control"
+    ],
+    "Travel & Feedback": [
+      "Airline Complaint"
+    ],
+    "Social Media": [
+      "Photo Upload"
+    ]
+  },
+  {
+    "Communication": [
+      "email_check",
+      "email_send",
+      "social_media_check",
+      "personal_conversation"
+    ],
+    "Weather": [
+      "weather_temperature"
+    ],
+    "Entertainment": [
+      "radio_play",
+      "movie_play",
+      "movie_info",
+      "podcast_control",
+      "media_title"
+    ],
+    "Productivity": [
+      "calendar_event",
+      "appointment_check",
+      "datetime"
+    ],
+    "Smart Home": [
+      "iot",
+      "lighting_control"
+    ],
+    "General Assistance": [
+      "recommendation",
+      "investigation_request"
+    ]
+  },
+  {
+    "Smart Home": [
+      "iot"
+    ],
+    "Date & Time": [
+      "datetime"
+    ],
+    "Information & Discovery": [
+      "recommendation",
+      "email",
+      "news",
+      "weather",
+      "social media",
+      "shopping list",
+      "productivity lists",
+      "transportation",
+      "general knowledge",
+      "technology"
+    ]
+  },
+  {
+    "Entertainment": [
+      "recommendation"
+    ],
+    "Smart Home": [
+      "iot"
+    ],
+    "Productivity": [
+      "datetime"
+    ],
+    "Shopping & Local Search": [
+      "local_search",
+      "shopping_list"
+    ],
+    "Contacts": [
+      "contacts"
+    ],
+    "Information & Knowledge": [
+      "person_attribute"
+    ],
+    "Fashion": [
+      "style_advice"
+    ],
+    "Media Playback": [
+      "audio_playback"
+    ]
+  },
+  {
+    "Communication": [
+      "email_management"
+    ],
+    "Productivity": [
+      "list_management"
+    ],
+    "Reference & Information": [
+      "dictionary",
+      "news",
+      "weather",
+      "currency_conversion",
+      "music_identification"
+    ],
+    "Entertainment": [
+      "games",
+      "jokes",
+      "movie_showtimes"
+    ],
+    "Recommendations": [
+      "recommendation"
+    ]
+  },
+  {
+    "Career & Jobs": [
+      "recommendation"
+    ],
+    "Communication": [
+      "email",
+      "contacts"
+    ],
+    "Productivity & Scheduling": [
+      "datetime",
+      "reminders",
+      "calendar"
+    ],
+    "Media & Entertainment": [
+      "music",
+      "radio"
+    ],
+    "News & Information": [
+      "sports_news",
+      "search"
+    ],
+    "Smart Home & Environment": [
+      "iot",
+      "weather"
+    ],
+    "Small Talk & Social": [
+      "conversation",
+      "greeting"
+    ],
+    "Task & List Management": [
+      "list_management"
+    ],
+    "Daily Life & Status": [
+      "personal_status"
+    ]
+  },
+  {
+    "Media & Entertainment": [
+      "Music Playback",
+      "TV Show Information",
+      "Game Play"
+    ],
+    "Communication & Email": [
+      "Email Search",
+      "Email Composition"
+    ],
+    "Smart Home & IoT": [
+      "Device Volume Control",
+      "Device Power Control",
+      "Lighting Control"
+    ],
+    "Calendar & Reminders": [
+      "Calendar Management",
+      "Reminder Creation"
+    ],
+    "Productivity & List Management": [
+      "List Item Deletion"
+    ],
+    "Time & Date": [
+      "Time Zone Conversion"
+    ],
+    "Food & Recommendations": [
+      "Recipe Recommendation"
+    ],
+    "Education & Math": [
+      "Arithmetic Query"
+    ]
+  },
+  {
+    "Media & Entertainment": [
+      "iot",
+      "Music Playback",
+      "Playlist Search",
+      "Song Identification",
+      "Game Launch"
+    ],
+    "Navigation & Travel": [
+      "recommendation",
+      "Directions Home",
+      "Hotel Recommendations",
+      "Train Schedule"
+    ],
+    "Time & Personal Info": [
+      "datetime",
+      "Weather Forecast",
+      "Alarm Inquiry"
+    ],
+    "Communication": [
+      "Email Sending"
+    ],
+    "Social & Conversation": [
+      "Casual Conversation"
+    ],
+    "Knowledge & Geography": [
+      "Location Fact"
+    ]
+  },
+  {
+    "Productivity & Time": [
+      {
+        "sentence": "read what is on my list",
+        "label": "recommendation",
+        "topic": "List Reading"
+      },
+      {
+        "sentence": "remind me to check the stew at six o'clock",
+        "label": "datetime",
+        "topic": "Reminder Scheduling"
+      },
+      {
+        "sentence": "what time is it in pacific standard time",
+        "label": "datetime",
+        "topic": "Time Zone Query"
+      }
+    ],
+    "News & Media": [
+      {
+        "sentence": "what's new in the news",
+        "label": "recommendation",
+        "topic": "General News Update"
+      },
+      {
+        "sentence": "what is the news from that newsource",
+        "label": "recommendation",
+        "topic": "Specific News Source Query"
+      },
+      {
+        "sentence": "play c. n. n. radio",
+        "label": "recommendation",
+        "topic": "Radio Playback"
+      },
+      {
+        "sentence": "is angeline having a new movie this year",
+        "label": "datetime",
+        "topic": "Movie Release Query"
+      },
+      {
+        "sentence": "store opinion on song",
+        "label": "recommendation",
+        "topic": "Music Preference Storage"
+      }
+    ],
+    "Food & Cooking": [
+      {
+        "sentence": "i need a recipe that is from ingredients on my shopping list",
+        "label": "recommendation",
+        "topic": "Recipe Recommendation"
+      }
+    ],
+    "Weather": [
+      {
+        "sentence": "should i take my raincoat with me now",
+        "label": "datetime",
+        "topic": "Rain Forecast Query"
+      },
+      {
+        "sentence": "will there be a fall in temperature by tonight",
+        "label": "datetime",
+        "topic": "Temperature Forecast Query"
+      }
+    ],
+    "Local Events & Activities": [
+      {
+        "sentence": "olly tell me about activities in my area this weekend",
+        "label": "recommendation",
+        "topic": "Local Activity Recommendation"
+      },
+      {
+        "sentence": "anything good happening this weekend in the area",
+        "label": "recommendation",
+        "topic": "Weekend Event Recommendation"
+      }
+    ],
+    "Smart Home": [
+      {
+        "sentence": "i want a lower light",
+        "label": "iot",
+        "topic": "Light Brightness Control"
+      }
+    ],
+    "People & Biography": [
+      {
+        "sentence": "how old is j. k. rowling",
+        "label": "datetime",
+        "topic": "Person Age Query"
+      }
+    ]
+  },
+  {
+    "Weather & Time": [
+      "datetime",
+      "weather"
+    ],
+    "Media & Recommendations": [
+      "recommendation",
+      "media_playback",
+      "news"
+    ],
+    "Smart Home & Devices": [
+      "iot"
+    ],
+    "Communication": [
+      "email",
+      "social_media"
+    ],
+    "Productivity & Lists": [
+      "lists",
+      "alarms"
+    ]
+  },
+  {
+    "Navigation & Traffic": [
+      "traffic_status"
+    ],
+    "Productivity & Reminders": [
+      "lists",
+      "alarm_set",
+      "reminder"
+    ],
+    "Media & Entertainment": [
+      "media_playback",
+      "jokes"
+    ],
+    "Social Media & Communication": [
+      "social_post_facebook",
+      "social_post_twitter"
+    ],
+    "News & Information": [
+      "news_latest",
+      "person_biography",
+      "weather_event_info",
+      "fashion_definition"
+    ],
+    "Date & Time": [
+      "datetime"
+    ],
+    "Education & Math": [
+      "math_basic"
+    ]
+  },
+  {
+    "Weather": [
+      "recommendation",
+      "Weather Forecast",
+      "Weather Report"
+    ],
+    "DateTime": [
+      "datetime",
+      "World Clock",
+      "Reminders"
+    ],
+    "Smart Home / Assistant Control": [
+      "iot",
+      "Media Playback Control",
+      "Alerts"
+    ],
+    "News & Information": [
+      "News",
+      "Current Events",
+      "General Knowledge",
+      "Trivia"
+    ],
+    "Communication": [
+      "Email"
+    ],
+    "Transportation": [
+      "Ride Request"
+    ],
+    "Media & Music": [
+      "Save Song"
+    ],
+    "Shopping / Product Advice": [
+      "Product Inquiry",
+      "Buying Advice"
+    ]
+  },
+  {
+    "Food & Cooking": [
+      "Recipe Request"
+    ],
+    "Personal Memory & History": [
+      "Past Outfit Recall"
+    ],
+    "Weather": [
+      "Current Weather",
+      "Clothing Advice"
+    ],
+    "Communication": [
+      "Email Reply",
+      "Social Media Complaint"
+    ],
+    "Smart Home & IoT": [
+      "Device Control"
+    ],
+    "Calendar & Date/Time": [
+      "Date Range Meetings",
+      "Day Query",
+      "Alarm Setting",
+      "Reminder Setting"
+    ],
+    "Local Discovery": [
+      "Local Events"
+    ],
+    "Shopping & Delivery": [
+      "Delivery Time Comparison"
+    ],
+    "App Navigation": [
+      "Open Application"
+    ],
+    "Music & Entertainment": [
+      "Music Recommendation"
+    ]
+  },
+  {
+    "Smart Home & IoT": [
+      "activate the roomba",
+      "please be quiet for another hour"
+    ],
+    "General Knowledge": [
+      "what is the capital of nigeria"
+    ],
+    "Media & Entertainment": [
+      "what song is on the radio"
+    ]
+  }
+]

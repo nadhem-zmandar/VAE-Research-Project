@@ -1,0 +1,6607 @@
+[
+  "update call",
+  "get weather",
+  "update method call",
+  "play media",
+  "add to playlist music",
+  "create alarm",
+  "repeat all off music",
+  "create call",
+  "get track info music",
+  "cancel message",
+  "end call",
+  "get education degree",
+  "update method call",
+  "get attendee event",
+  "get weather",
+  "get info contact",
+  "get contact method",
+  "resume music",
+  "get stories news",
+  "get reminder location",
+  {
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location",
+      "get reminder info"
+    ],
+    "Calling & Contacts": [
+      "create call",
+      "update call",
+      "end call",
+      "get info contact",
+      "get contact method",
+      "identify caller"
+    ],
+    "News & Information": [
+      "get stories news",
+      "get weather",
+      "get education degree"
+    ]
+  },
+  {
+    "Messaging": [
+      "cancel message",
+      "create message",
+      "get messages"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music",
+      "skip track music"
+    ],
+    "Calls": [
+      "create call",
+      "update call",
+      "end call",
+      "update method call",
+      "get contact method"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Reminders & Alarms": [
+      "create alarm",
+      "update reminder",
+      "cancel alarm/reminder",
+      "get timer",
+      "create recurring alarm",
+      "get reminder location"
+    ],
+    "Contacts & Social": [
+      "get info contact",
+      "get online contacts"
+    ],
+    "Calendar & Events": [
+      "get attendee event"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "News": [
+      "get stories news"
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message",
+      "get info contact",
+      "get contact method",
+      "send message"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music",
+      "update method call",
+      "set default music service"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location",
+      "create reminder",
+      "cancel reminder"
+    ],
+    "Education & Career": [
+      "get education degree",
+      "employment lookup"
+    ],
+    "Calendar & Events": [
+      "get attendee event"
+    ],
+    "News": [
+      "get stories news",
+      "get headlines news"
+    ],
+    "Food & Cooking": [
+      "recipe lookup",
+      "cooking time lookup",
+      "nutrition lookup"
+    ],
+    "Social & People": [
+      "identify acquaintance context",
+      "presence lookup"
+    ],
+    "Email & Messages": [
+      "check sender messages"
+    ]
+  },
+  {
+    "Messaging": [
+      "cancel message",
+      "send message"
+    ],
+    "Alarms & Timers": [
+      "create alarm",
+      "snooze alarm",
+      "update timer"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "Calling": [
+      "create call",
+      "update call",
+      "end call",
+      "update method call"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Contacts & Social": [
+      "get info contact",
+      "get contact method",
+      "get mutual friends",
+      "count friends by location"
+    ],
+    "Calendar & Reminders": [
+      "get attendee event",
+      "get reminder location",
+      "set availability"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Travel & Local": [
+      "find local activities"
+    ],
+    "Cooking": [
+      "get recipe"
+    ]
+  },
+  {
+    "Entertainment": [
+      "play media",
+      "resume music",
+      "get track info music",
+      "add to playlist music",
+      "get tv show info"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "News": [
+      "get stories news",
+      "get local news",
+      "get news source"
+    ],
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message",
+      "get info contact",
+      "get contact method",
+      "update method call"
+    ],
+    "Productivity": [
+      "create alarm",
+      "get reminder location",
+      "create reminder"
+    ],
+    "Food": [
+      "find recipe"
+    ],
+    "Events": [
+      "get attendee event",
+      "get event info"
+    ]
+  },
+  {
+    "Media & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music",
+      "skip track music"
+    ],
+    "Calling & Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Reminders & Alarms": [
+      "create alarm",
+      "get reminder location",
+      "cancel reminder"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Events": [
+      "get attendee event"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Recipes & Food": [
+      "get recipe"
+    ],
+    "Knowledge & Reference": [
+      "get country government"
+    ]
+  },
+  {
+    "Contacts": [
+      "get info contact",
+      "get contact age",
+      "get contact location"
+    ],
+    "Entertainment": [
+      "play media",
+      "get events concerts"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Weather": [
+      "get weather",
+      "get cooking temperature",
+      "get humidity"
+    ],
+    "Calling": [
+      "end call"
+    ],
+    "Timers & Alarms": [
+      "resume timer",
+      "create alarm"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Messaging": [
+      "create message with video"
+    ]
+  },
+  {
+    "Weather": [
+      "get weather"
+    ],
+    "Music": [
+      "play media",
+      "add to playlist music",
+      "resume music",
+      "repeat all off music",
+      "get track info music"
+    ],
+    "Reminders & Alarms": [
+      "create alarm",
+      "get reminder location",
+      "update alarm"
+    ],
+    "Calls": [
+      "create call",
+      "update call",
+      "end call",
+      "check missed calls"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method",
+      "contact lookup"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Messaging": [
+      "cancel message",
+      "create message"
+    ],
+    "Calendar & Events": [
+      "get attendee event"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Device & System Control": [
+      "update method call",
+      "device availability query"
+    ]
+  },
+  {
+    "Reminders & Alarms": [
+      "get reminder location",
+      "create alarm",
+      "update reminder",
+      "update alarm"
+    ],
+    "Calling & Contacts": [
+      "create call",
+      "update call",
+      "end call",
+      "get info contact"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Timers": [
+      "get timer status",
+      "pause timer"
+    ],
+    "Food & Recipes": [
+      "get recipe ingredients"
+    ],
+    "Local Discovery": [
+      "find local activities"
+    ]
+  },
+  {
+    "Reminders & Alarms": [
+      "create alarm",
+      "get reminder location"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music",
+      "update music service",
+      "media control"
+    ],
+    "Calls & Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Contacts & People": [
+      "get info contact",
+      "get contact method",
+      "get employment info",
+      "get residence info"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Events & Calendar": [
+      "get attendee event"
+    ],
+    "Device & Timer Control": [
+      "update method call",
+      "pause timer"
+    ],
+    "News": [
+      "get stories news"
+    ]
+  },
+  {
+    "Reminders": [
+      "create reminder",
+      "cancel reminder"
+    ],
+    "Timers": [
+      "cancel timer"
+    ],
+    "Cooking": [
+      "get recipe",
+      "get ingredients",
+      "get cooking measurement"
+    ],
+    "Events": [
+      "get event info"
+    ],
+    "News": [
+      "get stories news",
+      "get agriculture news"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Music": [
+      "play media"
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "update call",
+      "cancel message",
+      "send message"
+    ],
+    "Media": [
+      "play media",
+      "repeat all off music",
+      "add to playlist music",
+      "resume music",
+      "get track info music",
+      "play news"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location",
+      "set status"
+    ],
+    "News": [
+      "get stories news",
+      "get headlines"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Calendar & Events": [
+      "get attendee event"
+    ],
+    "Cooking & Recipes": [
+      "get recipe",
+      "get recipe ingredients"
+    ]
+  },
+  {
+    "Messaging & Communication": [
+      "create message",
+      "cancel message",
+      "create call",
+      "update call",
+      "end call",
+      "update method call",
+      "get info contact",
+      "get contact method"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Alarms, Reminders & Timers": [
+      "create alarm",
+      "cancel alarm",
+      "create timer",
+      "get reminder location"
+    ],
+    "Calendar & Events": [
+      "get attendee event"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Food & Cooking": [
+      "get nutrition info",
+      "get cooking time"
+    ],
+    "Contacts & People": [
+      "get person info"
+    ],
+    "Media Messages": [
+      "get message status"
+    ]
+  },
+  {
+    "Weather": [
+      "get weather",
+      "seasonal snowfall"
+    ],
+    "Alarms & Timers": [
+      "create alarm",
+      "get alarm info",
+      "create timer"
+    ],
+    "Messaging": [
+      "cancel message",
+      "create message",
+      "get messages"
+    ],
+    "Reminders": [
+      "get reminder location",
+      "create reminder",
+      "delete reminder",
+      "get reminder"
+    ],
+    "Calling": [
+      "create call",
+      "update call",
+      "end call"
+    ],
+    "News & Information": [
+      "get stories news",
+      "get event info",
+      "local activity search",
+      "recipe search"
+    ]
+  },
+  {
+    "Reminders & Alarms": [
+      "create reminder",
+      "create alarm",
+      "delete reminder",
+      "cancel reminder",
+      "get timer info"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Messaging": [
+      "create message"
+    ],
+    "Calling": [
+      "cancel call",
+      "create video call",
+      "create call"
+    ],
+    "Music & Audio": [
+      "play media"
+    ],
+    "Contacts & People": [
+      "get info contact",
+      "find contact by workplace"
+    ]
+  },
+  {
+    "Timers & Alarms": [
+      "create alarm",
+      "update alarm",
+      "get timer status"
+    ],
+    "Contacts & People": [
+      "get info contact",
+      "get contact method",
+      "get person info",
+      "get coworker info"
+    ],
+    "Events & Calendar": [
+      "get attendee event",
+      "get similar events",
+      "get birthdays"
+    ],
+    "Calling": [
+      "create call",
+      "update call",
+      "end call",
+      "update method call"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "Food & Recipes": [
+      "get recipes"
+    ]
+  },
+  {
+    "Reminders": [
+      "create reminder",
+      "get reminder location",
+      "get reminder"
+    ],
+    "Calling": [
+      "create call",
+      "end call",
+      "update call"
+    ],
+    "Contacts": [
+      "get info contact"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Music & Media": [
+      "play media"
+    ]
+  },
+  {
+    "Weather": [
+      "get weather"
+    ],
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message",
+      "get info contact",
+      "get contact method",
+      "update method call"
+    ],
+    "Media": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music",
+      "update channel"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location",
+      "delete reminder",
+      "create reminder",
+      "update timer"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Events": [
+      "get attendee event",
+      "discover events"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Location": [
+      "get location details"
+    ],
+    "Knowledge": [
+      "how-to query"
+    ],
+    "Messaging": [
+      "create message"
+    ],
+    "Employment": [
+      "get employer info"
+    ]
+  },
+  {
+    "Cooking": [
+      "recipe instructions"
+    ],
+    "Communication": [
+      "cancel message",
+      "get info contact",
+      "create call"
+    ],
+    "Events & Religion": [
+      "get event schedule"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "cancel alarm",
+      "snooze alarm",
+      "create reminder"
+    ],
+    "Weather": [
+      "get weather"
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message",
+      "send message"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location",
+      "get timer info",
+      "delete alarm"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "Events": [
+      "get attendee event"
+    ],
+    "News": [
+      "get stories news",
+      "get local events"
+    ],
+    "Phone & Device Actions": [
+      "update method call"
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message",
+      "create video message"
+    ],
+    "Weather": [
+      "get weather",
+      "get clothing advice from weather"
+    ],
+    "Music": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "snooze alarm",
+      "turn off alarm",
+      "get reminder location",
+      "create reminder"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "News & Events": [
+      "get stories news",
+      "get attendee event",
+      "get local events"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Social & Planning": [
+      "create social event"
+    ]
+  },
+  {
+    "Contacts": [
+      "get info contact"
+    ],
+    "Timers & Alarms": [
+      "update call",
+      "create alarm"
+    ],
+    "Reminders": [
+      "get reminder location",
+      "cancel message",
+      "create reminder"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "Cooking & Food": [
+      "get cooking advice",
+      "get recipe"
+    ],
+    "News & Weather": [
+      "get stories news",
+      "get weather"
+    ]
+  },
+  {
+    "Timers": [
+      "pause timer",
+      "update timer"
+    ],
+    "Music & Audio": [
+      "skip track music"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "create reminder",
+      "get reminder"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Calling": [
+      "create call"
+    ],
+    "Messaging": [
+      "create message"
+    ],
+    "Events & Meetings": [
+      "create event reminder"
+    ],
+    "Entertainment": [
+      "get event info"
+    ]
+  },
+  {
+    "Alarms & Reminders": [
+      "create alarm",
+      "create timer",
+      "get reminder location",
+      "get reminder count"
+    ],
+    "Messaging": [
+      "create message",
+      "cancel message",
+      "record video message"
+    ],
+    "Music & Audio": [
+      "play media",
+      "resume music",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music"
+    ],
+    "Calling & Availability": [
+      "create call",
+      "update call",
+      "end call",
+      "update method call"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "Education": [
+      "get education degree",
+      "get education history"
+    ],
+    "Calendar & Events": [
+      "get attendee event"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Food & Cooking": [
+      "get recipe"
+    ],
+    "Travel & Local": [
+      "get local activities"
+    ]
+  },
+  {
+    "Messaging": [
+      "cancel message",
+      "read messages",
+      "check messages"
+    ],
+    "Cooking & Food": [
+      "cooking technique",
+      "cooking temperature",
+      "recipe quantity"
+    ],
+    "Music & Audio": [
+      "play media",
+      "get track info music",
+      "resume music",
+      "repeat all off music",
+      "add to playlist music",
+      "change music genre"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location"
+    ],
+    "Events & Entertainment": [
+      "find local events",
+      "find concerts"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Calling": [
+      "create call",
+      "update call",
+      "end call",
+      "update method call",
+      "get contact method",
+      "get info contact"
+    ]
+  },
+  {
+    "Music": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Calls": [
+      "create call",
+      "update call",
+      "end call",
+      "update method call"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location"
+    ],
+    "Messaging": [
+      "cancel message"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "Calendar & Events": [
+      "get attendee event"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "People & Personal Info": [
+      "get birthday info",
+      "get employer info",
+      "get residence info",
+      "get availability info"
+    ]
+  },
+  {
+    "Messaging": [
+      "get messages",
+      "cancel message",
+      "send message with media"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "Alarms": [
+      "create alarm",
+      "update alarm"
+    ],
+    "News": [
+      "get stories news",
+      "get event details"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Media": [
+      "play media",
+      "skip tracks"
+    ],
+    "Calling": [
+      "create call",
+      "update call",
+      "end call",
+      "update method call"
+    ],
+    "Reminders": [
+      "create reminder",
+      "get reminder location",
+      "get reminder time"
+    ]
+  },
+  {
+    "Music & Audio": [
+      "play media",
+      "repeat all off music"
+    ],
+    "News & Weather": [
+      "get stories news",
+      "get weather"
+    ],
+    "Reminders & Alarms": [
+      "create alarm",
+      "get reminder location",
+      "update reminder",
+      "update timer"
+    ],
+    "Calling & Messaging": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message",
+      "send message"
+    ],
+    "Contacts & People": [
+      "get info contact",
+      "get contact method",
+      "get attendee event",
+      "get age person",
+      "get family location"
+    ],
+    "Food & Cooking": [
+      "get nutrition info",
+      "get recipe substitution"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Calendar & Events": [
+      "update event reminder"
+    ]
+  },
+  {
+    "Contacts": [
+      "get info contact"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Settings": [
+      "update method call",
+      "update default app"
+    ],
+    "Calendar & Events": [
+      "get attendee event"
+    ],
+    "Messaging": [
+      "create message",
+      "cancel message"
+    ],
+    "Reminders & Alarms": [
+      "get reminder location",
+      "create alarm",
+      "modify timer"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Food & Cooking": [
+      "get recipes"
+    ],
+    "Calls": [
+      "update call"
+    ],
+    "Lifestyle": [
+      "get routine info"
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "update call",
+      "cancel message"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Music": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location",
+      "snooze alarm",
+      "cancel timer"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Events & Calendar": [
+      "get attendee event"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Recipes": [
+      "find recipe"
+    ],
+    "Local & Lifestyle": [
+      "get local activities"
+    ]
+  },
+  {
+    "Cooking & Recipes": [
+      "find recipe",
+      "scale recipe servings"
+    ],
+    "Timers & Alarms": [
+      "create timer",
+      "get timer status",
+      "create alarm",
+      "cancel alarm",
+      "get alarm status"
+    ],
+    "People & Contacts": [
+      "get person info",
+      "create call",
+      "get organization employees"
+    ],
+    "Reminders": [
+      "create reminder",
+      "cancel reminder"
+    ]
+  },
+  {
+    "Messaging": [
+      "send video message",
+      "check messages",
+      "send message"
+    ],
+    "Reminders & Alarms": [
+      "create reminder",
+      "create alarm"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Calling": [
+      "create call"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Timers": [
+      "get timer status",
+      "update timer"
+    ]
+  },
+  {
+    "Weather": [
+      "get weather"
+    ],
+    "Contacts": [
+      "get info contact"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Alarms": [
+      "create alarm",
+      "snooze alarm",
+      "update alarm"
+    ],
+    "Reminders": [
+      "create reminder",
+      "cancel reminder",
+      "get reminder location",
+      "list reminders"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "Messaging": [
+      "cancel message",
+      "create message",
+      "get message status"
+    ],
+    "Calling": [
+      "create call",
+      "update call",
+      "end call",
+      "update method call",
+      "get contact method"
+    ],
+    "Events": [
+      "get attendee event",
+      "search events"
+    ]
+  },
+  {
+    "Weather": [
+      "get weather"
+    ],
+    "Calling": [
+      "create call",
+      "update call",
+      "end call",
+      "get info contact",
+      "get contact method"
+    ],
+    "Timers & Alarms": [
+      "create alarm",
+      "update timer",
+      "cancel alarm"
+    ],
+    "Reminders": [
+      "get reminder location",
+      "create reminder"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music"
+    ],
+    "News & Events": [
+      "get stories news",
+      "get event schedule",
+      "find local events",
+      "get sports schedule"
+    ],
+    "Shopping & Local Search": [
+      "find nearby store"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Communication": [
+      "cancel message"
+    ],
+    "Calendar": [
+      "get attendee event"
+    ],
+    "Device Control": [
+      "update method call"
+    ]
+  },
+  {
+    "Reminders": [
+      "get reminder",
+      "cancel reminder",
+      "create reminder",
+      "update reminder",
+      "get reminder location",
+      "update reminder location"
+    ],
+    "Calls": [
+      "create call",
+      "update call",
+      "end call"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Alarms": [
+      "create alarm"
+    ],
+    "Nutrition": [
+      "get nutrition info"
+    ]
+  },
+  {
+    "Contacts & People": [
+      "get info contact",
+      "get contact method",
+      "online presence lookup",
+      "employment lookup",
+      "residence lookup"
+    ],
+    "Reminders & Alarms": [
+      "create alarm",
+      "get reminder location",
+      "create reminder",
+      "update reminder attendees"
+    ],
+    "Timers": [
+      "create timer",
+      "get timer status",
+      "create recurring timer"
+    ],
+    "Music & Media": [
+      "play media",
+      "resume music",
+      "repeat all off music",
+      "add to playlist music",
+      "get track info music",
+      "stop music"
+    ],
+    "Recipes & Cooking": [
+      "get recipe"
+    ],
+    "Social & Presence": [
+      "get online status"
+    ],
+    "Sports": [
+      "get sports schedule"
+    ]
+  },
+  {
+    "Reminders": [
+      "update reminder",
+      "cancel reminder",
+      "get reminder location"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "Alarms": [
+      "create alarm"
+    ],
+    "Timers": [
+      "cancel timer",
+      "get timer status"
+    ],
+    "Calling & Messaging": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message"
+    ],
+    "Calendar & Events": [
+      "get attendee event",
+      "browse events"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "update call",
+      "update method call",
+      "end call",
+      "cancel message"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Media & Music": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location",
+      "update reminder"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Events": [
+      "get attendee event"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Presence & Status": [
+      "update presence status"
+    ],
+    "Messaging": [
+      "create message"
+    ]
+  },
+  {
+    "Reminders": [
+      "create reminder",
+      "get reminder",
+      "cancel reminder"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact by address",
+      "get contact education"
+    ],
+    "Cooking": [
+      "get recipe",
+      "get ingredient info"
+    ],
+    "Communication": [
+      "create call",
+      "get online status",
+      "create video message"
+    ],
+    "Timers & Alarms": [
+      "get timer",
+      "get alarm",
+      "create timer"
+    ],
+    "Music": [
+      "play media"
+    ]
+  },
+  {
+    "Music": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music",
+      "skip track music"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "update alarm",
+      "snooze alarm",
+      "create reminder",
+      "get reminder location"
+    ],
+    "Calls & Communication": [
+      "create call",
+      "update call",
+      "update method call",
+      "end call",
+      "cancel message"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "Calendar & Events": [
+      "get attendee event"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "General Information": [
+      "search recipe",
+      "get song lyrics"
+    ]
+  },
+  {
+    "News": [
+      "get stories news"
+    ],
+    "Alarm": [
+      "create alarm",
+      "cancel alarm"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Contacts": [
+      "get info contact"
+    ],
+    "Cooking": [
+      "get recipe",
+      "get ingredient quantity"
+    ],
+    "Calling": [
+      "end call",
+      "create call",
+      "update call"
+    ],
+    "Messaging": [
+      "cancel message"
+    ],
+    "People": [
+      "get person age"
+    ]
+  },
+  {
+    "Communication": [
+      "update call",
+      "create call",
+      "end call",
+      "get info contact",
+      "get contact method",
+      "cancel message",
+      "get missed calls",
+      "get call time",
+      "decline call",
+      "create video message"
+    ],
+    "News": [
+      "get stories news",
+      "get sports news",
+      "get news source headlines"
+    ],
+    "Media": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location",
+      "get alarm info",
+      "create reminder"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Timers": [
+      "create timer"
+    ],
+    "Cooking": [
+      "get cooking time"
+    ]
+  },
+  {
+    "Communication": [
+      "update call",
+      "create call",
+      "end call",
+      "get info contact",
+      "get contact method",
+      "get availability contact"
+    ],
+    "Weather": [
+      "get weather",
+      "get past weather"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "update alarm",
+      "create reminder",
+      "get reminder location",
+      "get reminder status"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Events": [
+      "get attendee event"
+    ],
+    "Cooking": [
+      "get cooking time"
+    ],
+    "Employment": [
+      "get work history"
+    ]
+  },
+  {
+    "Reminders": [
+      "create reminder",
+      "cancel reminder"
+    ],
+    "Cooking": [
+      "get cooking time",
+      "get recipe instruction"
+    ],
+    "Communication": [
+      "create call",
+      "update call",
+      "get messages"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Contacts": [
+      "get contact info",
+      "add contact"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Alarms": [
+      "snooze alarm"
+    ],
+    "Availability": [
+      "share availability status"
+    ]
+  },
+  {
+    "News": [
+      "get stories news"
+    ],
+    "Calling": [
+      "create call",
+      "update call",
+      "end call"
+    ],
+    "Alarms": [
+      "create alarm",
+      "get alarm info"
+    ],
+    "Messaging": [
+      "get messages",
+      "cancel message"
+    ],
+    "Calendar & Events": [
+      "get attendee event",
+      "share event"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "Reminders": [
+      "get reminder location",
+      "delete reminder"
+    ],
+    "Cooking & Recipes": [
+      "get recipe",
+      "get cooking advice"
+    ]
+  },
+  {
+    "Reminders & Alarms": [
+      "update reminder time",
+      "create alarm",
+      "snooze alarm",
+      "create reminder"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Messaging": [
+      "send message",
+      "cancel message"
+    ],
+    "Calling": [
+      "update call",
+      "create call",
+      "end call"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Timers": [
+      "get timer status"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact by location",
+      "get contact address"
+    ]
+  },
+  {
+    "Communication": [
+      "update call",
+      "create call",
+      "end call",
+      "get info contact",
+      "get contact method",
+      "get online status",
+      "get family info"
+    ],
+    "Weather": [
+      "get weather",
+      "share weather forecast"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music"
+    ],
+    "Reminders & Alarms": [
+      "create alarm",
+      "get reminder location",
+      "view reminders",
+      "create reminder"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Events": [
+      "get attendee event"
+    ],
+    "Messaging": [
+      "cancel message"
+    ],
+    "System & Methods": [
+      "update method call",
+      "update method call"
+    ],
+    "Social": [
+      "show friends"
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message",
+      "get info contact",
+      "get contact method"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "Reminders & Alarms": [
+      "create alarm",
+      "get reminder location",
+      "cancel reminder"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Events & Calendar": [
+      "get attendee event"
+    ],
+    "Cooking & Recipes": [
+      "get recipe",
+      "get cooking ingredient quantity"
+    ],
+    "Messaging & Social": [
+      "send message via social platform"
+    ]
+  },
+  {
+    "Music": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Calling": [
+      "create call",
+      "update call",
+      "end call",
+      "update method call"
+    ],
+    "Messaging": [
+      "cancel message"
+    ],
+    "Reminders": [
+      "get reminder location",
+      "create reminder"
+    ],
+    "Events": [
+      "get attendee event"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Entertainment": [
+      "get show recommendations"
+    ]
+  },
+  {
+    "Music": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Calls": [
+      "create call",
+      "update call",
+      "end call"
+    ],
+    "Timers & Alarms": [
+      "create alarm",
+      "update timer",
+      "cancel alarm"
+    ],
+    "Reminders": [
+      "get reminder location",
+      "create reminder",
+      "delete reminder"
+    ],
+    "Events": [
+      "get attendee event",
+      "get events"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "Messaging": [
+      "cancel message",
+      "create message"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Cooking": [
+      "get cooking quantity",
+      "get cooking time"
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message",
+      "get info contact",
+      "get contact method"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music"
+    ],
+    "Productivity": [
+      "create alarm",
+      "get attendee event",
+      "get reminder location",
+      "timer status",
+      "timer count",
+      "update reminder"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Cooking": [
+      "get recipe"
+    ],
+    "Events": [
+      "get event details"
+    ]
+  },
+  {
+    "Contacts": [
+      "get info contact",
+      "get contact relationships",
+      "get contact workplace"
+    ],
+    "Messaging": [
+      "create message",
+      "cancel message"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "create reminder",
+      "cancel reminder",
+      "create timer"
+    ],
+    "Weather": [
+      "get weather",
+      "get astronomy weather"
+    ],
+    "Calendar & Events": [
+      "get attendee event",
+      "get local events"
+    ],
+    "Calling": [
+      "create call",
+      "update call",
+      "end call"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ]
+  },
+  {
+    "Media": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message",
+      "get info contact",
+      "get contact method",
+      "update method call"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location"
+    ],
+    "Calendar & Events": [
+      "get attendee event"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Cooking & Recipes": [
+      "find recipes",
+      "get recipe ingredient info"
+    ],
+    "Tasks & Schedule": [
+      "get daily agenda"
+    ],
+    "Timers": [
+      "create timer",
+      "update timer"
+    ],
+    "Contacts & Social": [
+      "show contact relations"
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "get info contact",
+      "get contact method"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music"
+    ],
+    "Productivity": [
+      "create alarm",
+      "get attendee event",
+      "get reminder location",
+      "delete reminder"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Cooking": [
+      "get recipe",
+      "get ingredients"
+    ],
+    "Phone": [
+      "screen incoming call"
+    ]
+  },
+  {
+    "Reminders & Alarms": [
+      "cancel reminder",
+      "update alarm",
+      "create alarm",
+      "create reminder"
+    ],
+    "Calling & Messaging": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message",
+      "send message"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "Reminders & Alarms": [
+      "create alarm",
+      "get reminder location",
+      "update reminder"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music",
+      "repeat all on music"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Calendar & Events": [
+      "get attendee event"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "People & Employment": [
+      "employment status lookup"
+    ],
+    "General Information": [
+      "person news update"
+    ],
+    "Timers": [
+      "create timer"
+    ]
+  },
+  {
+    "Communication": [
+      "update call",
+      "create call",
+      "end call",
+      "cancel message",
+      "record video message"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Music": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music",
+      "previous track music"
+    ],
+    "Reminders & Alarms": [
+      "create alarm",
+      "get reminder location",
+      "cancel reminder"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Events": [
+      "get attendee event"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Cooking & Recipes": [
+      "get cooking temperature",
+      "find recipes",
+      "food storage advice"
+    ],
+    "Timers": [
+      "get timer status"
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "end call",
+      "update call",
+      "cancel message",
+      "send message"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Events": [
+      "get attendee event",
+      "event RSVP"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music",
+      "shuffle music"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Reminders & Alarms": [
+      "create alarm",
+      "get reminder location",
+      "get timer status"
+    ],
+    "Food & Nutrition": [
+      "get nutrition info",
+      "get cooking advice"
+    ],
+    "Employment": [
+      "get employer info"
+    ]
+  },
+  {
+    "Contacts": [
+      "get info contact"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Reminders": [
+      "get reminder location",
+      "create reminder"
+    ],
+    "Alarms": [
+      "create alarm",
+      "update alarm"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Calling": [
+      "create call"
+    ],
+    "Music": [
+      "play media"
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message",
+      "get info contact",
+      "get contact method"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Media & Music": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Events": [
+      "get attendee event"
+    ],
+    "Device Control": [
+      "update method call"
+    ],
+    "Books & Entertainment": [
+      "get book info"
+    ],
+    "Messaging": [
+      "send message"
+    ],
+    "General Knowledge": [
+      "get factual info"
+    ]
+  },
+  {
+    "Events & Local Activities": [
+      "find local activities",
+      "find local events"
+    ],
+    "Reminders": [
+      "get reminder location",
+      "create reminder"
+    ],
+    "Alarms": [
+      "create alarm",
+      "update alarm"
+    ],
+    "Music & Audio": [
+      "update method call",
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music"
+    ],
+    "Cooking & Recipes": [
+      "get recipe",
+      "get cooking advice"
+    ],
+    "Contacts & People": [
+      "get info contact",
+      "get contact method",
+      "get social connections",
+      "get employee info"
+    ],
+    "Calling & Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message",
+      "update method call"
+    ],
+    "News": [
+      "get stories news"
+    ]
+  },
+  {
+    "Reminders & Alarms": [
+      "get reminder location",
+      "create alarm",
+      "cancel alarm",
+      "create reminder",
+      "update alarm"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Music & Audio": [
+      "play media"
+    ],
+    "Contacts & Availability": [
+      "get attendee event",
+      "get available contacts"
+    ],
+    "Calling": [
+      "create call"
+    ],
+    "Food & Nutrition": [
+      "find recipe",
+      "get nutrition info"
+    ]
+  },
+  {
+    "Weather": [
+      "get weather",
+      "get astronomy info"
+    ],
+    "Timers & Alarms": [
+      "create timer",
+      "create alarm",
+      "update timer"
+    ],
+    "Reminders": [
+      "create reminder",
+      "get reminder location",
+      "get reminders"
+    ],
+    "Messaging & Communication": [
+      "cancel message",
+      "create message",
+      "get info contact"
+    ],
+    "Contacts": [
+      "get contact employer"
+    ],
+    "Cooking & Recipes": [
+      "find recipe"
+    ]
+  },
+  {
+    "News": [
+      "get stories news"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Contacts": [
+      "get info contact"
+    ],
+    "Events": [
+      "get attendee event",
+      "search events"
+    ],
+    "Calling": [
+      "update call"
+    ],
+    "Alarms & Timers": [
+      "create alarm",
+      "update alarm",
+      "create timer"
+    ],
+    "Reminders": [
+      "get reminder location",
+      "create reminder"
+    ],
+    "Messaging": [
+      "cancel message",
+      "create message"
+    ],
+    "Education": [
+      "get education degree"
+    ]
+  },
+  {
+    "Music": [
+      "play media",
+      "get track info music"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Reminders & Alarms": [
+      "get reminder location",
+      "create alarm",
+      "delete reminder",
+      "get reminders"
+    ],
+    "Calling & Contacts": [
+      "create call"
+    ],
+    "Events": [
+      "get attendee event",
+      "search events"
+    ],
+    "Health & Nutrition": [
+      "get nutrition info"
+    ]
+  },
+  {
+    "Reminders & Alarms": [
+      "delete reminder",
+      "create reminder",
+      "create alarm"
+    ],
+    "Messaging": [
+      "view messages",
+      "cancel message",
+      "create video message"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Music & Audio": [
+      "get track info music"
+    ],
+    "Contacts & People": [
+      "get info contact",
+      "get education degree"
+    ],
+    "Cooking & Recipes": [
+      "get recipe ingredients"
+    ],
+    "Calling": [
+      "update call"
+    ],
+    "News": [
+      "get stories news"
+    ]
+  },
+  {
+    "Reminders & Alarms": [
+      "create alarm",
+      "update reminder",
+      "get reminder location"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music"
+    ],
+    "Calling & Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "send message",
+      "cancel message"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Contacts & People": [
+      "get info contact",
+      "get contact method"
+    ],
+    "Events & Calendar": [
+      "get attendee event"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Cooking & Recipes": [
+      "get cooking time"
+    ]
+  },
+  {
+    "News & Weather": [
+      "get weather",
+      "get stories news"
+    ],
+    "Media & Music": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location",
+      "get alarm info"
+    ],
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message",
+      "get info contact",
+      "get contact method",
+      "update method call"
+    ],
+    "Calendar & Events": [
+      "get attendee event"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "General Information": [
+      "how-to cooking",
+      "age calculation"
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message",
+      "get info contact",
+      "get contact method",
+      "contact via messaging app",
+      "check contact availability"
+    ],
+    "Media & Music": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music",
+      "update method call",
+      "set default media provider"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location",
+      "view reminders"
+    ],
+    "News": [
+      "get stories news",
+      "live news source"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Calendar & Events": [
+      "get attendee event"
+    ],
+    "Contacts & Social": [
+      "get social connections"
+    ],
+    "Food & Recipes": [
+      "get recipe ingredient info"
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message",
+      "send message"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location",
+      "create reminder",
+      "set timer"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Events & Calendar": [
+      "get attendee event"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Cooking & Recipes": [
+      "get recipe ingredients"
+    ],
+    "General Information": [
+      "get local update"
+    ]
+  },
+  {
+    "News": [
+      "get stories news"
+    ],
+    "Messaging": [
+      "create video message"
+    ],
+    "Cooking": [
+      "get cooking time",
+      "get cooking advice",
+      "get recipe ingredient info"
+    ],
+    "Calling": [
+      "create call"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Music": [
+      "play media"
+    ],
+    "Alarms": [
+      "create alarm"
+    ],
+    "Contacts": [
+      "get info contact"
+    ],
+    "Timers": [
+      "update timer"
+    ],
+    "Reminders": [
+      "get clothing advice weather"
+    ],
+    "Transportation": [
+      "send message"
+    ]
+  },
+  {
+    "News": [
+      "get stories news"
+    ],
+    "Messaging": [
+      "create message",
+      "cancel message"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Food & Cooking": [
+      "get nutrition info",
+      "get recipe"
+    ],
+    "Calling": [
+      "create call",
+      "update call",
+      "end call",
+      "update method call"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "create reminder",
+      "get reminder location"
+    ],
+    "People & Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Location & Residence": [
+      "get current residence"
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Music": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location",
+      "update reminder",
+      "cancel reminder",
+      "create reminder"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Events & News": [
+      "get attendee event",
+      "get stories news",
+      "get sports event"
+    ],
+    "Cooking": [
+      "get cooking temperature",
+      "get cooking duration"
+    ],
+    "Availability": [
+      "check availability"
+    ],
+    "Relationships": [
+      "get relationship info"
+    ]
+  },
+  {
+    "Reminders": [
+      "get reminder location",
+      "create reminder",
+      "get reminders"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Timers & Alarms": [
+      "create alarm",
+      "create timer",
+      "update timer"
+    ],
+    "Calling & Contacts": [
+      "create call",
+      "end call",
+      "update call",
+      "get info contact"
+    ],
+    "Music & Audio": [
+      "resume music",
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music"
+    ],
+    "News & Entertainment": [
+      "get stories news"
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "update call",
+      "cancel message",
+      "send message"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "delete reminder"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Events & Calendar": [
+      "get attendee event"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Food & Recipes": [
+      "recipe query",
+      "ingredient/dietary check"
+    ],
+    "Travel & Local": [
+      "local activity search"
+    ],
+    "Employment & Business": [
+      "company employee lookup"
+    ]
+  },
+  {
+    "Weather": [
+      "get weather"
+    ],
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message",
+      "send message",
+      "retrieve messages",
+      "record video message"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "create timer",
+      "get reminder location"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Events": [
+      "get attendee event",
+      "decline event attendance",
+      "get sports events"
+    ],
+    "Cooking": [
+      "get cooking temperature"
+    ]
+  },
+  {
+    "Weather": [
+      "get weather",
+      "get sunset time"
+    ],
+    "Communication": [
+      "create call",
+      "update call",
+      "send message",
+      "cancel message"
+    ],
+    "Reminders & Alarms": [
+      "create alarm",
+      "get reminder location",
+      "get alarm time remaining",
+      "get timer remaining"
+    ],
+    "Nutrition": [
+      "get nutrition info"
+    ],
+    "Calendar & Events": [
+      "get attendee event"
+    ]
+  },
+  {
+    "Reminders & Alarms": [
+      "create alarm",
+      "create reminder"
+    ],
+    "Music & Audio": [
+      "play media",
+      "update method call",
+      "set default music service"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Contacts & People": [
+      "get info contact",
+      "find contact by location",
+      "get contact location"
+    ],
+    "Calendar & Events": [
+      "get attendee event"
+    ],
+    "Messaging": [
+      "create message video"
+    ],
+    "Recipes & Food": [
+      "get recipe"
+    ]
+  },
+  {
+    "Timers & Alarms": [
+      "create alarm",
+      "resume timer"
+    ],
+    "Reminders": [
+      "cancel reminder",
+      "create reminder"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Cooking & Recipes": [
+      "get recipe instruction",
+      "get cookware advice"
+    ],
+    "Communication": [
+      "create call",
+      "get contact status",
+      "get messages"
+    ]
+  },
+  {
+    "Calling": [
+      "create call",
+      "update call",
+      "end call"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Music": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music",
+      "create playlist music"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "snooze alarm",
+      "get reminder location"
+    ],
+    "Messaging": [
+      "cancel message",
+      "send message with media"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Events": [
+      "get attendee event"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Cooking": [
+      "get cooking temperature"
+    ]
+  },
+  {
+    "Reminders & Alarms": [
+      "update reminder",
+      "create alarm",
+      "get reminder"
+    ],
+    "Contacts & People": [
+      "get info contact"
+    ],
+    "Communication": [
+      "update call",
+      "create call",
+      "end call",
+      "video call via app",
+      "check contact status"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music",
+      "play station music",
+      "play album music"
+    ],
+    "Food & Recipes": [
+      "get recipe"
+    ],
+    "Events & Scheduling": [
+      "get attendee event"
+    ],
+    "Local & Travel": [
+      "get local activities"
+    ],
+    "News": [
+      "get stories news"
+    ]
+  },
+  {
+    "Travel & Local Activities": [
+      "get local activities"
+    ],
+    "Cooking & Recipes": [
+      "get recipe"
+    ],
+    "Reminders & Alerts": [
+      "create reminder",
+      "create alarm",
+      "create timer",
+      "get reminder location"
+    ],
+    "Music & Audio": [
+      "repeat song music",
+      "play media"
+    ],
+    "Education & Social": [
+      "get education degree"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Messaging": [
+      "create message"
+    ]
+  },
+  {
+    "Messaging": [
+      "cancel message",
+      "check messages"
+    ],
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "update method call"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music",
+      "play genre music",
+      "play song music",
+      "play playlist music"
+    ],
+    "Reminders & Alarms": [
+      "create alarm",
+      "get reminder location",
+      "create reminder",
+      "pause alarm",
+      "get timer info"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Calendar & Events": [
+      "get attendee event"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Cooking & Recipes": [
+      "get recipe"
+    ],
+    "General Status": [
+      "check progress"
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "update call",
+      "cancel message"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Cooking & Food": [
+      "cooking temperature",
+      "recipe inquiry",
+      "food ingredients",
+      "meal ideas",
+      "food preparation tips"
+    ],
+    "Education": [
+      "get education degree",
+      "grading request"
+    ],
+    "Genealogy & Personal Records": [
+      "birth record lookup"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "create reminder"
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message",
+      "get info contact",
+      "get contact method"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location",
+      "create reminder",
+      "get alarm",
+      "get reminder",
+      "delete reminder"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Events & Calendar": [
+      "get attendee event"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Messaging": [
+      "send message"
+    ],
+    "Call History": [
+      "get call history"
+    ]
+  },
+  {
+    "Weather": [
+      "get weather"
+    ],
+    "Music": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music",
+      "skip/dislike track music"
+    ],
+    "Calls": [
+      "create call",
+      "update call",
+      "end call",
+      "update method call",
+      "get contact method",
+      "get info contact"
+    ],
+    "Reminders & Alarms": [
+      "create alarm",
+      "get reminder location",
+      "cancel reminder"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Events": [
+      "get attendee event",
+      "get local events"
+    ],
+    "Knowledge": [
+      "get recipe info",
+      "get report details"
+    ]
+  },
+  {
+    "News": [
+      "get stories news"
+    ],
+    "Calling": [
+      "create call"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Messaging": [
+      "cancel message"
+    ],
+    "Alarms & Timers": [
+      "create alarm",
+      "update timer"
+    ],
+    "Music & Media": [
+      "repeat all off music",
+      "play media"
+    ],
+    "Contacts": [
+      "get education degree",
+      "get info contact"
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "get info contact",
+      "get contact method"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location",
+      "get reminder list",
+      "update reminder",
+      "update timer"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Events": [
+      "get attendee event",
+      "find events"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Cooking & Recipes": [
+      "get recipe"
+    ],
+    "Location & Residence": [
+      "get residence info"
+    ]
+  },
+  {
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location",
+      "snooze timer",
+      "list alarms",
+      "restart alarm"
+    ],
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Contacts & Social": [
+      "get info contact",
+      "get contact method",
+      "social relationship lookup",
+      "social mutual friends lookup"
+    ],
+    "Music & Media": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Calendar & Events": [
+      "get attendee event"
+    ],
+    "Device & Timer Control": [
+      "update method call"
+    ],
+    "Food & Preferences": [
+      "get favorite food"
+    ]
+  },
+  {
+    "Timers & Alarms": [
+      "create alarm",
+      "restart timer"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Music & Audio": [
+      "play media"
+    ],
+    "Contacts & People": [
+      "get info contact"
+    ],
+    "Calling": [
+      "end call",
+      "create call",
+      "update call"
+    ],
+    "Reminders": [
+      "update reminder",
+      "get reminder location"
+    ],
+    "Cooking & Food": [
+      "get cooking info"
+    ]
+  },
+  {
+    "Timers & Alarms": [
+      "pause timer",
+      "create alarm",
+      "start timer"
+    ],
+    "Reminders": [
+      "update reminder",
+      "get reminder location",
+      "cancel message",
+      "create reminder"
+    ],
+    "Music & Audio": [
+      "play media",
+      "play radio station music",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "News": [
+      "get stories news",
+      "get traffic incident news"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Calls & Communication": [
+      "create call",
+      "update call",
+      "end call"
+    ],
+    "Search & Information": [
+      "search recipe",
+      "get education degree",
+      "get info contact"
+    ],
+    "Calendar & Events": [
+      "get attendee event"
+    ]
+  },
+  {
+    "Education": [
+      "get education degree"
+    ],
+    "Messaging": [
+      "update message",
+      "cancel message"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method",
+      "get social contacts"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "create reminder",
+      "get reminder location"
+    ],
+    "Calling": [
+      "create call",
+      "update call",
+      "update method call",
+      "end call"
+    ],
+    "Music & Media": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "Cooking & Food": [
+      "get cooking time",
+      "get nutrition info"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Local & Travel": [
+      "get local activities"
+    ]
+  },
+  {
+    "Weather": [
+      "get weather"
+    ],
+    "Reminders": [
+      "create reminder",
+      "get reminder location",
+      "delete reminder"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Calling": [
+      "create call",
+      "end call"
+    ],
+    "Music": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "Cooking": [
+      "get recipe"
+    ],
+    "Calendar": [
+      "get attendee event",
+      "get upcoming events"
+    ],
+    "Messaging": [
+      "cancel message",
+      "send message"
+    ]
+  },
+  {
+    "Alerts & Reminders": [
+      "update reminder",
+      "create timer",
+      "cancel alarm",
+      "create alarm",
+      "create reminder"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Calling": [
+      "get call history",
+      "create call"
+    ],
+    "Messaging": [
+      "get message info",
+      "respond to message"
+    ],
+    "People & Background Info": [
+      "get employment history"
+    ],
+    "Event Management": [
+      "respond to event"
+    ],
+    "Time": [
+      "get timer status"
+    ]
+  },
+  {
+    "Weather": [
+      "get weather",
+      "get sunset time"
+    ],
+    "Contacts": [
+      "get info contact"
+    ],
+    "Food & Cooking": [
+      "get recipes"
+    ],
+    "Events": [
+      "update attendee event"
+    ],
+    "Alarms & Timers": [
+      "create alarm",
+      "get timer status"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Music & Audio": [
+      "play media"
+    ]
+  },
+  {
+    "Calling": [
+      "create call",
+      "end call"
+    ],
+    "Timers & Alarms": [
+      "create alarm",
+      "get timer status",
+      "update timer"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Reminders": [
+      "get reminder location",
+      "cancel reminder"
+    ],
+    "Messaging": [
+      "cancel message"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Events": [
+      "get attendee event"
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message",
+      "get info contact",
+      "get contact method"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Music": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music"
+    ],
+    "Reminders & Alarms": [
+      "create alarm",
+      "get reminder location",
+      "delete reminder"
+    ],
+    "News": [
+      "get stories news",
+      "get local events"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Events & Scheduling": [
+      "get attendee event"
+    ],
+    "Transportation": [
+      "get transit eta"
+    ],
+    "Messaging": [
+      "check messages"
+    ],
+    "Time": [
+      "get remaining time"
+    ]
+  },
+  {
+    "Calling": [
+      "create call",
+      "end call",
+      "update call",
+      "update method call"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Music": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location"
+    ],
+    "Messaging": [
+      "cancel message",
+      "send message"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Contacts & Directory": [
+      "get info contact",
+      "get contact method",
+      "search contact availability",
+      "get workplace contact"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Calendar & Events": [
+      "get attendee event"
+    ]
+  },
+  {
+    "Messaging": [
+      "view messages"
+    ],
+    "Reminders & Tasks": [
+      "delete reminder",
+      "create reminder"
+    ],
+    "Calling": [
+      "create call",
+      "update call",
+      "end call"
+    ],
+    "Timers & Alarms": [
+      "update timer",
+      "get timer info"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Music & Audio": [
+      "play media"
+    ],
+    "News": [
+      "get stories news"
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message",
+      "record video message"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "show alarms",
+      "update reminder",
+      "delete reminder"
+    ],
+    "Music & Media": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "Events & Education": [
+      "get attendee event",
+      "get education degree"
+    ],
+    "Fitness": [
+      "get lap times"
+    ],
+    "Lifestyle & Recommendations": [
+      "get activity suggestions"
+    ]
+  },
+  {
+    "Contact Information": [
+      "get info contact"
+    ],
+    "Call Management": [
+      "update call",
+      "create call"
+    ],
+    "Messaging": [
+      "cancel message",
+      "send message"
+    ],
+    "Music & Audio": [
+      "play media"
+    ],
+    "Reminders & Alarms": [
+      "create alarm",
+      "delete reminder"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Timers": [
+      "update timer"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Calendar & Events": [
+      "get attendee event",
+      "join call"
+    ]
+  },
+  {
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Calling": [
+      "end call",
+      "create call"
+    ],
+    "Music & Audio": [
+      "play media",
+      "get track info music"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Messaging": [
+      "cancel message",
+      "create video message"
+    ],
+    "Contacts": [
+      "get info contact"
+    ],
+    "Local & Events": [
+      "get local activities",
+      "get attendee event"
+    ]
+  },
+  {
+    "Music": [
+      {
+        "topic": "update method call",
+        "sentences": [
+          "I don't like this song, skip it."
+        ]
+      },
+      {
+        "topic": "play media",
+        "sentences": [
+          "Play Paul Kelly on google play music",
+          "play midnight by Dr. Dre"
+        ]
+      }
+    ],
+    "Communication": [
+      {
+        "topic": "update call",
+        "sentences": [
+          "add friend to call"
+        ]
+      },
+      {
+        "topic": "end call",
+        "sentences": [
+          "please stop call with spouse"
+        ]
+      },
+      {
+        "topic": "create message",
+        "sentences": [
+          "send a video to Charlie"
+        ]
+      }
+    ],
+    "Weather": [
+      {
+        "topic": "get weather",
+        "sentences": [
+          "What's the humidity now in Yonkers?"
+        ]
+      }
+    ],
+    "Alarms & Timers": [
+      {
+        "topic": "create alarm",
+        "sentences": [
+          "Set an alarm for 10 AM"
+        ]
+      },
+      {
+        "topic": "get timer status",
+        "sentences": [
+          "pause the timer please"
+        ]
+      },
+      {
+        "topic": "create timer",
+        "sentences": [
+          "Can you set the timer to go off in 24 hours",
+          "create French press timer"
+        ]
+      }
+    ],
+    "Contacts & Social": [
+      {
+        "topic": "get info contact",
+        "sentences": [
+          "Which one of my friends was online this morning?"
+        ]
+      },
+      {
+        "topic": "get education degree",
+        "sentences": [
+          "Who do I know that attended onu?"
+        ]
+      }
+    ],
+    "Calendar & Events": [
+      {
+        "topic": "get attendee event",
+        "sentences": [
+          "What is going on at 4pm for tomorrow evening"
+        ]
+      }
+    ],
+    "News & Information": [
+      {
+        "topic": "get stories news",
+        "sentences": [
+          "music festivals in las vegas 2018"
+        ]
+      }
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "update call",
+      "cancel message",
+      "record video message",
+      "create reminder"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "delete reminder",
+      "create timer"
+    ],
+    "Contacts": [
+      "get info contact"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Music & Audio": [
+      "play media"
+    ],
+    "Food & Cooking": [
+      "get nutrition info",
+      "get recipe"
+    ]
+  },
+  {
+    "Alarms": [
+      "create alarm",
+      "snooze alarm",
+      "start alarm",
+      "get alarm info"
+    ],
+    "Messaging": [
+      "cancel message",
+      "send message"
+    ],
+    "Music": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "repeat current song",
+      "resume music",
+      "get track info music"
+    ],
+    "Calls": [
+      "create call",
+      "update call",
+      "update method call",
+      "end call",
+      "block calls temporarily"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Events": [
+      "get attendee event",
+      "update event status"
+    ],
+    "Reminders": [
+      "get reminder location",
+      "create reminder"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Cooking": [
+      "get recipe info"
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message",
+      "send message"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Media": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "Productivity": [
+      "create alarm",
+      "delete alarm",
+      "get reminder location",
+      "get attendee event"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Cooking": [
+      "get recipe info"
+    ],
+    "Employment": [
+      "get employment status"
+    ]
+  },
+  {
+    "Contacts": [
+      "get info contact"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Reminders": [
+      "create reminder",
+      "get reminder location"
+    ],
+    "Calls": [
+      "update call",
+      "create call"
+    ],
+    "Alarms & Timers": [
+      "create alarm",
+      "update timer"
+    ],
+    "Settings": [
+      "update default music app"
+    ],
+    "Music & Audio": [
+      "play media"
+    ]
+  },
+  {
+    "Communication": [
+      {
+        "sentence": "Anyone from Russia?",
+        "topic": "get info contact",
+        "label": "get info contact"
+      },
+      {
+        "sentence": "Please make video message for Liz",
+        "topic": "create message",
+        "label": "create message"
+      },
+      {
+        "sentence": "see if pauline wants to attend my thanksgiving get together",
+        "topic": "create message",
+        "label": "create message"
+      },
+      {
+        "sentence": "call Amelia 's daughter",
+        "topic": "create call",
+        "label": "create call"
+      }
+    ],
+    "Alarms & Reminders": [
+      {
+        "sentence": "10 minutes on the timer please",
+        "topic": "create timer",
+        "label": "create timer"
+      },
+      {
+        "sentence": "Can you move my alarm to half an hour later?",
+        "topic": "update alarm",
+        "label": "update alarm"
+      },
+      {
+        "sentence": "Reveal upcoming alarm notifications",
+        "topic": "get alarm info",
+        "label": "get alarm info"
+      }
+    ],
+    "Weather": [
+      {
+        "sentence": "when does the rain start",
+        "topic": "get weather",
+        "label": "get weather"
+      },
+      {
+        "sentence": "Is it t-shirt weather this afternoon?",
+        "topic": "get weather",
+        "label": "get weather"
+      },
+      {
+        "sentence": "What is the annual rainfall in Virginia",
+        "topic": "get weather",
+        "label": "get weather"
+      }
+    ],
+    "Music & Audio": [
+      {
+        "sentence": "play Thotiana on iHeartRadio",
+        "topic": "play media",
+        "label": "play media"
+      },
+      {
+        "sentence": "Play Hello Bonjour off Yell Fire",
+        "topic": "play media",
+        "label": "play media"
+      }
+    ],
+    "News": [
+      {
+        "sentence": "recent news in the MLB",
+        "topic": "get stories news",
+        "label": "get stories news"
+      }
+    ],
+    "Device & Settings": [
+      {
+        "sentence": "Put in busy mode",
+        "topic": "set do not disturb",
+        "label": "set do not disturb"
+      }
+    ],
+    "Travel & Local": [
+      {
+        "sentence": "Things to do in Medford, Oregon",
+        "topic": "get local attractions",
+        "label": "get local attractions"
+      }
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music",
+      "skip track music",
+      "repeat track music"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location",
+      "delete reminder",
+      "create reminder"
+    ],
+    "Contacts & People": [
+      "get info contact",
+      "get contact method",
+      "check contact availability",
+      "get person identity",
+      "get employment history",
+      "get business staff"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Events & Calendar": [
+      "get attendee event"
+    ],
+    "News": [
+      "get stories news"
+    ]
+  },
+  {
+    "Cooking & Food": [
+      "cooking advice",
+      "food preparation temperature"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Music & Audio": [
+      "get track info music",
+      "play media"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "get alarm info",
+      "get reminder location"
+    ],
+    "Calling & Communication": [
+      "update call",
+      "create call"
+    ],
+    "Contacts & People": [
+      "get online status",
+      "get birthday info"
+    ]
+  },
+  {
+    "Weather": [
+      "get weather"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "Calling": [
+      "create call",
+      "update call",
+      "end call",
+      "update method call"
+    ],
+    "Messaging": [
+      "cancel message"
+    ],
+    "Music": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location"
+    ],
+    "Calendar & Events": [
+      "get attendee event"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Cooking": [
+      "get recipe ingredient"
+    ],
+    "Relationships": [
+      "get relationship info"
+    ],
+    "People Lookup": [
+      "get residence info",
+      "get employment info"
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message",
+      "send message",
+      "get info contact",
+      "get contact method"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location",
+      "update reminder",
+      "get reminder count",
+      "get reminder details",
+      "list reminders"
+    ],
+    "Calendar & Events": [
+      "update method call",
+      "get attendee event"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Education": [
+      "get education degree"
+    ]
+  },
+  {
+    "Cooking": [
+      "get cooking time"
+    ],
+    "Navigation": [
+      "get location"
+    ],
+    "Calling": [
+      "create call",
+      "update call"
+    ],
+    "Timer": [
+      "get timer status",
+      "create alarm",
+      "update alarm",
+      "snooze alarm"
+    ],
+    "Events": [
+      "get local events"
+    ],
+    "Reminders": [
+      "create reminder"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "News": [
+      "get stories news"
+    ]
+  },
+  {
+    "Utilities": [
+      "create alarm",
+      "show timer"
+    ],
+    "Messaging": [
+      "update message",
+      "cancel message"
+    ],
+    "Food & Cooking": [
+      "get recipe info"
+    ],
+    "Local Information": [
+      "get event hours",
+      "get local activities",
+      "get resident info"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Calling & Communication": [
+      "create call",
+      "video call",
+      "update call"
+    ],
+    "Music & Audio": [
+      "play media"
+    ],
+    "Call History": [
+      "get call history"
+    ]
+  },
+  {
+    "Alarms & Reminders": [
+      "create alarm",
+      "update alarm",
+      "create timer",
+      "cancel reminder",
+      "get reminder location",
+      "get reminder count"
+    ],
+    "Calling & Contacts": [
+      "create call",
+      "update call",
+      "end call",
+      "get attendee event",
+      "get info contact",
+      "get contact method"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Messaging": [
+      "cancel message"
+    ],
+    "Education & Career": [
+      "get education degree",
+      "get job start date"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Cooking & Recipes": [
+      "get recipe"
+    ],
+    "Events & Availability": [
+      "get attendee availability",
+      "get event interest"
+    ],
+    "Time & Timer": [
+      "update timer"
+    ]
+  },
+  {
+    "Music": [
+      "play media"
+    ],
+    "Reminders & Alarms": [
+      "create reminder",
+      "create alarm",
+      "update timer"
+    ],
+    "Contacts & People": [
+      "get info contact",
+      "get contact availability"
+    ],
+    "Calling & Communication": [
+      "update call",
+      "create call"
+    ],
+    "Cooking & Recipes": [
+      "get cooking temperature",
+      "get recipe"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Entertainment News": [
+      "get celebrity news"
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "get info contact",
+      "get contact method",
+      "cancel message"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music"
+    ],
+    "Alarms & Timers": [
+      "create alarm",
+      "create timer",
+      "update timer"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Events & Calendar": [
+      "get attendee event",
+      "get local music events"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Reminders": [
+      "get reminder location",
+      "recover deleted reminder"
+    ],
+    "Food & Recipes": [
+      "get recipe ingredients"
+    ],
+    "Employment & People": [
+      "get employer info"
+    ]
+  },
+  {
+    "Music": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "Reminders": [
+      "get reminder location",
+      "create reminder",
+      "get reminder"
+    ],
+    "Messaging": [
+      "cancel message",
+      "create message"
+    ],
+    "Calls": [
+      "create call",
+      "update call",
+      "end call",
+      "video call"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Alarms & Timers": [
+      "create alarm",
+      "create timer"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Calendar": [
+      "get attendee event"
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message",
+      "check contact availability",
+      "send video message"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music",
+      "pause music",
+      "set default music provider",
+      "ban artist",
+      "music feedback"
+    ],
+    "Reminders & Alarms": [
+      "create alarm",
+      "get reminder location",
+      "create reminder",
+      "get reminders"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Events": [
+      "get attendee event"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Device & Settings": [
+      "update method call"
+    ],
+    "Entertainment": [
+      "find plays"
+    ]
+  },
+  {
+    "Media & Music": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music",
+      "shuffle music library"
+    ],
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message",
+      "send message",
+      "reply message"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location",
+      "get reminder",
+      "create reminder"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Cooking": [
+      "recipe substitution"
+    ]
+  },
+  {
+    "Weather": [
+      "get weather",
+      "get indoor temperature"
+    ],
+    "Messaging": [
+      "cancel message",
+      "create video message"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "stop alarm",
+      "get reminder location",
+      "delete reminder",
+      "create reminder"
+    ],
+    "News": [
+      "get stories news",
+      "get political news details"
+    ],
+    "Calling": [
+      "create call",
+      "update call",
+      "end call",
+      "update method call"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music"
+    ],
+    "Events": [
+      "get attendee event"
+    ]
+  },
+  {
+    "Events": [
+      "get attendee event",
+      "search events"
+    ],
+    "Messaging": [
+      "send message",
+      "cancel message",
+      "show message"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "create reminder"
+    ],
+    "Music & Audio": [
+      "play media",
+      "repeat all off music",
+      "get track info music",
+      "resume music",
+      "add to playlist music"
+    ],
+    "Timers": [
+      "pause timer",
+      "timer status"
+    ],
+    "Presence & Social": [
+      "check online status"
+    ]
+  },
+  {
+    "Calling": [
+      "end call",
+      "create call",
+      "update call"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location"
+    ],
+    "Cooking & Recipes": [
+      "get recipe"
+    ],
+    "Messaging": [
+      "cancel message",
+      "get message status"
+    ],
+    "Contacts & Social": [
+      "get info contact",
+      "get contact method"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "end call",
+      "cancel message",
+      "get attendee event"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location"
+    ],
+    "Media & Music": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Device & App Control": [
+      "update call",
+      "update method call"
+    ],
+    "General Information": [
+      "get cooking time",
+      "get event location"
+    ],
+    "Messaging": [
+      "create message"
+    ]
+  },
+  {
+    "Reminders & Alarms": [
+      "create alarm",
+      "get reminder location",
+      "update reminder",
+      "create reminder",
+      "create timer"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Music & Audio": [
+      "play media",
+      "resume music",
+      "repeat all off music",
+      "add to playlist music",
+      "get track info music"
+    ],
+    "Calling": [
+      "create call",
+      "update call",
+      "end call",
+      "update method call"
+    ],
+    "Messaging": [
+      "cancel message",
+      "read messages"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "Calendar & Events": [
+      "get attendee event",
+      "decline event",
+      "confirm event attendance"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Food & Nutrition": [
+      "get nutrition info"
+    ]
+  },
+  {
+    "Messaging": [
+      "read messages",
+      "cancel message"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method",
+      "get employer contact"
+    ],
+    "Cooking": [
+      "get recipe ingredients"
+    ],
+    "Timers & Alarms": [
+      "update call",
+      "update method call",
+      "create alarm",
+      "create timer"
+    ],
+    "Reminders & Calendar": [
+      "get reminder location",
+      "create reminder",
+      "get attendee event"
+    ],
+    "News": [
+      "get stories news",
+      "get headline news",
+      "get topic news"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Calling": [
+      "create call",
+      "end call"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "Food & Nutrition": [
+      "get nutrition info"
+    ]
+  },
+  {
+    "Timers & Alarms": [
+      "cancel timer",
+      "create alarm"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Reminders": [
+      "get reminder location",
+      "delete reminders"
+    ],
+    "Messaging": [
+      "create message"
+    ],
+    "Cooking & Recipes": [
+      "get recipe"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Contacts & Social": [
+      "get online contacts",
+      "get info contact"
+    ]
+  },
+  {
+    "Cooking & Recipes": [
+      "recipe ingredient quantity",
+      "cooking time",
+      "recipe instructions",
+      "cooking temperature"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Alarms & Timers": [
+      "create alarm",
+      "end timer"
+    ],
+    "News": [
+      "get stories news",
+      "get sports news",
+      "get local news"
+    ],
+    "Music & Audio": [
+      "play previous track"
+    ],
+    "Messaging": [
+      "create message"
+    ],
+    "Travel & Local": [
+      "get local activities"
+    ],
+    "Contacts": [
+      "get info contact"
+    ]
+  },
+  {
+    "Reminders": [
+      "get reminder location",
+      "create reminder",
+      "update reminder"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music"
+    ],
+    "News": [
+      "get stories news",
+      "get entertainment news",
+      "get local news",
+      "get political news"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Education & Biography": [
+      "get education degree",
+      "get employment history"
+    ],
+    "Events & Entertainment": [
+      "get events"
+    ],
+    "Recipes & Food": [
+      "get recipe"
+    ]
+  },
+  {
+    "Alarms & Reminders": [
+      "create alarm",
+      "cancel alarm",
+      "create reminder"
+    ],
+    "Weather": [
+      "get weather",
+      "get forecast",
+      "get rain forecast"
+    ],
+    "Timers": [
+      "create timer",
+      "update timer"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Calling": [
+      "create call",
+      "update call"
+    ],
+    "Messaging": [
+      "create message"
+    ]
+  },
+  {
+    "Music": [
+      "repeat all off music",
+      "play media",
+      "resume music",
+      "add to playlist music",
+      "get track info music"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Timers & Alarms": [
+      "create alarm",
+      "update timer",
+      "pause timer"
+    ],
+    "Calls": [
+      "create call",
+      "update call",
+      "end call"
+    ],
+    "Messaging": [
+      "cancel message",
+      "create message"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "Events & Reminders": [
+      "get attendee event",
+      "get reminder location"
+    ],
+    "Cooking": [
+      "get cooking time"
+    ]
+  },
+  {
+    "Communication": [
+      "update call",
+      "create call",
+      "end call",
+      "get info contact",
+      "get contact method",
+      "cancel message"
+    ],
+    "Reminders & Alarms": [
+      "create alarm",
+      "get reminder location",
+      "cancel reminder"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Events & Calendar": [
+      "get attendee event"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Cooking & Recipes": [
+      "get recipe",
+      "get cooking time"
+    ],
+    "Local & Travel": [
+      "get local activities",
+      "get travel info"
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "update call"
+    ],
+    "Business & People Info": [
+      "get info contact",
+      "get employment info"
+    ],
+    "Food & Beverage Info": [
+      "get nutrition info"
+    ],
+    "Timers & Alarms": [
+      "get timer status",
+      "create alarm"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Reminders": [
+      "cancel reminder",
+      "create reminder"
+    ],
+    "Weather & Astronomy": [
+      "get weather",
+      "get sunset time"
+    ]
+  },
+  {
+    "Cooking & Recipes": [
+      "recipe inquiry"
+    ],
+    "Music & Audio": [
+      "play media"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Messaging & Communication": [
+      "create message"
+    ],
+    "Reminders & Alerts": [
+      "get reminder",
+      "create reminder",
+      "create alarm",
+      "update reminder",
+      "cancel reminder"
+    ],
+    "Calling": [
+      "create call"
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message",
+      "get info contact",
+      "get contact method"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Reminders & Alarms": [
+      "create alarm",
+      "get reminder location",
+      "delete reminder",
+      "update timer",
+      "get alarm info",
+      "create reminder"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Events": [
+      "get attendee event"
+    ],
+    "Food & Nutrition": [
+      "get nutrition info"
+    ]
+  },
+  {
+    "Alarms & Reminders": [
+      "cancel alarm",
+      "create alarm",
+      "cancel reminder",
+      "create reminder"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Cooking & Recipes": [
+      "get recipe",
+      "get cooking time"
+    ],
+    "Events": [
+      "get events"
+    ],
+    "Calling": [
+      "create call",
+      "update call",
+      "end call",
+      "get contact method"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "Nutrition": [
+      "get nutrition info"
+    ],
+    "Contacts": [
+      "get info contact"
+    ]
+  },
+  {
+    "Messaging": [
+      "send message"
+    ],
+    "Contacts & Social": [
+      "get info contact"
+    ],
+    "Alarms & Timers": [
+      "create alarm",
+      "update alarm",
+      "update timer"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "get track info music",
+      "resume music",
+      "repeat all off music"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Reminders": [
+      "create reminder",
+      "get reminder location"
+    ],
+    "Local & Events": [
+      "get local activities"
+    ]
+  },
+  {
+    "Cooking & Food": [
+      "cooking time",
+      "ingredient substitution",
+      "food doneness"
+    ],
+    "Media & Music": [
+      "play media",
+      "resume music",
+      "pause music"
+    ],
+    "Reminders & Alarms": [
+      "create alarm",
+      "create reminder",
+      "get reminder location"
+    ],
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "News & Politics": [
+      "get stories news",
+      "get political action"
+    ],
+    "People & Biography": [
+      "get person info"
+    ],
+    "Sports": [
+      "get sports schedule"
+    ]
+  },
+  {
+    "Events": [
+      "get local events",
+      "get music events",
+      "get event recommendations",
+      "get nightlife events"
+    ],
+    "Weather": [
+      "get weather",
+      "get clothing advice weather",
+      "get snow forecast"
+    ],
+    "Reminders": [
+      "get reminders",
+      "get reminder location"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Music": [
+      "resume music",
+      "skip track music",
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music"
+    ],
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message",
+      "send video message",
+      "get info contact",
+      "get contact method"
+    ],
+    "Alarms": [
+      "create alarm"
+    ],
+    "Presence": [
+      "get online status"
+    ]
+  },
+  {
+    "Education": [
+      "get education degree"
+    ],
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message",
+      "get info contact",
+      "get contact method"
+    ],
+    "Reminders & Alarms": [
+      "create alarm",
+      "get reminder location",
+      "delete reminder"
+    ],
+    "Timers": [
+      "update method call",
+      "update timer"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Employment": [
+      "get employment duration"
+    ],
+    "Contacts & Social": [
+      "get friends list by location"
+    ],
+    "Cooking": [
+      "get cooking quantity"
+    ]
+  },
+  {
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music",
+      "play radio station",
+      "skip track/genre music"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location",
+      "delete reminder",
+      "check alarm status"
+    ],
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "update method call",
+      "cancel message"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Contacts & People": [
+      "get info contact",
+      "get contact method",
+      "find contacts by location",
+      "get person age"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Calendar & Events": [
+      "get attendee event"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Food & Cooking": [
+      "get recipes"
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location"
+    ],
+    "Contacts & People": [
+      "get info contact",
+      "get contact method"
+    ],
+    "Education & Career": [
+      "get education degree",
+      "get employment info"
+    ],
+    "Events & Calendar": [
+      "get attendee event"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Device & Settings": [
+      "update method call",
+      "update recurring alarm",
+      "check recurring reminder"
+    ],
+    "Cooking & How-To": [
+      "get cooking instructions"
+    ],
+    "Social & Relationships": [
+      "get social relations"
+    ]
+  },
+  {
+    "Media": [
+      "play media",
+      "get track info music",
+      "add to playlist music",
+      "resume music",
+      "repeat all off music"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "update method call",
+      "cancel message",
+      "get info contact",
+      "get contact method",
+      "get attendee event"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Productivity": [
+      "create alarm",
+      "get reminder location"
+    ],
+    "Education": [
+      "get education degree"
+    ]
+  },
+  {
+    "Contacts & People": [
+      {
+        "sentence": "Where does my brother work",
+        "topic": "get info contact",
+        "label": "get info contact"
+      },
+      {
+        "sentence": "Who works for NBC?",
+        "topic": "get employer info",
+        "label": "get employer info"
+      }
+    ],
+    "News": [
+      {
+        "sentence": "how are the elections going in Nicaragua",
+        "topic": "get stories news",
+        "label": "get stories news"
+      }
+    ],
+    "Timers & Alarms": [
+      {
+        "sentence": "Start timer over again",
+        "topic": "restart timer",
+        "label": "restart timer"
+      },
+      {
+        "sentence": "Create an alarm for Friday at 6",
+        "topic": "create alarm",
+        "label": "create alarm"
+      },
+      {
+        "sentence": "When is the timer ending?",
+        "topic": "get timer status",
+        "label": "get timer status"
+      },
+      {
+        "sentence": "Set countdown timer for 25 minutes",
+        "topic": "create timer",
+        "label": "create timer"
+      },
+      {
+        "sentence": "which timers are going",
+        "topic": "get active timers",
+        "label": "get active timers"
+      }
+    ],
+    "Weather": [
+      {
+        "sentence": "Tell me what the weather be on Saturday?",
+        "topic": "get weather",
+        "label": "get weather"
+      },
+      {
+        "sentence": "What is the weather looking like in London at 4pm?",
+        "topic": "get weather",
+        "label": "get weather"
+      },
+      {
+        "sentence": "Tell me the weather forecast for Europe.",
+        "topic": "get weather",
+        "label": "get weather"
+      }
+    ],
+    "Food & Nutrition": [
+      {
+        "sentence": "How many calories are in a slice of cheddar cheese",
+        "topic": "get nutrition info",
+        "label": "get nutrition info"
+      },
+      {
+        "sentence": "How to make a chicken salad sandwich",
+        "topic": "get recipe",
+        "label": "get recipe"
+      }
+    ],
+    "Music & Audio": [
+      {
+        "sentence": "I want to listen to snoop dogg on Pandora",
+        "topic": "play media",
+        "label": "play media"
+      }
+    ],
+    "Calling": [
+      {
+        "sentence": "answer Jordan's call",
+        "topic": "update call",
+        "label": "update call"
+      }
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message"
+    ],
+    "Contacts & Social": [
+      "get info contact",
+      "get contact method",
+      "get social connections",
+      "get online contacts",
+      "get hidden users"
+    ],
+    "Media & Music": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Reminders & Alarms": [
+      "create alarm",
+      "get reminder location",
+      "delete reminder",
+      "create timer",
+      "stop alarm"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Events": [
+      "get attendee event"
+    ],
+    "Nutrition": [
+      "get nutrition info"
+    ],
+    "Employment": [
+      "get work history"
+    ]
+  },
+  {
+    "Messaging & Communication": [
+      "cancel message",
+      "create call",
+      "end call",
+      "update call",
+      "update method call",
+      "send message"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Media & Music": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music",
+      "next track music",
+      "shuffle music"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location",
+      "create reminder",
+      "create timer",
+      "update timer",
+      "create stop alarm"
+    ],
+    "Education & Biography": [
+      "get education degree",
+      "get career start"
+    ],
+    "Calendar & Events": [
+      "get attendee event",
+      "get local events"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Cooking": [
+      "get recipe instructions"
+    ],
+    "Transportation": [
+      "get schedule"
+    ]
+  },
+  {
+    "Weather": [
+      "get weather"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location",
+      "create reminder"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Calling": [
+      "create call",
+      "update call",
+      "end call"
+    ],
+    "Messaging": [
+      "cancel message",
+      "send message"
+    ],
+    "Events & Schedule": [
+      "get attendee event",
+      "get event info"
+    ],
+    "Food & Nutrition": [
+      "get nutrition info"
+    ],
+    "Entertainment": [
+      "play media"
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "get info contact",
+      "get contact method",
+      "video call contact"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location",
+      "get next alarm info",
+      "create reminder"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Events & Calendar": [
+      "get attendee event",
+      "concert recommendation"
+    ],
+    "Education": [
+      "get education degree",
+      "astronomy event info"
+    ],
+    "Recipes & Food": [
+      "recipe lookup",
+      "nutrition info"
+    ],
+    "Messaging": [
+      "cancel message"
+    ],
+    "Developer & System Actions": [
+      "update method call"
+    ]
+  },
+  {
+    "Contact Information": [
+      "get info contact"
+    ],
+    "Reminders": [
+      "cancel reminder"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Sports": [
+      "get sports schedule"
+    ],
+    "Calls": [
+      "update call",
+      "create call"
+    ],
+    "Music & Audio": [
+      "play media"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Alarms": [
+      "create alarm"
+    ],
+    "Timers": [
+      "get timer status"
+    ]
+  },
+  {
+    "Reminders & Alarms": [
+      "get reminder location",
+      "create alarm",
+      "create timer",
+      "snooze alarm",
+      "view timers"
+    ],
+    "News": [
+      "get stories news",
+      "get local news",
+      "get news updates",
+      "get past news",
+      "get topic news"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Communication": [
+      "cancel message"
+    ],
+    "Social & Presence": [
+      "get group online status"
+    ],
+    "Contacts": [
+      "get info contact"
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message",
+      "get info contact",
+      "get contact method"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Events & Calendar": [
+      "get attendee event"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Knowledge & Information": [
+      "general knowledge query",
+      "sports schedule query"
+    ]
+  },
+  {
+    "Food & Cooking": [
+      "recipe request",
+      "cooking technique question",
+      "dietary ingredient question"
+    ],
+    "Music & Audio": [
+      "play media",
+      "shuffle music"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Calling & Communication": [
+      "update call",
+      "create call"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Contacts": [
+      "get info contact"
+    ],
+    "Entertainment & Celebrities": [
+      "get awards info"
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "update call",
+      "cancel message"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Music": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "Events": [
+      "get attendee event"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Phone & Device Actions": [
+      "update method call"
+    ],
+    "Employment": [
+      "get employee info",
+      "get job history"
+    ],
+    "Food & Nutrition": [
+      "get nutrition info",
+      "get cooking advice"
+    ]
+  },
+  {
+    "Weather": [
+      "get weather"
+    ],
+    "Messaging": [
+      "cancel message",
+      "send message"
+    ],
+    "Calling": [
+      "create call",
+      "update call",
+      "end call"
+    ],
+    "Food & Nutrition": [
+      "get food info"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "Education": [
+      "get education degree"
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message",
+      "get info contact",
+      "get contact method",
+      "get online status"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Media & Music": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music",
+      "play news"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location",
+      "create reminder",
+      "update reminder",
+      "resume timer"
+    ],
+    "Calendar & Events": [
+      "get attendee event"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Recommendations & Local": [
+      "get sports recommendations"
+    ],
+    "Social": [
+      "get friends list"
+    ]
+  },
+  {
+    "Reminders": [
+      "get reminder location"
+    ],
+    "Music": [
+      "get track info music",
+      "play media"
+    ],
+    "Calling": [
+      "update call",
+      "create call"
+    ],
+    "Timers & Alarms": [
+      "get timer status",
+      "update timer",
+      "create timer"
+    ],
+    "Events": [
+      "get event recommendation",
+      "update attendee event"
+    ],
+    "Employment & Education": [
+      "get employer info"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Contacts & People": [
+      "get resident info"
+    ]
+  },
+  {
+    "Timers & Alarms": [
+      "update timer",
+      "create alarm",
+      "create multiple timers"
+    ],
+    "Calling": [
+      "update call",
+      "end call",
+      "create call"
+    ],
+    "Cooking & Recipes": [
+      "get recipe"
+    ],
+    "News": [
+      "get stories news",
+      "get local news"
+    ],
+    "Messaging": [
+      "get message",
+      "cancel message"
+    ],
+    "Reminders": [
+      "get reminder location",
+      "create reminder"
+    ],
+    "Weather": [
+      "get weather"
+    ]
+  },
+  {
+    "Media & Music": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Calls & Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message",
+      "send message"
+    ],
+    "Alarms, Reminders & Timers": [
+      "create alarm",
+      "delete alarm",
+      "create reminder",
+      "get reminder location",
+      "create timer"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "News & Events": [
+      "get stories news",
+      "get attendee event",
+      "get local events"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Recipes & Cooking": [
+      "get recipe ingredient quantity"
+    ]
+  },
+  {
+    "Events & Local Activities": [
+      "find local activities",
+      "find local events"
+    ],
+    "Timers, Alarms & Reminders": [
+      "create alarm",
+      "get alarm info",
+      "create reminder",
+      "get reminder location"
+    ],
+    "Cooking & Food": [
+      "get cooking instructions",
+      "get nutrition info"
+    ],
+    "Music & Audio": [
+      "create playlist music",
+      "play media",
+      "pause/stop music"
+    ],
+    "Messaging & Communication": [
+      "create message",
+      "get messages"
+    ],
+    "Contacts & Social": [
+      "get info contact"
+    ],
+    "Weather": [
+      "get weather"
+    ]
+  },
+  {
+    "Reminders & Alarms": [
+      "create reminder",
+      "create alarm"
+    ],
+    "Cooking & Recipes": [
+      "get recipe",
+      "get ingredients"
+    ],
+    "Music & Audio": [
+      "play media"
+    ],
+    "Events & Social": [
+      "get events",
+      "get online friends"
+    ],
+    "Contacts & Personal Info": [
+      "get info contact"
+    ],
+    "Messaging": [
+      "cancel message",
+      "create message",
+      "get messages"
+    ],
+    "Calling": [
+      "create call"
+    ],
+    "Weather": [
+      "get weather"
+    ]
+  },
+  {
+    "Messaging": [
+      "send message",
+      "update message recipient",
+      "check messages",
+      "cancel message"
+    ],
+    "Reminders & Alarms": [
+      "cancel reminder",
+      "create reminder",
+      "create alarm",
+      "get timer info"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Calling": [
+      "create call"
+    ],
+    "Music & Audio": [
+      "play media"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Contacts": [
+      "get info contact"
+    ],
+    "Calendar & Events": [
+      "get birthdays"
+    ]
+  },
+  {
+    "Sports": [
+      "get sports schedule"
+    ],
+    "Cooking": [
+      "get recipe",
+      "get cooking method",
+      "get cooking temperature"
+    ],
+    "Reminders": [
+      "get reminder date",
+      "create reminder"
+    ],
+    "Timers & Alarms": [
+      "create timer",
+      "create alarm"
+    ],
+    "Contacts": [
+      "get contact location"
+    ],
+    "Calls": [
+      "update call"
+    ],
+    "Astronomy & Weather": [
+      "get sunset time"
+    ]
+  },
+  {
+    "Alarms": [
+      "create alarm"
+    ],
+    "Reminders": [
+      "get reminder location",
+      "update reminder"
+    ],
+    "Calling": [
+      "create call",
+      "update call"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Recipes & Food": [
+      "get recipe",
+      "get food pairing"
+    ],
+    "Music & Audio": [
+      "pause media"
+    ],
+    "Events": [
+      "get local events"
+    ]
+  },
+  {
+    "Weather": [
+      "get weather"
+    ],
+    "Alarms & Timers": [
+      "create alarm",
+      "get timer status",
+      "update timer"
+    ],
+    "Reminders": [
+      "update reminder",
+      "cancel reminder",
+      "get reminder"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "Calling": [
+      "create call",
+      "update call",
+      "end call",
+      "update method call"
+    ],
+    "Messaging & Invitations": [
+      "cancel message"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Events": [
+      "get attendee event"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Location & Time": [
+      "get reminder location"
+    ]
+  },
+  {
+    "Alarms & Timers": [
+      "create alarm",
+      "create timer"
+    ],
+    "Weather": [
+      "get weather",
+      "get sunrise time"
+    ],
+    "Messaging": [
+      "update method call",
+      "send message",
+      "cancel message"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "Reminders": [
+      "get reminder location",
+      "get reminder info"
+    ],
+    "Contacts": [
+      "get info contact"
+    ]
+  },
+  {
+    "Weather": [
+      "get weather"
+    ],
+    "Calling": [
+      "create call",
+      "update call",
+      "end call"
+    ],
+    "Messaging": [
+      "cancel message",
+      "send video message",
+      "record video message"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Music": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "get reminder location",
+      "update reminder"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Events": [
+      "get attendee event"
+    ],
+    "Food & Recipes": [
+      "get recipe"
+    ],
+    "Travel & Local": [
+      "get places to visit"
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "update call",
+      "end call",
+      "cancel message"
+    ],
+    "Weather": [
+      "get weather",
+      "get severe weather alert"
+    ],
+    "Music": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music",
+      "shuffle music",
+      "rate track music"
+    ],
+    "Alarms & Reminders": [
+      "create alarm",
+      "update alarm",
+      "cancel alarm",
+      "get timer status",
+      "create reminder"
+    ],
+    "Contacts & Social": [
+      "get info contact",
+      "get contact method",
+      "get social connections"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Events & News": [
+      "get attendee event",
+      "get stories news",
+      "get sports events"
+    ]
+  },
+  {
+    "Weather": [
+      "get weather"
+    ],
+    "Reminders & Alarms": [
+      "create alarm",
+      "get reminder location",
+      "create reminder",
+      "update alarm"
+    ],
+    "Messaging": [
+      "cancel message",
+      "read message",
+      "create message"
+    ],
+    "News & Information": [
+      "get stories news",
+      "get cooking info",
+      "get education degree"
+    ],
+    "Music & Media": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "resume music",
+      "get track info music"
+    ],
+    "Calling": [
+      "create call",
+      "update call",
+      "end call",
+      "update method call"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "Calendar & Events": [
+      "get attendee event",
+      "update event status"
+    ],
+    "Relationships & People": [
+      "get person attribute"
+    ]
+  },
+  {
+    "Reminders & Alarms": [
+      "create alarm",
+      "get reminder location",
+      "create reminder"
+    ],
+    "Timers": [
+      "update timer",
+      "create timer"
+    ],
+    "Calling": [
+      "create call",
+      "update call",
+      "end call",
+      "missed call inquiry"
+    ],
+    "Messaging": [
+      "cancel message",
+      "send message"
+    ],
+    "Music & Audio": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Events": [
+      "get attendee event"
+    ],
+    "Cooking & Recipes": [
+      "get recipe ingredients"
+    ]
+  },
+  {
+    "Communication": [
+      "create call",
+      "end call",
+      "update call",
+      "cancel message",
+      "send message",
+      "set availability status"
+    ],
+    "Weather": [
+      "get weather"
+    ],
+    "Media & Music": [
+      "play media",
+      "add to playlist music",
+      "repeat all off music",
+      "get track info music",
+      "resume music"
+    ],
+    "Alarms & Timers": [
+      "create alarm",
+      "update timer"
+    ],
+    "Reminders": [
+      "get reminder location",
+      "create reminder"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method",
+      "get upcoming birthdays"
+    ],
+    "Education": [
+      "get education degree"
+    ],
+    "Calendar & Events": [
+      "get attendee event"
+    ],
+    "News": [
+      "get stories news"
+    ],
+    "Cooking": [
+      "get cooking time"
+    ],
+    "Employment": [
+      "get employment history"
+    ],
+    "Messaging": [
+      "check messages"
+    ],
+    "People": [
+      "get person info"
+    ]
+  },
+  {
+    "Weather": [
+      "get weather"
+    ],
+    "News": [
+      "get stories news",
+      "get political news"
+    ],
+    "Music": [
+      "get track info music",
+      "add to playlist music",
+      "play media",
+      "resume music",
+      "repeat all off music"
+    ],
+    "Messaging": [
+      "cancel message",
+      "send message",
+      "record video message"
+    ],
+    "Calls": [
+      "create call",
+      "update call",
+      "end call"
+    ],
+    "Reminders": [
+      "get reminder location",
+      "create reminder"
+    ],
+    "Events": [
+      "get attendee event",
+      "get local events"
+    ],
+    "Contacts": [
+      "get info contact",
+      "get contact method"
+    ],
+    "Availability": [
+      "set availability status"
+    ],
+    "Time": [
+      "request more time"
+    ]
+  }
+]

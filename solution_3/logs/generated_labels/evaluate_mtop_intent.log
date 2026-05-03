@@ -1,0 +1,10 @@
+Namespace(data_path='./dataset/', data='mtop_intent', use_large=False, predict_file_path='./generated_labels/', predict_file='mtop_intent_small_hierarchical_classification.json')
+total label length: 4386
+4386
+Ground truth labels: 
+Length of labels: 4386
+Number of Clusters: 102
+Predict labels: 
+Length of labels: 4386
+Number of Clusters: 294
+{'ACC': np.float64(0.4940720474236206), 'ARI': 0.5103671686268366, 'NMI': 0.7722860130827051, 'p_ACC': np.float64(0.000999000999000999), 'p_ARI': np.float64(0.000999000999000999), 'p_NMI': np.float64(0.000999000999000999)}

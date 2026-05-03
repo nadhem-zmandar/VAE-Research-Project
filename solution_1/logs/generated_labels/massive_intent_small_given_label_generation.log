@@ -1,0 +1,225 @@
+False
+Use dataset ./dataset/massive_intent\small.jsonl
+Length of dataset: 2974
+Length of label list: 260
+Total sample number: 400	JSON file './generated_labels\massive_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 800	JSON file './generated_labels\massive_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 1200	JSON file './generated_labels\massive_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 1600	JSON file './generated_labels\massive_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 2000	JSON file './generated_labels\massive_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 2400	JSON file './generated_labels\massive_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 2800	JSON file './generated_labels\massive_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+JSON file './generated_labels\massive_intent_small_find_labels.json' written.
+Classification result:
+Unsuccessful: 54
+contact search: 20
+personal assistant query: 5
+alarm setting: 45
+meeting history query: 8
+event search query: 9
+train schedule query: 22
+date query: 26
+play_music: 9
+currency exchange rates query: 43
+email management request: 50
+user-friendly: 1
+podcast query: 40
+coffee start: 26
+contact management: 12
+airline feedback: 2
+stock_info_query: 30
+unknown topic: 90
+social media task: 52
+qa maths: 2
+maths query: 28
+music playback control: 104
+alarm setting request: 29
+data query: 3
+brightness control: 28
+bakery search: 7
+mathematics query: 4
+general mood: 16
+recommendation_books: 2
+online communication query: 2
+email management: 3
+snow_location_query: 2
+customer service complaint: 10
+iot plug control: 13
+email query: 90
+music preference: 21
+animal query: 10
+home_cleaning: 1
+cleaning request: 3
+joke_query: 25
+travel query: 4
+program schedule query: 3
+event reminder: 18
+email check: 13
+to_do_list_query: 24
+qa smartphone: 1
+calendar event query: 29
+car information: 3
+delivery time query: 1
+sports query: 8
+contacts list query: 13
+technology query: 5
+pick up reminder: 2
+sports update query: 3
+meeting query: 34
+music query: 61
+local news: 3
+stock performance query: 1
+game interaction: 25
+qa singer: 2
+family contact: 1
+event deletion: 6
+day of the week query: 24
+entertainment recommendation: 13
+restaurant query: 16
+math problem query: 6
+email reply: 35
+coffee request: 7
+podcast control: 13
+video search: 2
+weather query: 105
+reminder setting: 57
+continue audiobook: 22
+service complaint: 9
+reminder query: 15
+shopping_reminder: 3
+politics query: 14
+news query: 70
+news update: 2
+music request: 16
+cooking tutorial: 2
+email composition: 18
+directions query: 8
+cleaning query: 2
+ticket booking: 3
+grocery list access: 16
+list query: 34
+celebrity query: 41
+tv channel control: 4
+calendar interaction: 6
+schedule reminder: 8
+recipe query: 29
+iot hue lightoff: 28
+volume control: 20
+election update: 5
+plant watering reminder: 2
+washington post articles query: 2
+media play: 1
+light setting change: 2
+iot query: 2
+beverage query: 3
+work list management: 2
+geography query: 46
+alarm_set_query: 6
+event scheduling: 18
+set calendar reminder: 2
+calendar reminder: 1
+food delivery request: 2
+event deletion request: 24
+iot light control: 2
+new gadgets: 1
+recipe request: 4
+transport query: 1
+fact query: 14
+train ticket booking: 22
+audio settings: 6
+general query: 5
+schedule query: 2
+world time query: 41
+qa actor: 1
+playlist query: 22
+train_booking: 15
+time query: 26
+traffic_query: 22
+entertainment news query: 2
+recommendation query: 2
+taxi service request: 4
+general advice: 6
+events query: 24
+population query: 5
+app control: 1
+find location: 15
+navigation_query: 8
+wine bar recommendation: 3
+resume audiobook: 8
+weather_query: 32
+trash reminder setup: 4
+definition query: 32
+personal information query: 3
+light color change: 20
+ride booking: 20
+restaurant search: 4
+takeaway query: 18
+shopping query: 9
+general conversation: 10
+music appreciation: 8
+social media post: 15
+personal schedule query: 9
+takeaway availability check: 1
+event inquiry: 13
+social suggestion: 2
+music preference query: 4
+light control request: 40
+radio start: 23
+news headlines request: 11
+music suggestion: 2
+hue_light_off_query: 4
+world events query: 8
+email task: 18
+cooking query: 36
+light control: 13
+alarm cancel: 7
+business hours query: 2
+geology query: 4
+birthday reminder: 18
+email sending request: 8
+calendar management: 3
+takeaway order: 7
+music control: 65
+crime statistics query: 2
+food order: 13
+to-do list task: 2
+calendar edit: 22
+shopping list query: 16
+miscellaneous task: 3
+greeting: 4
+information query: 3
+section navigation: 2
+calendar query: 7
+social media status update: 1
+location_query: 7
+party preparation: 1
+pizza order: 4
+iot_enable: 7
+local_events_query: 14
+new label: 3
+music mute: 9
+food delivery query: 3
+meeting reminder: 38
+general knowledge query: 22
+audio entertainment: 3
+weather forecast query: 11
+church service notification: 1
+game query: 8
+medicine reminder: 1
+cleaning task: 34
+financial query: 1
+time zone query: 3
+food order query: 3
+order status query: 1
+current prime minister query: 3
+delivery query: 1
+alarm remove: 10
+reminder scheduling: 3
+Total time usage: 2274.8055169582367 seconds

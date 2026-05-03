@@ -1,0 +1,13 @@
+use_large:  False
+Use dataset ./dataset/arxiv_fine\small.jsonl
+Length of dataset: 3674
+Total cluster num: 93
+JSON file './generated_labels\arxiv_fine_small_true_labels.json' written.
+['astro-ph.CO', 'astro-ph.EP', 'astro-ph.GA', 'astro-ph.HE', 'astro-ph.IM', 'astro-ph.SR', 'cond-mat.dis-nn', 'cond-mat.mes-hall', 'cond-mat.mtrl-sci', 'cond-mat.other', 'cond-mat.quant-gas', 'cond-mat.soft', 'cond-mat.stat-mech', 'cond-mat.str-el', 'cond-mat.supr-con', 'cs.AI', 'cs.CL', 'cs.CR', 'cs.CV', 'cs.CY', 'cs.DC', 'cs.DS', 'cs.GT', 'cs.HC', 'cs.IR', 'cs.IT', 'cs.LG', 'cs.LO', 'cs.NI', 'cs.RO', 'cs.SE', 'cs.SI', 'econ.EM', 'econ.GN', 'econ.TH', 'eess.AS', 'eess.IV', 'eess.SP', 'eess.SY', 'math.AC', 'math.AG', 'math.AP', 'math.AT', 'math.CA', 'math.CO', 'math.CV', 'math.DG', 'math.DS', 'math.FA', 'math.GR', 'math.GT', 'math.LO', 'math.NA', 'math.NT', 'math.OA', 'math.OC', 'math.PR', 'math.QA', 'math.RA', 'math.RT', 'math.ST', 'physics.acc-ph', 'physics.app-ph', 'physics.atom-ph', 'physics.bio-ph', 'physics.chem-ph', 'physics.comp-ph', 'physics.flu-dyn', 'physics.gen-ph', 'physics.ins-det', 'physics.optics', 'physics.plasm-ph', 'physics.soc-ph', 'q-bio.BM', 'q-bio.CB', 'q-bio.GN', 'q-bio.MN', 'q-bio.NC', 'q-bio.PE', 'q-bio.QM', 'q-bio.TO', 'q-fin.CP', 'q-fin.GN', 'q-fin.MF', 'q-fin.PM', 'q-fin.PR', 'q-fin.RM', 'q-fin.ST', 'q-fin.TR', 'stat.AP', 'stat.CO', 'stat.ME', 'stat.ML']
+Total labels given by LLM: 42
+['physics.acc-ph', 'q-fin.GN', 'physics.app-ph', 'cond-mat.other', 'q-fin.PR', 'cs.SI', 'cs.RO', 'stat.AP', 'q-fin.MF', 'cs.AI', 'eess.SY', 'math.NA', 'physics.optics', 'cs.CV', 'cs.DC', 'q-bio.BM', 'cond-mat.soft', 'math.NT', 'astro-ph.SR', 'astro-ph.CO', 'cs.HC', 'astro-ph.IM', 'cs.GT', 'astro-ph', 'astro-ph.GA', 'astro-ph.HE', 'cs.CR', 'cs.IR', 'astro-ph.RR', 'econ.GN', 'cs.VI', 'cs.IT', 'astro-ph.EP', 'econ.ag-ei', 'physics.atom-ph', 'econ', 'cs.CL', 'physics.control', 'physics.chem-ph', 'physics.BM', 'econ.EY', 'cs.Networks']
+JSON file './generated_labels\arxiv_fine_small_llm_generated_labels_before_merge.json' written.
+JSON file './generated_labels\arxiv_fine_small_llm_generated_labels_after_merge.json' written.
+Label number after merge: 33
+['physics', 'qfin gn', 'qfin pr', 'qfin mf', 'condmat other', 'cs si', 'cs ro', 'stat ap', 'cs ai', 'eess sy', 'math na', 'physics optics', 'cs cv', 'cs dc', 'qbio bm', 'condmat soft', 'math nt', 'astro ph', 'cs hc', 'cs gt', 'cs cr', 'cs ir', 'cs vi', 'cs it', 'cs cl', 'cs networks', 'econ', 'econ ag ei', 'physics atom ph', 'physics control', 'physics chem ph', 'physics bm', 'econ ey']
+Total time usage: 322.6390714645386 seconds

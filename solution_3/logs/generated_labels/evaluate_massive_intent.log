@@ -1,0 +1,10 @@
+Namespace(data_path='./dataset/', data='massive_intent', use_large=False, predict_file_path='./generated_labels/', predict_file='massive_intent_small_hierarchical_classification.json')
+total label length: 2974
+2974
+Ground truth labels: 
+Length of labels: 2974
+Number of Clusters: 59
+Predict labels: 
+Length of labels: 2974
+Number of Clusters: 375
+{'ACC': np.float64(0.3742434431741762), 'ARI': 0.2499564961901948, 'NMI': 0.6910576758688476, 'p_ACC': np.float64(0.000999000999000999), 'p_ARI': np.float64(0.000999000999000999), 'p_NMI': np.float64(0.000999000999000999)}

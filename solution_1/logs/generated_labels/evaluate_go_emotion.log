@@ -1,0 +1,10 @@
+Namespace(data_path='./dataset/', data='go_emotion', use_large=False, predict_file_path='./generated_labels/', predict_file='go_emotion_small_find_labels.json')
+total label length: 5940
+5940
+Ground truth labels: 
+Length of labels: 5940
+Number of Clusters: 27
+Predict labels: 
+Length of labels: 5940
+Number of Clusters: 231
+{'ACC': np.float64(0.18703703703703703), 'ARI': 0.08182345589682143, 'NMI': 0.2791103746439252, 'p_ACC': np.float64(0.000999000999000999), 'p_ARI': np.float64(0.000999000999000999), 'p_NMI': np.float64(0.000999000999000999)}

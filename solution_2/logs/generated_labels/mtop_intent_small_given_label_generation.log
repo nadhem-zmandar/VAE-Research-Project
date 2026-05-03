@@ -1,0 +1,106 @@
+False
+Use dataset ./dataset/mtop_intent\small.jsonl
+Length of dataset: 4386
+Length of label list: 81
+Total sample number: 400	JSON file './generated_labels\mtop_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 800	JSON file './generated_labels\mtop_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 1200	JSON file './generated_labels\mtop_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 1600	JSON file './generated_labels\mtop_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 2000	JSON file './generated_labels\mtop_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 2400	JSON file './generated_labels\mtop_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 2800	JSON file './generated_labels\mtop_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 3200	JSON file './generated_labels\mtop_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 3600	JSON file './generated_labels\mtop_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 4000	JSON file './generated_labels\mtop_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+JSON file './generated_labels\mtop_intent_small_find_labels.json' written.
+Classification result:
+Unsuccessful: 85
+get track info music: 117
+scrap my alarm: 7
+update method call: 75
+bake chicken recipe: 63
+show next two alarms: 22
+get contact method: 45
+create alarm: 302
+stuff to do this week: 83
+new label 2: 1
+get stories news: 351
+get food nutrition info: 102
+things to do in columbus next month: 37
+resume music: 42
+update status: 61
+send video mckinley: 16
+roast a chicken: 9
+find recipe: 137
+what alarm last set: 21
+erase all set timers: 26
+call second one: 21
+send to sherell grotizinger: 55
+send izzy via facebook: 41
+pause call: 28
+disable my alarms: 11
+best blueberry muffin recipe: 3
+call contact wife: 84
+get education degree: 31
+update call: 10
+switch off my alarm: 6
+get attendee event: 24
+end call: 50
+chocolate ganache recipe: 2
+add to playlist music: 43
+new label: 4
+get reminder location: 17
+get weather: 477
+leave video recording: 3
+turn on all saved alarms: 9
+blow up chicken white house: 1
+sugar cookie recipes: 7
+dial family: 159
+reset alarms: 19
+create new recipe: 5
+political events friday night: 67
+display messages kid michaela: 23
+how much time elapsed: 59
+get info contact: 253
+show unhidden users: 40
+salad bar ideas: 5
+remove reminders: 93
+where do i know augie from: 45
+read details jeff lords firing: 10
+show next alarm: 32
+delete all reminders spin class september: 2
+anything to do today: 47
+add to call: 23
+fried rice recipe: 4
+play media: 148
+set me available: 19
+take new call: 7
+stop making this sound: 21
+create call: 61
+lasagna without cheese: 4
+find when trump leaves office: 9
+how many minutes until alarm: 92
+delete all reminders today: 11
+delete leave office reminder: 1
+anything interesting in brooklyn tomorrow: 16
+asian duck recipes: 1
+hold on alarm: 5
+i am very busy: 2
+cancel message: 38
+freeze food: 3
+set reminder: 407
+video message: 82
+change work times time zone: 3
+is anyone available: 35
+send to stephanie conrad escobar: 6
+Total time usage: 5721.7043998241425 seconds

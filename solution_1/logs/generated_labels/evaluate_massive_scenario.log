@@ -1,0 +1,10 @@
+Namespace(data_path='./dataset/', data='massive_scenario', use_large=False, predict_file_path='./generated_labels/', predict_file='massive_scenario_small_find_labels.json')
+total label length: 2974
+2974
+Ground truth labels: 
+Length of labels: 2974
+Number of Clusters: 18
+Predict labels: 
+Length of labels: 2974
+Number of Clusters: 316
+{'ACC': np.float64(0.3093476798924008), 'ARI': 0.22499349203739782, 'NMI': 0.616509147194977, 'p_ACC': np.float64(0.000999000999000999), 'p_ARI': np.float64(0.000999000999000999), 'p_NMI': np.float64(0.000999000999000999)}

@@ -1,0 +1,337 @@
+False
+Use dataset ./dataset/massive_scenario\small.jsonl
+Length of dataset: 2974
+Length of label list: 527
+Total sample number: 400	JSON file './generated_labels\massive_scenario_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 800	JSON file './generated_labels\massive_scenario_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 1200	JSON file './generated_labels\massive_scenario_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 1600	JSON file './generated_labels\massive_scenario_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 2000	JSON file './generated_labels\massive_scenario_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 2400	JSON file './generated_labels\massive_scenario_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 2800	JSON file './generated_labels\massive_scenario_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+JSON file './generated_labels\massive_scenario_small_find_labels.json' written.
+Classification result:
+Unsuccessful: 57
+to-do list: 62
+alarm_set: 51
+contact: 46
+building_size_inquiry: 3
+weather_inquiry: 91
+news_inquiry: 44
+personal question: 26
+calendar_schedule: 21
+daily_schedule: 7
+chit chat: 5
+new_schedule: 1
+order/purchase: 1
+sound_control: 6
+brightness: 4
+train ticket: 2
+general_inquiry: 6
+math: 31
+email_service: 1
+percentage: 3
+social_media_status: 12
+train ticket booking: 33
+grocery list: 27
+game description: 1
+podcast management: 1
+travel: 5
+cars: 1
+unknown: 27
+location_inquiry: 32
+color: 3
+social greeting: 3
+food_delivery: 12
+livestream: 1
+technology: 5
+volume control: 25
+sports: 13
+appliance_control: 16
+activities: 3
+search: 7
+recipe: 35
+news articles: 5
+geography_query: 37
+new_activity: 1
+diary: 1
+entertainment: 3
+vehicle control: 2
+distance_query: 5
+meeting_scheduling: 28
+smart home device control: 31
+lighting_preference: 1
+shopping: 6
+historical figure: 22
+recipes: 1
+train_schedule: 15
+shopping list: 3
+check_email: 9
+political news: 1
+architecture: 2
+personality: 1
+time_zone: 17
+program settings: 3
+color_change: 11
+age: 2
+expenses: 2
+smart home: 1
+movies: 2
+play_game: 5
+coffee: 14
+product information: 2
+currency exchange: 2
+sports_news: 3
+dinner_preparation: 1
+inbox_management: 4
+legal information: 1
+tweet: 23
+calendar_event_creation: 33
+emotions: 2
+music_playlist: 52
+book series playback: 1
+alarm_management: 1
+schedule_retrieval: 1
+rating: 2
+furniture: 5
+social_media_interaction: 34
+recommendation: 1
+email_plans_inquiry: 1
+public transport: 3
+stock market: 2
+personal_info: 2
+item removal: 5
+game: 22
+movie_search: 2
+audio control: 3
+grocery list management: 6
+diet_management: 3
+calendar_interaction: 1
+tv show: 1
+personal_greeting: 1
+food: 10
+calendar_management: 15
+event_information_inquiry: 23
+personal: 13
+event_scheduling: 2
+house_information: 1
+fact_checking: 2
+podcast_recommendation: 2
+negative sentiment: 1
+politics_alert: 1
+food recipe: 5
+gaming: 1
+alarm_control: 10
+meeting_management: 1
+calendar events: 1
+music_control: 86
+joke: 20
+date: 2
+cooking: 19
+beverage_request: 13
+transport: 2
+meeting_attendance: 1
+updates: 1
+developer_inquiry: 1
+food_order: 25
+radio station: 8
+email_interaction: 156
+stop_action: 3
+temperature_check: 3
+meeting_schedule: 20
+emotion tracking: 1
+play_radio_show: 1
+definition_inquiry: 2
+email_sending: 1
+email_check: 26
+stock_price: 1
+notification: 2
+social_notifications: 1
+customer service complaint: 4
+speaker control: 3
+coffee_machine: 6
+definition: 2
+baking: 2
+product description: 3
+music_genre: 10
+time_query: 13
+delivery: 1
+weather forecast: 3
+dining_preference: 1
+geography: 4
+knowledge_question: 10
+alert: 1
+news: 37
+theater location inquiry: 3
+books: 1
+email_notification: 3
+time-related: 3
+train schedules: 5
+book_info: 6
+task management: 3
+brightness_adjustment: 16
+dinner: 6
+podcast_playback: 24
+task: 1
+photo: 1
+message_reply: 5
+location: 1
+dental_care: 1
+information_search: 2
+date_inquiry: 20
+takeout: 4
+food delivery: 1
+social_media: 6
+weather: 2
+music_player: 5
+appointment: 12
+company_performance: 1
+lighting_control: 83
+cost of living: 1
+food festival: 1
+gender_preference: 1
+social_media_trends: 3
+schedule_management: 12
+meeting: 18
+recipe_related: 1
+takeaway: 4
+gadgets: 1
+time_inquiry: 19
+comparison: 2
+environment: 1
+birthday_inquiry: 5
+email_management: 3
+location_direction: 1
+taxi booking: 7
+movie: 16
+radio: 46
+ride-sharing: 9
+cab_booking: 4
+time_difference_query: 8
+grocery: 1
+music_playback: 7
+location_search: 6
+audiobook: 23
+photography: 1
+alarm_setting: 2
+calendar_update: 1
+celebrity location: 1
+traffic: 19
+fruit_color: 2
+alarm: 25
+feedback: 1
+reminder_remove: 2
+events: 1
+calendar/reminder: 1
+cooking tutorial: 1
+definition inquiry: 22
+health: 4
+list: 25
+investigation request: 1
+mute_action: 8
+order: 1
+music_preference: 1
+lighting: 5
+review_submission: 1
+historical_inquiry: 2
+order_status: 5
+fashion: 5
+news_check: 4
+restaurant: 4
+financial: 3
+calendar_event: 26
+alarm_removal: 8
+literature: 3
+contact_search: 1
+email: 10
+geology_inquiry: 4
+movie_recommendation: 8
+artist bio: 4
+wedding_venue_inquiry: 1
+time: 24
+ride: 1
+celebrity_info: 9
+weather_notifications: 1
+gas_purchase: 1
+navigation: 1
+media_playback: 1
+cleaning: 8
+safety: 1
+event: 30
+physics: 3
+video games: 1
+podcast: 27
+unrelated: 27
+dining_event_cancellation: 1
+time_schedule: 1
+animal: 5
+schedule_reminder: 1
+stock_price_inquiry: 22
+sounds: 3
+first impressions: 1
+marital status: 1
+birthday_reminder: 1
+reminder: 107
+population_forecast: 4
+date repetition: 2
+lottery_numbers: 1
+personal_event: 2
+ticket_booking: 5
+book_summary: 1
+personalized recommendations: 1
+politics: 14
+music_information: 1
+humor: 1
+reading recommendation: 1
+location inquiry: 13
+audio playback control: 1
+car_maintenance: 2
+contact_information: 2
+news_politics: 1
+weather_forecast: 49
+birthday_notification: 3
+love: 2
+delete_action: 2
+stock_information: 4
+personal_query: 2
+song authorship inquiry: 7
+restaurant search: 4
+birthday: 5
+description: 6
+mathematics: 1
+personal analytics: 1
+transportation: 1
+currency_exchange_rate: 22
+planned_events: 1
+botany: 1
+music: 94
+timezones: 1
+change_station: 2
+contact_management: 3
+busy_notification: 1
+company: 1
+celebrity hangouts: 1
+schedule: 3
+election prediction: 4
+complaint: 6
+product_related: 1
+anniversary wishes: 2
+current events: 4
+customer service: 1
+freedom_inquiry: 1
+playlist: 2
+play_chess: 1
+feature: 1
+list_management: 2
+app control: 1
+game_request: 6
+work_ethic: 1
+local pubs recommendation: 2
+Total time usage: 2355.8320257663727 seconds

@@ -1,0 +1,209 @@
+False
+Use dataset ./dataset/mtop_intent\small.jsonl
+Length of dataset: 4386
+Length of label list: 228
+Total sample number: 400	JSON file './generated_labels\mtop_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 800	JSON file './generated_labels\mtop_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 1200	JSON file './generated_labels\mtop_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 1600	JSON file './generated_labels\mtop_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 2000	JSON file './generated_labels\mtop_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 2400	JSON file './generated_labels\mtop_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 2800	JSON file './generated_labels\mtop_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 3200	JSON file './generated_labels\mtop_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 3600	JSON file './generated_labels\mtop_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 4000	JSON file './generated_labels\mtop_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+JSON file './generated_labels\mtop_intent_small_find_labels.json' written.
+Classification result:
+Unsuccessful: 15
+find vegan recipe: 2
+add reminder: 1
+get video messages contact: 13
+get workout session info: 3
+set reminder time: 20
+get weather info: 278
+stop music: 17
+get education info: 40
+set reminder for ticket purchase: 10
+get location information: 67
+weekend activities: 43
+get sports news: 33
+get track info music: 43
+shuffle music: 12
+get forecast: 62
+send delay message: 1
+send video message: 67
+set daily alarm: 8
+stop video: 3
+cancel reminder: 28
+play music: 49
+get birthdate: 8
+legal news: 11
+get recipes: 28
+get info traffic: 3
+get temperature info: 59
+get cooking info: 2
+get info: 5
+battery charging reminder: 1
+get information: 4
+get birthday count: 7
+repeat all off music: 6
+music play request: 141
+get local news: 22
+get reminder location: 5
+set alarm: 181
+get event details: 63
+video call: 27
+create timer: 88
+unknown: 59
+make call: 116
+check availability: 4
+create repeating alarm: 3
+get nutrition info: 19
+play music on a platform: 13
+receiver call: 1
+current affairs query: 2
+get reminder: 53
+check remaining time for alarm: 20
+get weather forecast: 27
+record video: 13
+unknown_label: 4
+get contact info: 38
+repeat music: 21
+weather query: 2
+get contact information: 5
+find friends: 89
+update call: 2
+get location of birth: 2
+cancel alarm: 2
+get sunrise time: 3
+get upcoming weather forecast: 24
+add to playlist: 8
+stop call: 4
+new_food_recipe: 39
+update reminder: 27
+get event recommendations: 13
+set recurring alarms: 64
+pause media: 5
+check timer: 75
+listen to music album: 14
+view reminders: 22
+list contacts: 1
+play video: 1
+set timer: 28
+check weather forecast: 1
+answer incoming call: 9
+start call: 9
+recipe inquiry: 112
+make phone call: 83
+latest news update: 2
+get event location: 8
+get recipe info: 15
+get info event: 1
+create new call: 9
+set reminder: 325
+play song: 17
+get reminder details: 34
+song release date: 3
+friends RSVP status: 6
+message contact: 65
+repeat alarm: 5
+get news: 138
+employment inquiry: 55
+send message: 59
+set bedtime reminder: 1
+get event information: 1
+get event attendee: 2
+message retrieval: 25
+notify meeting: 1
+create reminder: 4
+find connections in city: 11
+delete reminders: 26
+get news on celebrities: 4
+check schedule: 4
+delete reminder: 48
+get cooking information: 36
+hold call: 6
+new_city_information: 1
+read news: 9
+new_communication_task: 1
+check temperature: 3
+get top news stories: 30
+inform arrival time to family member: 6
+get info employment: 7
+get education degree: 5
+set reminder for payment: 7
+make ice cream: 3
+view video messages: 1
+get news related to specific location: 5
+get social media account info: 2
+get recipe: 18
+get weather info location: 15
+get contact location: 10
+cancel all alarms: 18
+add to call: 31
+get news headlines: 45
+get news update: 22
+get events city: 6
+get upcoming events: 24
+cancel appointment: 1
+get birthday info: 6
+skip media: 10
+cancel message: 2
+call contact: 106
+cancel call: 6
+new_news_request: 1
+update reminder time: 6
+delete alarm: 5
+get contact status: 3
+check online status: 48
+message family member about fundraiser: 13
+resume music: 1
+get latest news: 4
+update method call: 1
+get local news update: 6
+find friends list: 3
+get available contacts: 7
+start group call: 13
+locate address: 3
+answer specific calls: 11
+send message contact: 2
+end call: 25
+get upcoming birthdays: 26
+get messages contact: 23
+show reminders: 2
+get news updates: 17
+get music: 7
+update alarm: 19
+set reminder for sports practice: 9
+get info music: 2
+recipe query: 50
+get internancial news update: 2
+get profession info: 10
+update status: 9
+check weather: 13
+share weather forecast: 1
+set reminder for appointment: 19
+send text message: 12
+create alarm: 11
+get recipe ingredients: 25
+get info news: 1
+clear reminder: 2
+check call history: 8
+reply to message: 4
+sauté music: 1
+get call: 18
+get entertainment info: 2
+start video chat: 16
+update timer: 79
+snooze alarm: 22
+Total time usage: 3424.4637615680695 seconds

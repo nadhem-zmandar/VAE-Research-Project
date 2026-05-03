@@ -1,0 +1,69 @@
+{
+  "arxiv_fine": [
+    "physics.acc-ph",
+    "q-fin.GN",
+    "physics.app-ph",
+    "cond-mat.other",
+    "q-fin.PR",
+    "cs.SI",
+    "cs.RO",
+    "stat.AP",
+    "q-fin.MF",
+    "cs.AI",
+    "eess.SY",
+    "math.NA",
+    "physics.optics",
+    "cs.CV",
+    "cs.DC",
+    "q-bio.BM",
+    "cond-mat.soft",
+    "math.NT"
+  ],
+  "go_emotion": [
+    "grief",
+    "anger",
+    "optimism",
+    "curiosity",
+    "fear"
+  ],
+  "massive_intent": [
+    "takeaway query",
+    "iot cleaning",
+    "recommendation events",
+    "qa maths",
+    "news query",
+    "takeaway order",
+    "qa stock",
+    "alarm remove",
+    "iot hue lightoff",
+    "takeaway order",
+    "qa definition"
+  ],
+  "massive_scenario": [
+    "datetime",
+    "recommendation",
+    "iot"
+  ],
+  "mtop_intent": [
+    "update call",
+    "get weather",
+    "update method call",
+    "play media",
+    "add to playlist music",
+    "create alarm",
+    "repeat all off music",
+    "create call",
+    "get track info music",
+    "cancel message",
+    "end call",
+    "get education degree",
+    "update method call",
+    "get attendee event",
+    "get weather",
+    "get info contact",
+    "get contact method",
+    "resume music",
+    "get stories news",
+    "get reminder location"
+  ]
+}

@@ -1,0 +1,10 @@
+Namespace(data_path='./dataset/', data='arxiv_fine', use_large=False, predict_file_path='./generated_labels/', predict_file='arxiv_fine_small_find_labels.json')
+total label length: 3674
+3674
+Ground truth labels: 
+Length of labels: 3674
+Number of Clusters: 93
+Predict labels: 
+Length of labels: 3674
+Number of Clusters: 106
+{'ACC': np.float64(0.2512248230811105), 'ARI': 0.13369377701541124, 'NMI': 0.50475653702772, 'p_ACC': np.float64(0.000999000999000999), 'p_ARI': np.float64(0.000999000999000999), 'p_NMI': np.float64(0.000999000999000999)}

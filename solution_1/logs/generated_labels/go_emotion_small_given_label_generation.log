@@ -1,0 +1,266 @@
+False
+Use dataset ./dataset/go_emotion\small.jsonl
+Length of dataset: 5940
+Length of label list: 239
+Total sample number: 400	JSON file './generated_labels\go_emotion_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 800	JSON file './generated_labels\go_emotion_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 1200	JSON file './generated_labels\go_emotion_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 1600	JSON file './generated_labels\go_emotion_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 2000	JSON file './generated_labels\go_emotion_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 2400	JSON file './generated_labels\go_emotion_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 2800	JSON file './generated_labels\go_emotion_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 3200	JSON file './generated_labels\go_emotion_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 3600	JSON file './generated_labels\go_emotion_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 4000	JSON file './generated_labels\go_emotion_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 4400	JSON file './generated_labels\go_emotion_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 4800	JSON file './generated_labels\go_emotion_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 5200	JSON file './generated_labels\go_emotion_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 5600	JSON file './generated_labels\go_emotion_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+JSON file './generated_labels\go_emotion_small_find_labels.json' written.
+Classification result:
+Unsuccessful: 312
+substance comparison: 20
+self-blame: 28
+inquiry: 78
+excitement about Perth: 3
+uncertainty: 73
+hope: 127
+skepticism: 86
+sexual behavior: 47
+empathy: 16
+speculation: 12
+pleasure: 3
+protectiveness: 6
+wealth: 15
+propaganda analysis: 16
+fear of impending doom: 34
+celebration: 42
+resilience: 6
+cybersquatting: 2
+achievement: 34
+positivity: 6
+fake: 21
+kindness: 9
+observation: 134
+decision to leave: 34
+enthusiasm: 7
+irritation: 15
+laughter: 206
+violence: 41
+excitement: 144
+argument: 28
+grief: 20
+social media behavior: 11
+reflection: 7
+recommendation: 20
+sympathy: 34
+knowing: 24
+unease: 2
+optimism: 7
+question: 91
+depression: 14
+historical_reference: 15
+exposure: 1
+opinion disagreement: 47
+mistaken identity: 28
+detachment: 3
+introspective: 4
+rejoice: 5
+reality check: 6
+love: 140
+intrigue: 13
+time: 5
+enjoyment: 82
+comparison: 66
+safety: 8
+new_feeling: 2
+unknown: 23
+shock: 7
+sightseeing in Beijing: 12
+preference: 5
+divorce: 11
+craving: 10
+appreciation of a good save: 8
+emotions: 4
+lack of awareness of a website: 11
+interest_in_picture: 6
+congratulations: 23
+LGBTQ+: 14
+referee bias: 7
+environmental concern: 7
+relationship: 40
+aggressive_outburst: 13
+health advice: 35
+humor: 107
+religion: 17
+entertainment: 41
+animal behavior: 15
+request for help: 42
+embarrassment: 13
+workplace dynamics: 14
+contempt: 1
+defeat: 11
+mechanical troubleshooting: 16
+illogical behavior: 2
+mockery: 235
+grateful: 84
+debate: 2
+self-pity: 24
+philosophy: 7
+virginity discussion: 4
+positive_feedback: 25
+old age concerns: 5
+assertiveness: 9
+supportiveness: 3
+clarification: 6
+impact on health: 4
+job concerns: 10
+disappointment: 94
+downvoting: 21
+inability to see: 18
+regret: 10
+expectation: 8
+suggestion for a threading service: 4
+dislike: 71
+video games: 42
+global support: 1
+encouragement: 20
+worry: 13
+interest: 47
+fandom: 22
+fear: 81
+surprise: 62
+leadership: 4
+misunderstanding: 67
+disagreement: 43
+critique: 213
+contentment: 3
+apology: 18
+appreciation: 252
+imagination: 1
+gender equality: 6
+disgust: 107
+sarcastic: 37
+compliment: 100
+unknown_label_1: 2
+law: 8
+validation: 1
+agreement: 36
+decline: 3
+disregard: 20
+self-doubt: 7
+legendary: 4
+amazement: 32
+anxiety: 10
+discussion: 3
+injustice: 6
+joy: 13
+excitement about reading a light novel: 2
+warm_water_recommendation: 1
+technology: 15
+insecurities: 6
+sarcasm: 32
+social interaction: 11
+jealousy: 11
+insult: 16
+satisfaction: 4
+defensiveness: 2
+medical: 12
+sports: 30
+gender debates: 18
+self-satisfaction: 26
+auto_reply: 1
+party planning: 3
+confusion: 44
+politics: 3
+sadness: 42
+warm_colors_preference: 2
+food enjoyment: 35
+neutral: 19
+ethics: 2
+fatigue and need for a nap: 7
+support: 88
+gender bias: 7
+missing: 7
+puzzlement: 2
+disbelief: 105
+competition: 8
+criticism: 84
+dismay: 1
+argumentative: 4
+culinary: 5
+love expression: 2
+communication: 2
+small town pride: 1
+deception: 7
+family: 11
+curiosity: 14
+abuse: 22
+annoyance: 18
+innovation: 1
+sensory enjoyment: 11
+friendly advice: 3
+approval: 17
+affection: 45
+sorrow: 2
+happiness: 6
+authority fear: 3
+skepticism about Wifi signals: 2
+anger: 34
+frustration: 19
+insignificance: 1
+compassion: 4
+mental health: 17
+gratitude: 2
+relief: 25
+admiration: 34
+wishing: 6
+amusement: 20
+criticism of outfit choice: 11
+conflict: 9
+indifference: 4
+doubt: 6
+peace advocacy: 3
+validation seeking: 1
+anticipation: 5
+impatience: 1
+loneliness: 12
+technology annoyance: 5
+distrust: 3
+cryptocurrency: 5
+disdain: 1
+familial resemblance: 4
+appreciation and validation: 3
+stress relief: 3
+video content: 3
+seeking information: 2
+improvement: 2
+therapy: 2
+envy: 3
+fragility: 1
+defiance: 5
+advice: 8
+death: 4
+attraction: 6
+location: 1
+nostalgia: 32
+antijokes: 3
+disapproval: 77
+random behavior: 5
+concern: 10
+financial hardship: 13
+Total time usage: 4524.20145201683 seconds

@@ -1,0 +1,13 @@
+use_large:  False
+Use dataset ./dataset/go_emotion\small.jsonl
+Length of dataset: 5940
+Total cluster num: 27
+JSON file './generated_labels\go_emotion_small_true_labels.json' written.
+['admiration', 'amusement', 'anger', 'annoyance', 'approval', 'caring', 'confusion', 'curiosity', 'desire', 'disappointment', 'disapproval', 'disgust', 'embarrassment', 'excitement', 'fear', 'gratitude', 'grief', 'joy', 'love', 'nervousness', 'optimism', 'pride', 'realization', 'relief', 'remorse', 'sadness', 'surprise']
+Total labels given by LLM: 6
+['grief', 'anger', 'optimism', 'curiosity', 'fear', 'disgust']
+JSON file './generated_labels\go_emotion_small_llm_generated_labels_before_merge.json' written.
+JSON file './generated_labels\go_emotion_small_llm_generated_labels_after_merge.json' written.
+Label number after merge: 6
+['grief', 'anger', 'optimism', 'curiosity', 'fear', 'disgust']
+Total time usage: 425.0569145679474 seconds
