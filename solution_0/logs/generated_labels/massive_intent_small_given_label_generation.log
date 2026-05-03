@@ -1,0 +1,136 @@
+False
+Use dataset ./dataset/massive_intent\small.jsonl
+Length of dataset: 2974
+Length of label list: 126
+Total sample number: 400	JSON file './generated_labels\massive_intent_small_find_labels.json' written.
+Sleeping for 25 seconds to avoid TPM limit...
+Total sample number: 800	JSON file './generated_labels\massive_intent_small_find_labels.json' written.
+Sleeping for 25 seconds to avoid TPM limit...
+Total sample number: 1200	JSON file './generated_labels\massive_intent_small_find_labels.json' written.
+Sleeping for 25 seconds to avoid TPM limit...
+Total sample number: 1600	JSON file './generated_labels\massive_intent_small_find_labels.json' written.
+Sleeping for 25 seconds to avoid TPM limit...
+Total sample number: 2000	JSON file './generated_labels\massive_intent_small_find_labels.json' written.
+Sleeping for 25 seconds to avoid TPM limit...
+Total sample number: 2400	JSON file './generated_labels\massive_intent_small_find_labels.json' written.
+Sleeping for 25 seconds to avoid TPM limit...
+Total sample number: 2800	JSON file './generated_labels\massive_intent_small_find_labels.json' written.
+Sleeping for 25 seconds to avoid TPM limit...
+JSON file './generated_labels\massive_intent_small_find_labels.json' written.
+Classification result:
+Unsuccessful: 14
+personal care: 3
+word definition: 101
+pharmacy location: 1
+birthday party: 2
+finance: 3
+takeaway order: 30
+book recommendation: 10
+smart home: 14
+recipe: 50
+event: 73
+entertainment news: 5
+directions request: 16
+wealth: 2
+playback control: 21
+calendar reminder: 77
+clean news: 13
+activity: 16
+sports information: 16
+recommendation events: 2
+news: 81
+set reminder: 13
+stock: 11
+audiobook: 24
+election information: 7
+navigation: 11
+radio program: 63
+video playback: 4
+personal interests: 5
+fruit: 3
+light control: 127
+search: 16
+stock query: 18
+weather forecast: 132
+clean news query: 1
+purchase order: 9
+traffic: 11
+crime statistics: 2
+event management: 10
+lighting control: 1
+health tips: 4
+meeting: 62
+dislike music: 3
+smartphone description: 6
+funny: 8
+health: 4
+home automation control: 29
+location climate: 9
+personal information: 8
+clothing advice: 18
+taxi booking: 3
+item removal: 29
+traffic report: 9
+time: 99
+movie information: 21
+general question: 73
+well-being: 6
+social media post: 39
+weather: 9
+volume: 20
+social media activity: 26
+beverage order: 20
+task management: 27
+cooking ideas: 34
+contact: 33
+lists: 35
+web: 3
+birthday appreciation message: 13
+personal finance: 7
+transportation service: 7
+ticket purchase: 1
+bad mood: 1
+exchange rate: 41
+home automation: 12
+news update: 12
+transport booking: 30
+alarm: 87
+music playlist: 122
+mute: 15
+personal communication: 47
+celebrity residence: 7
+calendar update: 8
+food delivery: 26
+email: 198
+holiday date: 4
+celebrity: 10
+location recommendation: 46
+restaurant search: 15
+current events: 17
+actor movie: 30
+customer service: 22
+emergency situation: 2
+juicer operation: 2
+game: 29
+rating: 6
+general: 31
+reminder set: 101
+meeting attendee research: 3
+travel: 6
+beauty: 2
+word meaning: 9
+train schedule: 24
+podcast play: 49
+grocery list: 34
+calendar: 49
+joke: 15
+pet services: 2
+appointment: 18
+transport ticket: 20
+music play: 118
+gift shopping: 2
+section navigation: 3
+stock information: 1
+audio volume: 11
+product feedback: 4
+Total time usage: 4218.768550157547 seconds

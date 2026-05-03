@@ -1,0 +1,278 @@
+False
+Use dataset ./dataset/mtop_intent\small.jsonl
+Length of dataset: 4386
+Length of label list: 320
+Total sample number: 400	JSON file './generated_labels\mtop_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 800	JSON file './generated_labels\mtop_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 1200	JSON file './generated_labels\mtop_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 1600	JSON file './generated_labels\mtop_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 2000	JSON file './generated_labels\mtop_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 2400	JSON file './generated_labels\mtop_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 2800	JSON file './generated_labels\mtop_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 3200	JSON file './generated_labels\mtop_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 3600	JSON file './generated_labels\mtop_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+Total sample number: 4000	JSON file './generated_labels\mtop_intent_small_find_labels.json' written.
+Sleeping for 30 seconds to avoid TPM limit...
+JSON file './generated_labels\mtop_intent_small_find_labels.json' written.
+Classification result:
+Unsuccessful: 65
+get call contact: 5
+get_education_time: 24
+search music festivals: 26
+make an alarm: 10
+get stories news: 11
+get recipes: 84
+get local events: 48
+get message: 38
+get event details: 10
+delete alarm: 11
+get nutrition information: 14
+switch call: 25
+get weather: 53
+read reminders and alerts: 9
+update status availability: 5
+set default app: 7
+get entertainment news: 9
+reschedule appointment reminder: 17
+get birthdays: 11
+cancel alarms: 5
+extend timer: 28
+check family details: 1
+show me all articles regarding climate change: 3
+restart timer: 11
+get employment information: 57
+remind to call: 16
+get education time: 23
+get recent news stories: 149
+set alarm: 239
+search person: 7
+get fact: 14
+send message for directions: 3
+stop timer: 9
+get art show info: 4
+get notification: 1
+set reminder meeting: 1
+find sports event: 16
+delete reminders: 12
+TV show inquiry: 3
+get timer: 41
+pause timer: 13
+get weather forecast: 192
+unknown_label: 75
+play track music: 6
+message contact: 17
+resume music: 3
+check weather: 8
+measure song duration: 1
+end call: 23
+set reminder call: 14
+get news headlines: 71
+call contact: 167
+get forecast: 25
+send text: 14
+get availability: 14
+timer inquiry: 33
+get music track: 11
+stop repeat music: 7
+search for events: 17
+get employer: 11
+unknown: 3
+new_music_task: 1
+get friends list: 7
+show all reminders: 20
+get person's friends: 39
+get event location: 7
+ignore call: 10
+set reminder alarm: 11
+sunset time: 2
+baking temperature inquiry: 63
+make reminder for work event: 11
+start video call: 23
+make phone call: 25
+remind to visit attorney: 1
+set dinner plans: 1
+resume timer: 6
+add participant to call: 44
+get employer address: 4
+duplicating alarm: 1
+start call with stepfather: 22
+get latest headlines: 2
+update reminder: 30
+update alarm: 5
+get alarms: 3
+send message: 120
+set music service: 1
+set status online: 4
+timer duration: 3
+get age: 9
+add reminder: 7
+get celebrity news: 8
+start call: 14
+create alarm: 4
+show alarms: 14
+set status: 7
+get event start time: 7
+find workplace: 4
+create call: 4
+set reminder location: 1
+check temperature: 2
+ignore_call: 5
+combine call participants: 3
+set multiple alarms: 11
+send video message: 35
+create timer: 29
+get reminders: 45
+unavailable status: 3
+check wind forecast: 7
+subtract time: 13
+update all alarms: 2
+new_recipe: 6
+repeat timer: 1
+show contacts: 1
+family birthday query: 20
+repeat song: 11
+get location: 35
+set timer: 48
+get climate: 2
+get time remaining: 9
+get available time: 1
+no call Daniel Nguyen: 5
+adjust timer: 1
+create music playlist: 7
+schedule alarm: 1
+check missed calls: 7
+get music genre: 7
+get recipe: 25
+get celebrity death: 2
+set bedtime alarm: 1
+set party reminder: 2
+set recurring alarm: 13
+get events in location: 23
+get birthday info: 1
+delete timer: 6
+get food information: 3
+share event: 1
+get events: 7
+play radio station: 9
+send birthday message: 3
+respond to email: 4
+delete reminder call: 3
+dial contact group: 23
+update reminder location: 1
+set default provider: 4
+get friends location: 15
+set workout timer: 5
+read news headlines: 6
+get turkey cooking time: 7
+check weather forecast: 3
+get event information: 5
+get humidity: 3
+read details: 3
+recipe inquiry: 98
+play music playlist: 7
+get weather in Scotland: 3
+get entertainment schedule: 11
+identify speaker: 3
+get cooking time information: 2
+snooze alarm: 18
+update timer: 19
+display messages: 1
+repeat all off music: 3
+set exercise alarm: 2
+set reminder: 260
+get low temperature: 3
+add contact to call: 3
+check messages: 4
+get online contacts: 5
+reschedule house reminders: 2
+get sports games: 6
+explore activities: 18
+delete_alarm: 2
+online status check: 15
+check work history: 4
+shuffle music: 13
+cancel timer: 4
+cancel reminders: 10
+get temperature: 11
+cooking inquiry: 7
+get online status: 9
+get employment time: 3
+get employees: 10
+get radio station: 8
+get temperature outside: 2
+get music: 14
+ignore artist music: 3
+get call history: 19
+reset alarm: 7
+get sunrise: 2
+travel recommendations: 1
+add time to timer: 15
+send text message: 1
+delete reminder alarm: 2
+play news: 1
+get family information: 3
+call William Mclean Ochoa: 9
+record video message: 56
+end video call: 5
+cancel reminder: 12
+verify reminders: 1
+pause call: 1
+find news: 2
+get education years: 2
+get temperature information: 61
+identify song: 37
+check online status: 4
+turn on alarms: 4
+find recipes: 5
+make a call: 54
+play music: 142
+mode setting: 1
+video call: 19
+set available: 7
+check availability: 1
+repeat alarm: 8
+repeat track: 5
+get employee information: 6
+show past events: 3
+get artist and album: 14
+switch calls: 1
+list upcoming events: 2
+set default music application: 2
+pause music: 4
+get messages: 2
+audio call: 3
+get sunset time: 9
+update reminder message: 1
+set wake up time: 3
+set reminder for Melanie to call her aunt: 14
+countdown: 4
+delete all alarms: 15
+schedule reminder: 2
+read messages: 5
+calorie inquiry: 32
+get person information: 39
+get rain forecast: 43
+set active: 2
+get education degree: 3
+get weather information: 56
+skip track music: 14
+get latest news: 24
+get contact: 14
+get measurements: 2
+remind appointment: 14
+show reminders: 5
+remind task: 45
+repeat playlist music: 1
+get news: 24
+get news stories: 14
+get contact info: 4
+Total time usage: 3302.9036705493927 seconds

@@ -1,0 +1,9 @@
+total label length: 3674
+2401
+Ground truth labels: 
+Length of labels: 2401
+Number of Clusters: 61
+Predict labels: 
+Length of labels: 2401
+Number of Clusters: 55
+{'ACC': np.float64(0.27946688879633486), 'ARI': 0.1519559042294967, 'NMI': 0.49160079982042193, 'p_ACC': np.float64(0.000999000999000999), 'p_ARI': np.float64(0.000999000999000999), 'p_NMI': np.float64(0.000999000999000999)}
